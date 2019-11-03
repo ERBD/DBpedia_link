@@ -1,0 +1,960 @@
+1  ['2', ' 0.94', ' A computer microscope', ' zooms in', ' for a look at the most complex object in mathematics', 1, {'microscope': 'http://dbpedia.org/resource/Microscope'}, 1, {'mathematics': 'http://dbpedia.org/resource/Mathematics'}]
+
+7  ['8', ' 0.88', ' A food thermometer', ' is', ' a good tool to have in your kitchen', 1, {'thermometer': 'http://dbpedia.org/resource/Thermometer'}, 0, {}]
+
+8  ['9', ' 0.94', ' lava', ' hardens', ' into rock', ' After being released from the magma chamber and cooling', 1, {'lava': 'http://dbpedia.org/resource/Lava'}, 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}]
+
+9  ['10', ' 0.90', ' A generator', ' converts', ' mechanical energy to electric energy', 0, {}, 1, {'mechanical energy': 'http://dbpedia.org/resource/Mechanical_energy'}]
+
+10  ['10', ' 0.90', ' a motor', ' converts', ' electric energy to mechanical energy', 0, {}, 1, {'mechanical energy': 'http://dbpedia.org/resource/Mechanical_energy'}]
+
+11  ['11', ' 0.93', ' A glacier', ' is', ' a large body of ice and snow', 0, {}, 2, {'ice': 'http://dbpedia.org/resource/Ice', 'snow': 'http://dbpedia.org/resource/Snow'}]
+
+12  ['12', ' 0.94', ' A good supply of iron and zinc', ' is needed', ' in the diet to keep the nails strong', 1, {'zinc': 'http://dbpedia.org/resource/Zinc'}, 0, {}]
+
+13  ['13', ' 0.94', ' Agriculture and aquaculture', ' are', ' dependent upon parasitologists to assist in providing plant and animal food for an increasing human population', 1, {'aquaculture': 'http://dbpedia.org/resource/Aquaculture'}, 0, {}]
+
+14  ['13', ' 0.93', ' Agriculture and aquaculture', ' to assist', ' in providing plant and animal food for an increasing human population', 1, {'aquaculture': 'http://dbpedia.org/resource/Aquaculture'}, 0, {}]
+
+15  ['13', ' 0.89', ' Agriculture and aquaculture', ' are dependent upon', ' parasitologists', 1, {'aquaculture': 'http://dbpedia.org/resource/Aquaculture'}, 0, {}]
+
+16  ['14', ' 0.91', ' A heat pump', ' makes', ' use of the existing heat in the air', 1, {'heat pump': 'http://dbpedia.org/resource/Heat_pump'}, 0, {}]
+
+17  ['15', ' 0.98', ' Air pollution, deforestation, and widespread burning of coal, oil, and natural gas', ' have increased', ' atmospheric concentrations of carbon dioxide, methane, nitrous oxide, and chlorofluorocarbons', 4, {'Air pollution': 'http://dbpedia.org/resource/Air_pollution', 'deforestation': 'http://dbpedia.org/resource/Deforestation', 'coal': 'http://dbpedia.org/resource/Coal', 'natural gas': 'http://dbpedia.org/resource/Natural_gas'}, 4, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide', 'methane': 'http://dbpedia.org/resource/Methane', 'nitrous oxide': 'http://dbpedia.org/resource/Nitrous_oxide', 'chlorofluorocarbons': 'http://dbpedia.org/resource/Chlorofluorocarbon'}]
+
+21  ['18', ' 0.90', ' cold water', ' is drank', ' during physical exercise', 0, {}, 1, {'physical exercise': 'http://dbpedia.org/resource/Physical_exercise'}]
+
+22  ['18', ' 0.89', ' sweat', ' produced', ' by exercise', 1, {'sweat': 'http://dbpedia.org/resource/Perspiration'}, 0, {}]
+
+29  ['23', ' 0.90', ' a magnetic field', ' established', ' a connection between magnetism and electricity', 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}, 1, {'magnetism': 'http://dbpedia.org/resource/Magnetism'}]
+
+30  ['23', ' 0.84', ' Ampere', ' showed', ' that current flowing in a wire coil produced a magnetic field', 1, {'Ampere': 'http://dbpedia.org/resource/Ampere'}, 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}]
+
+34  ['26', ' 0.94', ' An ecosystem', ' receives', ' inputs of solar energy, nutrients, water, and gases and discharges heat, oxygen, carbon dioxide, and organic compounds', 1, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}, 3, {'solar energy': 'http://dbpedia.org/resource/Solar_energy', 'oxygen': 'http://dbpedia.org/resource/Oxygen', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+37  ['28', ' 0.93', ' Animals', ' release', ' carbon dioxide from breathing which is what the plants need', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+38  ['28', ' 0.91', ' carbon dioxide from breathing', ' is', ' what the plants need to make the oxygen', 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+45  ['32', ' 0.92', ' Another way of demonstrating the action of photosynthesis', ' is', ' in aquatic plants', ' as they give off oxygen gas bubbles', 1, {'photosynthesis': 'http://dbpedia.org/resource/Photosynthesis'}, 1, {'aquatic': 'http://dbpedia.org/resource/Aquatic_animal'}]
+
+46  ['32', ' 0.62', ' they', ' give off', ' oxygen gas bubbles ', 0, {}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+47  ['33', ' 0.90', ' Any wood material', ' to contain', ' fungus infection', 1, {'wood': 'http://dbpedia.org/resource/Wood'}, 1, {'fungus': 'http://dbpedia.org/resource/Fungus'}]
+
+49  ['33', ' 0.93', ' Any wood material found to contain fungus infection', ' replaced', ' with new material', 2, {'wood': 'http://dbpedia.org/resource/Wood', 'fungus': 'http://dbpedia.org/resource/Fungus'}, 0, {}]
+
+51  ['35', ' 0.96', ' Apomixis', ' is', ' reproduction where only one parent passes genes to the offspring', 1, {'Apomixis': 'http://dbpedia.org/resource/Apomixis'}, 0, {}]
+
+52  ['36', ' 0.62', ' they', ' produce', ' oxygen', 0, {}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+53  ['36', ' 0.58', ' they', ' use', ' carbon dioxide', ' in the photosynthesis process', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+54  ['37', ' 0.81', ' hydrogen gas and oxygen gas', ' can be', ' mixed', 2, {'hydrogen': 'http://dbpedia.org/resource/Hydrogen', 'oxygen': 'http://dbpedia.org/resource/Oxygen'}, 0, {}]
+
+61  ['39', ' 0.93', ' the air', ' is', ' full of filmy insects', 0, {}, 1, {'filmy': 'http://dbpedia.org/resource/Filmy'}]
+
+63  ['40', ' 0.95', ' the change in circulation patterns', ' affects', ' the dispersion and the fate of pollutants or the rise in ocean water temperature results in bleaching effects on corals ', 0, {}, 1, {'dispersion': 'http://dbpedia.org/resource/Atmospheric_dispersion_modeling'}]
+
+69  ['43', ' 0.86', ' A simple circuit', ' generally involves', ' a battery, or other source of electrons, wires through which the energy can flow, and the object that needs the energy to work, such as a light bulb ', 0, {}, 1, {'light bulb': 'http://dbpedia.org/resource/Incandescent_light_bulb'}]
+
+71  ['44', ' 0.95', ' the energy from sunlight', ' is needed', ' to start photosynthesis', 0, {}, 1, {'photosynthesis': 'http://dbpedia.org/resource/Photosynthesis'}]
+
+72  ['45', ' 0.89', ' leaves', ' absorb', ' carbon dioxide from the atmosphere', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+73  ['45', ' 0.91', ' the human lung', ' absorbs', ' oxygen', 1, {'lung': 'http://dbpedia.org/resource/Lung'}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+74  ['46', ' 0.91', ' A solar dryer', ' uses', ' a solar energy collector', ' for heating the air', 0, {}, 1, {'solar energy': 'http://dbpedia.org/resource/Solar_energy'}]
+
+76  ['48', ' 0.94', ' the water vapor', ' begins', ' As the air cools', 1, {'water vapor': 'http://dbpedia.org/resource/Water_vapor'}, 0, {}]
+
+77  ['49', ' 0.94', ' the heath hen population', ' decreased', ' largely due to hunting', ' As the human population increased ', 1, {'heath hen': 'http://dbpedia.org/resource/Heath_hen'}, 1, {'hunting': 'http://dbpedia.org/resource/Hunting'}]
+
+80  ['52', ' 0.96', ' As the rock cools', ' form', ' minerals', 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}, 0, {}]
+
+89  ['57', ' 0.96', ' the ducks', ' swim', ' in the cool water', ' At the lake', 0, {}, 1, {'cool water': 'http://dbpedia.org/resource/Cool_Water_(song)'}]
+
+91  ['58', ' 0.78', ' the food chain', ' is becoming', ' increasingly complex', 1, {'food chain': 'http://dbpedia.org/resource/Food_chain'}, 0, {}]
+
+95  ['60', ' 0.95', ' drainage projects and reclamations', ' affect', ' the water regime and support negative influence of water and wind erosion and salting of soils', 0, {}, 1, {'erosion': 'http://dbpedia.org/resource/Erosion'}]
+
+96  ['61', ' 0.90', ' A wire', ' moving', ' in a magnetic field', 0, {}, 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}]
+
+97  ['61', ' 0.94', ' A wire moving in a magnetic field', ' will induce', ' electric current', 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}, 1, {'electric current': 'http://dbpedia.org/resource/Electric_current'}]
+
+98  ['61', ' 0.90', ' electric current', ' to flow', ' through the wires', 1, {'electric current': 'http://dbpedia.org/resource/Electric_current'}, 0, {}]
+
+104  ['65', ' 0.98', ' Battery-operated moon lights, or tap lights, as well as solar powered lighting', ' use', ' no electrical energy', 1, {'solar': 'http://dbpedia.org/resource/Sun'}, 0, {}]
+
+106  ['68', ' 0.91', ' snow and ice', ' reflect', ' heat but water and land', 2, {'snow': 'http://dbpedia.org/resource/Snow', 'ice': 'http://dbpedia.org/resource/Ice'}, 0, {}]
+
+109  ['69', ' 0.92', ' soil and plant respiration', ' are', ' of approximately equal importance', 1, {'plant respiration': 'http://dbpedia.org/resource/Cellular_respiration'}, 0, {}]
+
+110  ['69', ' 0.96', ' the soil carbon dioxide flux', ' is', ' likely to depend on soil temperature, soil water content, and photosynthetic rate within the plant as well', 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 1, {'photosynthetic': 'http://dbpedia.org/resource/Photosynthesis'}]
+
+111  ['69', ' 0.94', ' the soil carbon dioxide flux', ' to depend as well', ' on soil temperature, soil water content, and photosynthetic rate', 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 1, {'photosynthetic': 'http://dbpedia.org/resource/Photosynthesis'}]
+
+112  ['70', ' 0.92', ' the caterpillar and adult', ' eat', ' different kinds of food', 1, {'caterpillar': 'http://dbpedia.org/resource/Caterpillar'}, 0, {}]
+
+113  ['70', ' 0.39', ' this', ' helps', ' the butterflies to better survive', 0, {}, 1, {'butterflies': 'http://dbpedia.org/resource/Butterfly'}]
+
+120  ['73', ' 0.31', ' we', ' can produce more quickly', ' by genetic modification', 0, {}, 1, {'genetic modification': 'http://dbpedia.org/resource/Genetic_engineering'}]
+
+124  ['75', ' 0.89', ' Bicycle type gear train', ' is', ' good', ' because it is a proven form', 1, {'gear train': 'http://dbpedia.org/resource/Gear_train'}, 0, {}]
+
+131  ['77', ' 0.94', ' Breathing rate', ' automatically increases', ' to get rid of the carbon dioxide through the lungs', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+132  ['77', ' 0.91', ' Breathing rate', ' get', ' rid of the carbon dioxide through the lungs', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+139  ['83', ' 0.91', ' an induction motor', ' converts', ' electrical energy to useful mechanical energy', 1, {'induction motor': 'http://dbpedia.org/resource/Induction_motor'}, 1, {'mechanical energy': 'http://dbpedia.org/resource/Mechanical_energy'}]
+
+146  ['88', ' 0.92', ' the most common mineral in animals', ' is required', ' for bones, teeth and milk production', 1, {'mineral': 'http://dbpedia.org/resource/Mineral'}, 1, {'milk': 'http://dbpedia.org/resource/Milk'}]
+
+147  ['89', ' 0.91', ' Carbon dioxide production', ' is', ' a major concern', ' because of its link to global warming', 1, {'Carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 0, {}]
+
+148  ['90', ' 0.91', ' Carbon dioxide', ' reprenting', ' the bulk of the greenhouse gases', 1, {'Carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 1, {'greenhouse': 'http://dbpedia.org/resource/Greenhouse'}]
+
+150  ['90', ' 0.94', ' Carbon dioxide', ' is produced', ' when fossil fuels are used to generate energy and forests are cut and burnt', 1, {'Carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 0, {}]
+
+151  ['90', ' 0.90', ' fossil fuels', ' are used', ' to generate energy and forests', 1, {'fossil': 'http://dbpedia.org/resource/Fossil'}, 0, {}]
+
+152  ['90', ' 0.89', ' fossil fuels', ' to generate', ' energy and forests', 1, {'fossil': 'http://dbpedia.org/resource/Fossil'}, 0, {}]
+
+154  ['91', ' 0.89', ' the cocoons', ' change', ' into an adult moth', 0, {}, 1, {'moth': 'http://dbpedia.org/resource/Moth'}]
+
+156  ['92', ' 0.83', ' Cellular respiration', ' takes', ' electrons from our food', 1, {'Cellular respiration': 'http://dbpedia.org/resource/Cellular_respiration'}, 0, {}]
+
+157  ['92', ' 0.85', ' Cellular respiration', ' allows', ' them to react with oxygen, producing carbon dioxide, water and energy', 1, {'Cellular respiration': 'http://dbpedia.org/resource/Cellular_respiration'}, 2, {'oxygen': 'http://dbpedia.org/resource/Oxygen', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+160  ['94', ' 0.93', ' Children', ' are', ' able to learn concepts such as habitat, environment, adaptation, physical traits, and camouflage', 0, {}, 2, {'habitat': 'http://dbpedia.org/resource/Habitat', 'camouflage': 'http://dbpedia.org/resource/Camouflage'}]
+
+161  ['94', ' 0.92', ' Children', ' to learn', ' concepts such as habitat, environment, adaptation, physical traits, and camouflage', 0, {}, 2, {'habitat': 'http://dbpedia.org/resource/Habitat', 'camouflage': 'http://dbpedia.org/resource/Camouflage'}]
+
+168  ['98', ' 0.90', ' Compost', ' has', ' all the nutrients that plants require, unlike chemical fertilizers', 1, {'Compost': 'http://dbpedia.org/resource/Compost'}, 0, {}]
+
+170  ['99', ' 0.90', ' Coral reefs', ' are', ' an extremely diverse marine ecosystem', 0, {}, 1, {'marine ecosystem': 'http://dbpedia.org/resource/Marine_ecosystem'}]
+
+172  ['101', ' 0.92', ' a few new plants', ' to illustrate', ' the use of the new flower and leaf structures', 0, {}, 1, {'flower': 'http://dbpedia.org/resource/Flower'}]
+
+175  ['103', ' 0.88', ' rains', ' affected', ' cereal and beans crops', 0, {}, 1, {'cereal': 'http://dbpedia.org/resource/Cereal'}]
+
+176  ['104', ' 0.91', ' Digestive enzyme supplements', ' aid', ' the digestive system to break down substances in foods', 1, {'Digestive enzyme': 'http://dbpedia.org/resource/Digestive_enzyme'}, 1, {'digestive system': 'http://dbpedia.org/resource/Human_digestive_system'}]
+
+180  ['107', ' 0.90', ' Drinking water', ' increases', ' the volume of urine', 0, {}, 1, {'urine': 'http://dbpedia.org/resource/Urine'}]
+
+187  ['109', ' 0.93', ' a carbon copy of the notes', ' must be submitted', ' before the student leaves the laboratory', 1, {'carbon': 'http://dbpedia.org/resource/Carbon'}, 0, {}]
+
+188  ['110', ' 0.92', ' Earth', ' does go', ' through phases', 1, {'Earth': 'http://dbpedia.org/resource/Earth'}, 0, {}]
+
+189  ['111', ' 0.95', ' Ecosystem diversity', ' is', ' the variety of habitats and biotic communities on the earth', 1, {'Ecosystem diversity': 'http://dbpedia.org/resource/Ecosystem_diversity'}, 0, {}]
+
+190  ['112', ' 0.90', ' Electrical energy', ' causes', ' injury', 1, {'Electrical energy': 'http://dbpedia.org/resource/Electrical_energy'}, 0, {}]
+
+191  ['113', ' 0.94', ' Energy from the sun', ' is', ' the driving force of an ecosystem', 0, {}, 1, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+195  ['115', ' 0.88', ' students', ' participate', ' in the school-wide paper and aluminum', 0, {}, 1, {'aluminum': 'http://dbpedia.org/resource/Aluminium'}]
+
+196  ['116', ' 0.96', ' Even quite new ponds like this one', ' rapidly attract', ' aquatic flora and fauna, beetles and water voles, frogs and toads, dragonflies, and damp-loving plants', 0, {}, 3, {'aquatic': 'http://dbpedia.org/resource/Aquatic_plant', 'flora': 'http://dbpedia.org/resource/Flora', 'dragonflies': 'http://dbpedia.org/resource/Odonata'}]
+
+197  ['117', ' 0.94', ' Even the evolution of species', ' is', ' about time', 1, {'evolution': 'http://dbpedia.org/resource/Evolution'}, 0, {}]
+
+198  ['118', ' 0.95', ' each condensation nucleus', ' collects', ' enough water to become a tiny droplet', ' Eventually', 1, {'condensation nucleus': 'http://dbpedia.org/resource/Cloud_condensation_nuclei'}, 0, {}]
+
+201  ['120', ' 0.92', ' Examples of broadleaf trees', ' are', ' the maples, oaks, hickories, and elms', 0, {}, 1, {'hickories': 'http://dbpedia.org/resource/Hickory'}]
+
+204  ['122', ' 0.89', ' Existing facilities', ' to alter', ' natural habitat and ecosystem patterns', 0, {}, 2, {'habitat': 'http://dbpedia.org/resource/Habitat', 'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+205  ['123', ' 0.87', ' Eye color inheritance', ' is', ' complex', 1, {'Eye color': 'http://dbpedia.org/resource/Eye_color'}, 0, {}]
+
+209  ['125', ' 0.90', ' Fallow deer', ' can be found', ' in the forest', 1, {'deer': 'http://dbpedia.org/resource/Deer'}, 0, {}]
+
+213  ['128', ' 0.86', ' the retina or fundus', ' is examined', ' Finally', 2, {'retina': 'http://dbpedia.org/resource/Retina', 'fundus': 'http://dbpedia.org/resource/Stomach'}, 0, {}]
+
+214  ['128', ' 0.90', ' a focusing lens', ' is held', ' in the examiners hand', 1, {'lens': 'http://dbpedia.org/resource/Camera_lens'}, 0, {}]
+
+216  ['129', ' 0.81', ' Fish with scales and fins', ' are', ' kosher', 0, {}, 1, {'kosher': 'http://dbpedia.org/resource/Kashrut'}]
+
+220  ['131', ' 0.89', ' leaves', ' conduct', ' the most photosynthesis', 0, {}, 1, {'photosynthesis': 'http://dbpedia.org/resource/Photosynthesis'}]
+
+221  ['131', ' 0.88', ' leaves', ' have', ' the highest enzyme levels in plants', 0, {}, 1, {'enzyme': 'http://dbpedia.org/resource/Enzyme'}]
+
+225  ['134', ' 0.90', ' Food storage', ' is seen', ' specifically in plant root', 1, {'Food storage': 'http://dbpedia.org/resource/Food_storage'}, 0, {}]
+
+226  ['134', ' 0.90', ' special attention', ' is given', ' to respiration and the uses of the energy', 0, {}, 1, {'respiration': 'http://dbpedia.org/resource/Cellular_respiration'}]
+
+233  ['140', ' 0.80', ' sediment', ' may filter', ' water', ' for a while', ' before it gathers into sedimentary rock', 1, {'sediment': 'http://dbpedia.org/resource/Sediment'}, 0, {}]
+
+234  ['140', ' 0.45', ' it', ' gathers', ' into sedimentary rock', 0, {}, 1, {'sedimentary rock': 'http://dbpedia.org/resource/Sedimentary_rock'}]
+
+235  ['140', ' 0.89', ' sedimentary rock', ' may compress', ' into metamorphic rock', 1, {'sedimentary rock': 'http://dbpedia.org/resource/Sedimentary_rock'}, 1, {'metamorphic rock': 'http://dbpedia.org/resource/Metamorphic_rock'}]
+
+236  ['140', ' 0.90', ' metamorphic rock', ' may crystallize', ' into valuable minerals', ' then', 1, {'metamorphic rock': 'http://dbpedia.org/resource/Metamorphic_rock'}, 0, {}]
+
+237  ['140', ' 0.89', ' metamorphic rock', ' may erode', ' back to sediment', 1, {'metamorphic rock': 'http://dbpedia.org/resource/Metamorphic_rock'}, 1, {'sediment': 'http://dbpedia.org/resource/Sediment'}]
+
+241  ['143', ' 0.91', ' temperatures inside the cloud', ' to be', ' less than the freezing point of water', 1, {'cloud': 'http://dbpedia.org/resource/Cloud'}, 0, {}]
+
+259  ['155', ' 0.89', ' the kitten', ' had licked', ' the plate', ' clean', 1, {'kitten': 'http://dbpedia.org/resource/Kitten'}, 0, {}]
+
+261  ['156', ' 0.70', ' Her heart', ' is', ' as soft as a feather pillow', 0, {}, 1, {'pillow': 'http://dbpedia.org/resource/Pillow'}]
+
+264  ['158', ' 0.77', ' no predators', ' to manage', ' that prairie dog colony', 0, {}, 2, {'prairie dog': 'http://dbpedia.org/resource/Prairie_dog', 'colony': 'http://dbpedia.org/resource/Colony'}]
+
+267  ['159', ' 0.53', ' He', ' commenced', ' to hunt about in the end of the wagon for a bottle of whisky', 0, {}, 1, {'whisky': 'http://dbpedia.org/resource/Whisky'}]
+
+272  ['163', ' 0.90', ' some manufacturers', ' use', ' by-product gypsum', ' from fossil fuel emissions', 0, {}, 1, {'gypsum': 'http://dbpedia.org/resource/Gypsum'}]
+
+277  ['164', ' 0.93', ' the bonds', ' are simply', ' hydrogen bonds', ' in water', 0, {}, 1, {'hydrogen': 'http://dbpedia.org/resource/Hydrogen'}]
+
+279  ['166', ' 0.91', ' Humans and animals', ' breathe', ' in oxygen and exhale carbon dioxide', 0, {}, 2, {'oxygen': 'http://dbpedia.org/resource/Oxygen', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+280  ['167', ' 0.89', ' Hybrids', ' rely', ' on both a gasoline engine and an electric motor', 0, {}, 2, {'gasoline': 'http://dbpedia.org/resource/Gasoline', 'electric motor': 'http://dbpedia.org/resource/Electric_motor'}]
+
+281  ['167', ' 0.90', ' an electric motor', ' is powered', ' by batteries', 1, {'electric motor': 'http://dbpedia.org/resource/Electric_motor'}, 0, {}]
+
+284  ['169', ' 0.52', ' it', ' falls', ' as snow', 0, {}, 1, {'snow': 'http://dbpedia.org/resource/Snow'}]
+
+286  ['170', ' 0.45', ' it', ' is growing', ' on a plant stem or root', 0, {}, 1, {'plant stem': 'http://dbpedia.org/resource/Plant_stem'}]
+
+293  ['172', ' 0.74', ' you', ' only have', ' kinetic energy', ' already', ' then', 0, {}, 1, {'kinetic energy': 'http://dbpedia.org/resource/Kinetic_energy'}]
+
+302  ['175', ' 0.52', ' it', ' is', ' subject to erosion from wind and water', 0, {}, 1, {'erosion': 'http://dbpedia.org/resource/Erosion'}]
+
+303  ['176', ' 0.81', ' the stem of the flower', ' becomes', ' too long', 1, {'flower': 'http://dbpedia.org/resource/Flower'}, 0, {}]
+
+304  ['177', ' 0.45', ' we', ' take', ' the kinetic energy of rolling into account', 0, {}, 1, {'kinetic energy': 'http://dbpedia.org/resource/Kinetic_energy'}]
+
+318  ['183', ' 0.90', ' Improved achromatic microscope', ' using', ' several doublets', ' in line', 2, {'achromatic': 'http://dbpedia.org/resource/Achromatic_lens', 'microscope': 'http://dbpedia.org/resource/Microscope'}, 0, {}]
+
+319  ['184', ' 0.83', ' most orchards', ' make', ' their own apple cider', 0, {}, 1, {'apple cider': 'http://dbpedia.org/resource/Apple_cider'}]
+
+320  ['185', ' 0.93', ' ice', ' penetrates', ' into the stone', ' In cold climates', 1, {'ice': 'http://dbpedia.org/resource/Ice'}, 0, {}]
+
+321  ['185', ' 0.94', ' the freeze-thaw cycle', ' adds', ' physical weathering', ' to the chemical attachis', 0, {}, 1, {'weathering': 'http://dbpedia.org/resource/Weathering'}]
+
+322  ['186', ' 0.92', ' Increased carbon dioxide levels', ' stimulate', ' more rapid breathing rates', ' in humans', 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 0, {}]
+
+323  ['187', ' 0.96', ' Increases in oil imports and oil prices', ' have spawned', ' proposals of various petroleum policies, including a per gallon tax on gasoline', 0, {}, 2, {'petroleum': 'http://dbpedia.org/resource/Petroleum', 'gasoline': 'http://dbpedia.org/resource/Gasoline'}]
+
+324  ['188', ' 0.90', ' plants and trees', ' consist mostly', ' of carbon', 0, {}, 1, {'carbon': 'http://dbpedia.org/resource/Carbon'}]
+
+325  ['188', ' 0.95', ' plants and trees, which consist mostly of carbon', ' get', ' most of the materials', 1, {'carbon': 'http://dbpedia.org/resource/Carbon'}, 0, {}]
+
+326  ['188', ' 0.62', ' they', ' need', ' to exist from carbon dioxide', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+327  ['188', ' 0.89', ' the materials', ' to exist', ' from carbon dioxide', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+335  ['192', ' 0.81', ' plants', ' are', ' more susceptible to leaf spot disease', 0, {}, 1, {'leaf spot': 'http://dbpedia.org/resource/Leaf_spot'}]
+
+336  ['193', ' 0.93', ' plants', ' absorb', ' carbon dioxide and release oxygen, which is what humans and animals need to live', ' In photosynthesis', 0, {}, 2, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide', 'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+337  ['193', ' 0.91', ' carbon dioxide and release oxygen', ' is', ' what humans and animals need to live', 2, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide', 'oxygen': 'http://dbpedia.org/resource/Oxygen'}, 0, {}]
+
+338  ['194', ' 0.94', ' carbon dioxide', ' is taken in', ' from the atmosphere', ' In plants', 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 0, {}]
+
+339  ['195', ' 0.97', ' only one of the two parental genes', ' is expressed outwardly', ' as when horses inherit one coat-color gene from the sire and a different coat-color gene from the dam', ' In some cases', 0, {}, 2, {'gene': 'http://dbpedia.org/resource/Gene', 'sire': 'http://dbpedia.org/resource/Horse_breeding'}]
+
+340  ['195', ' 0.93', ' horses', ' inherit', ' one coat-color gene', ' from the sire and a different coat-color gene from the dam', 0, {}, 1, {'gene': 'http://dbpedia.org/resource/Gene'}]
+
+341  ['196', ' 0.89', ' the colour', ' is', ' that of the sand and silt particles', ' In some soils', 0, {}, 1, {'silt': 'http://dbpedia.org/resource/Silt'}]
+
+344  ['198', ' 0.46', ' they', ' store', ' their oxygen', 0, {}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+345  ['199', ' 0.88', ' Instruments', ' measure', ' atmospheric pressure', 0, {}, 1, {'atmospheric pressure': 'http://dbpedia.org/resource/Atmospheric_pressure'}]
+
+346  ['199', ' 0.93', ' Instruments that measure atmospheric pressure', ' are called', ' barometers', 1, {'atmospheric pressure': 'http://dbpedia.org/resource/Atmospheric_pressure'}, 0, {}]
+
+348  ['201', ' 0.95', ' women farmers', ' sow', ' weed', ' In the field', 0, {}, 1, {'weed': 'http://dbpedia.org/resource/Weed'}]
+
+349  ['201', ' 0.89', ' women farmers', ' apply', ' fertilizer and pesticides, harvest', 0, {}, 1, {'fertilizer': 'http://dbpedia.org/resource/Fertilizer'}]
+
+351  ['202', ' 0.93', ' carbon dioxide', ' is released', ' In the lungs', 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 0, {}]
+
+352  ['202', ' 0.89', ' oxygen', ' obtained', ' by the blood', 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}, 0, {}]
+
+353  ['203', ' 0.93', ' water', ' is evaporated', ' In the water cycle', 0, {}, 1, {'water cycle': 'http://dbpedia.org/resource/Water_cycle'}]
+
+358  ['206', ' 0.47', ' it', ' discusses', ' how and where glaciers move, presents the history of glaciers, and describes the effects of glacial erosion upon land forms', 0, {}, 1, {'erosion': 'http://dbpedia.org/resource/Erosion'}]
+
+362  ['209', ' 0.90', ' any plant', ' suspected', ' of having virus', 0, {}, 1, {'virus': 'http://dbpedia.org/resource/Virus'}]
+
+363  ['209', ' 0.89', ' any plant', ' of having', ' virus', 0, {}, 1, {'virus': 'http://dbpedia.org/resource/Virus'}]
+
+364  ['209', ' 0.90', ' any plant suspected of having virus', ' have', ' a leaf sample tested', 1, {'virus': 'http://dbpedia.org/resource/Virus'}, 0, {}]
+
+366  ['211', ' 0.39', ' It', ' has', ' fun illustrations and text that explains the forces at work in each simple machine', 0, {}, 1, {'simple machine': 'http://dbpedia.org/resource/Simple_machine'}]
+
+369  ['213', ' 0.64', ' It', ' is', ' present in oceans, rivers, lakes, the polar ice caps, clouds, rain or snow, ground water and living things such as plants and animals', 0, {}, 2, {'ice': 'http://dbpedia.org/resource/Ice', 'snow': 'http://dbpedia.org/resource/Snow'}]
+
+372  ['215', ' 0.45', ' It', ' refracts', ' the light entering the eye onto the lens ,', 0, {}, 1, {'lens': 'http://dbpedia.org/resource/Camera_lens'}]
+
+374  ['215', ' 0.88', ' the lens', ' focuses', ' it', ' onto the retina', ' then', 1, {'lens': 'http://dbpedia.org/resource/Camera_lens'}, 0, {}]
+
+380  ['220', ' 0.94', ' Lacewing', ' is', ' a predator of insect pests', 0, {}, 1, {'insect': 'http://dbpedia.org/resource/Insect'}]
+
+381  ['220', ' 0.89', ' Lacewing', ' is a predator of', ' insect pests', 0, {}, 1, {'insect': 'http://dbpedia.org/resource/Insect'}]
+
+387  ['224', ' 0.94', ' Late herbicide applications', ' caused', ' leaf browning', ' in some cases and severe leaf-cupping in others', 1, {'herbicide': 'http://dbpedia.org/resource/Herbicide'}, 0, {}]
+
+393  ['226', ' 0.90', ' Less sunlight', ' lowers', ' photosynthesis for both algae and rooted plants', 0, {}, 2, {'photosynthesis': 'http://dbpedia.org/resource/Photosynthesis', 'algae': 'http://dbpedia.org/resource/Algae'}]
+
+395  ['227', ' 0.92', ' the change of electrical energy state', ' occurs', ' in a nuclear reaction', 0, {}, 1, {'nuclear reaction': 'http://dbpedia.org/resource/Nuclear_reaction'}]
+
+401  ['229', ' 0.89', ' this area', ' formed', ' from calcium carbonate', 0, {}, 1, {'calcium carbonate': 'http://dbpedia.org/resource/Calcium_carbonate'}]
+
+402  ['229', ' 0.97', ' the third main type of sedimentary rock found in this area,', ' precipitated', ' from the water and from the remains of animal shells', 1, {'sedimentary rock': 'http://dbpedia.org/resource/Sedimentary_rock'}, 0, {}]
+
+403  ['229', ' 0.89', ' Limestone', ' is the third main type of', ' sedimentary rock', 0, {}, 1, {'sedimentary rock': 'http://dbpedia.org/resource/Sedimentary_rock'}]
+
+404  ['230', ' 0.90', ' Liquid water', ' is converted', ' to water vapor during evaporation', 0, {}, 2, {'water vapor': 'http://dbpedia.org/resource/Water_vapor', 'evaporation': 'http://dbpedia.org/resource/Evaporation'}]
+
+405  ['231', ' 0.93', ' photosynthesis', ' occurs', ' the leaf', 1, {'photosynthesis': 'http://dbpedia.org/resource/Photosynthesis'}, 0, {}]
+
+407  ['232', ' 0.91', ' Loss of wetland habitat', ' endangered', ' several species of amphibians with restricted ranges', 2, {'wetland': 'http://dbpedia.org/resource/Wetland', 'habitat': 'http://dbpedia.org/resource/Habitat'}, 0, {}]
+
+408  ['232', ' 0.99', ' Loss of wetland habitat has reduced populations of frogs and toads, and endangered several species of amphibians with restricted ranges', ' say', ' scientists', 2, {'wetland': 'http://dbpedia.org/resource/Wetland', 'habitat': 'http://dbpedia.org/resource/Habitat'}, 0, {}]
+
+414  ['235', ' 0.88', ' Mainstream smoke', ' is', ' that which is caused by the lighting of the cigarette', 0, {}, 1, {'cigarette': 'http://dbpedia.org/resource/Cigarette'}]
+
+415  ['235', ' 0.12', ' that', ' is caused', ' by the lighting of the cigarette', 0, {}, 1, {'cigarette': 'http://dbpedia.org/resource/Cigarette'}]
+
+423  ['239', ' 0.94', ' Many marine organisms', ' have', ' a complex life cycle in which the larval stage disperses in the plankton and the adult stage is benthic and relatively sedentary', 0, {}, 2, {'plankton': 'http://dbpedia.org/resource/Plankton', 'benthic': 'http://dbpedia.org/resource/Benthic_zone'}]
+
+424  ['239', ' 0.98', ' the larval stage disperses in the plankton and the adult stage', ' is', ' benthic and relatively sedentary', ' a complex life cycle', 1, {'plankton': 'http://dbpedia.org/resource/Plankton'}, 1, {'benthic': 'http://dbpedia.org/resource/Benthic_zone'}]
+
+425  ['240', ' 0.92', ' Many of these diseases', ' can be prevented', ' by proper management and vaccination', 0, {}, 1, {'vaccination': 'http://dbpedia.org/resource/Vaccination'}]
+
+429  ['243', ' 0.91', ' Mechanical energy changes', ' to sound', ' in a piano', 1, {'Mechanical energy': 'http://dbpedia.org/resource/Mechanical_energy'}, 1, {'piano': 'http://dbpedia.org/resource/Piano'}]
+
+432  ['246', ' 0.88', ' Metal objects in a magnetic field', ' affect', ' it', 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}, 0, {}]
+
+433  ['247', ' 0.81', ' rock', ' undergoes', ' a transformation', 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}, 0, {}]
+
+437  ['249', ' 0.90', ' More deer', ' will be hit', ' on the roads', 1, {'deer': 'http://dbpedia.org/resource/Deer'}, 0, {}]
+
+438  ['250', ' 0.89', ' castration', ' effected', ' the life-span of the castrati', 1, {'castration': 'http://dbpedia.org/resource/Castration'}, 1, {'castrati': 'http://dbpedia.org/resource/Castrato'}]
+
+439  ['250', ' 0.74', ' the castrati', ' to have lived', ' longer', 1, {'castrati': 'http://dbpedia.org/resource/Castrato'}, 0, {}]
+
+440  ['251', ' 0.90', ' Most apartments', ' are carpeted', ' while others have hard wood floors', 0, {}, 1, {'wood': 'http://dbpedia.org/resource/Wood'}]
+
+441  ['251', ' 0.89', ' others', ' have', ' hard wood floors', 0, {}, 1, {'wood': 'http://dbpedia.org/resource/Wood'}]
+
+442  ['252', ' 0.90', ' Most fish', ' lay', ' eggs', ' in clutches', 1, {'fish': 'http://dbpedia.org/resource/Fish'}, 0, {}]
+
+447  ['255', ' 0.58', ' they', ' to outlast', ' the earlier die-cast models', 0, {}, 1, {'die-cast': 'http://dbpedia.org/resource/Die-cast_toy'}]
+
+450  ['257', ' 0.91', ' small prey', ' is', ' easy to catch, like small amphipods and shrimp', 0, {}, 2, {'amphipods': 'http://dbpedia.org/resource/Amphipoda', 'shrimp': 'http://dbpedia.org/resource/Shrimp'}]
+
+454  ['260', ' 0.94', ' Multilayering of epithelia and abnormal cell shapes', ' are most likely caused', ' by defects in cell adhesion', 1, {'epithelia': 'http://dbpedia.org/resource/Epithelium'}, 1, {'cell adhesion': 'http://dbpedia.org/resource/Cell_adhesion'}]
+
+455  ['261', ' 0.59', ' My son', ' is learning', ' to ride a bicycle', 0, {}, 1, {'bicycle': 'http://dbpedia.org/resource/Bicycle'}]
+
+469  ['273', ' 0.94', ' this chlorine', ' can combine', ' with organic materials present in water and soil', ' Once in the environment', 1, {'chlorine': 'http://dbpedia.org/resource/Chlorine'}, 0, {}]
+
+470  ['273', ' 0.90', ' carcinogenic substances', ' called', ' trihalomethanes', 0, {}, 1, {'trihalomethanes': 'http://dbpedia.org/resource/Trihalomethane'}]
+
+472  ['274', ' 0.89', ' oxygen', ' is needed', ' by bacteria', ' to break it down', ' Once this organic waste gets into a stream', 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}, 1, {'bacteria': 'http://dbpedia.org/resource/Bacteria'}]
+
+484  ['281', ' 0.94', ' Other chemicals', ' can be applied', ' to bronze to change the coloring to blue, red, brown and copper', 0, {}, 1, {'copper': 'http://dbpedia.org/resource/Copper'}]
+
+500  ['291', ' 0.95', ' Photosynthesis', ' is', ' a process by which plants use light from the sun to make food', 1, {'Photosynthesis': 'http://dbpedia.org/resource/Photosynthesis'}, 0, {}]
+
+505  ['294', ' 0.90', ' the body', ' needs', ' oxygen for the chemical reactions', 0, {}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+507  ['294', ' 0.45', ' it', ' also needs', ' a way of getting rid of carbon dioxide', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+508  ['295', ' 0.90', ' Plant photosynthesis', ' breaks', ' the carbon dioxide in two', 1, {'photosynthesis': 'http://dbpedia.org/resource/Photosynthesis'}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+510  ['296', ' 0.90', ' Plant roots', ' break up', ' the surface of a rock', 0, {}, 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}]
+
+511  ['296', ' 0.88', ' a rock', ' allowing', ' water to penetrate the cracks', 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}, 0, {}]
+
+513  ['298', ' 0.87', ' Plants', ' thrive', ' in citrus groves', ' often', 0, {}, 1, {'citrus': 'http://dbpedia.org/resource/Citrus'}]
+
+518  ['300', ' 0.89', ' Predators', ' play', ' an important role in an ecosystem', 0, {}, 1, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+519  ['301', ' 0.16', ' that', ' is measured', ' with a barometer in meteorology', ' usually', 0, {}, 1, {'barometer': 'http://dbpedia.org/resource/Barometer'}]
+
+521  ['302', ' 0.93', ' the electric field', ' is', ' almost zero everywhere inside the wires', 1, {'electric field': 'http://dbpedia.org/resource/Electric_field'}, 0, {}]
+
+523  ['304', ' 0.91', ' a flask or beaker', ' can be', ' heated on the hot plate', 0, {}, 1, {'hot plate': 'http://dbpedia.org/resource/Hot_plate'}]
+
+524  ['305', ' 0.95', ' Rainbow', ' caused', ' by the reflection and refraction of the rays of the sun', 1, {'Rainbow': 'http://dbpedia.org/resource/Rainbow'}, 0, {}]
+
+526  ['306', ' 0.90', ' Relate heat', ' transferred', ' to changes in thermal energy', 1, {'Relate': 'http://dbpedia.org/resource/Relate'}, 1, {'thermal energy': 'http://dbpedia.org/resource/Thermal_energy'}]
+
+528  ['307', ' 0.93', ' Relativistic mass', ' is', ' the mass of an object', 1, {'Relativistic mass': 'http://dbpedia.org/resource/Mass_in_special_relativity'}, 0, {}]
+
+531  ['308', ' 0.90', ' wire racks', ' covered', ' with plastic wrap or wax paper', 0, {}, 1, {'wax paper': 'http://dbpedia.org/resource/Wax_paper'}]
+
+534  ['309', ' 0.90', ' the process', ' called', ' weathering', 0, {}, 1, {'weathering': 'http://dbpedia.org/resource/Weathering'}]
+
+538  ['312', ' 0.94', ' School yards', ' are', ' often', ' suitable habitat for bluebirds, with open fields and old woodlots', 1, {'School yards': 'http://dbpedia.org/resource/School'}, 0, {}]
+
+540  ['314', ' 0.93', ' Seed dispersal', ' has', ' many consequences for the ecology and evolution of plants', 1, {'Seed dispersal': 'http://dbpedia.org/resource/Seed_dispersal'}, 2, {'ecology': 'http://dbpedia.org/resource/Ecology', 'evolution': 'http://dbpedia.org/resource/Evolution'}]
+
+546  ['317', ' 0.62', ' they', ' are made', ' of many layers of a kind of volcanic rock', 0, {}, 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}]
+
+547  ['317', ' 0.74', ' volcanic rock', ' flows easily', ' when melted', 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}, 0, {}]
+
+551  ['320', ' 0.90', ' litter decomposition', ' causes', ' a release of phosphorus', 0, {}, 1, {'phosphorus': 'http://dbpedia.org/resource/Phosphorus'}]
+
+556  ['322', ' 0.90', ' Snow molds', ' are caused', ' by low-temperature fungi', 0, {}, 1, {'fungi': 'http://dbpedia.org/resource/Fungus'}]
+
+558  ['322', ' 0.78', ' the wheat plants', ' are', ' dormant', 1, {'wheat': 'http://dbpedia.org/resource/Wheat'}, 0, {}]
+
+559  ['323', ' 0.96', ' Soft corals, mushroom anemones, green star polyps, and small polyp stony corals', ' are', ' valuable popular reef animals', 3, {'mushroom': 'http://dbpedia.org/resource/Mushroom', 'polyp': 'http://dbpedia.org/resource/Polyp', 'stony corals': 'http://dbpedia.org/resource/Scleractinia'}, 0, {}]
+
+560  ['324', ' 0.93', ' Soil erosion', ' is', ' the removal of surface material by wind or water', 1, {'Soil erosion': 'http://dbpedia.org/resource/Soil_erosion'}, 0, {}]
+
+566  ['328', ' 0.88', ' microorganisms', ' called', ' decomposers which play a vital role in the carbon cycle of the soil because of their ability', 0, {}, 1, {'carbon cycle': 'http://dbpedia.org/resource/Carbon_cycle'}]
+
+575  ['332', ' 0.93', ' Some good examples of insulator materials', ' are', ' rubber, plastic, glass, and wood', 0, {}, 1, {'wood': 'http://dbpedia.org/resource/Wood'}]
+
+592  ['343', ' 0.85', ' Students', ' will use', ' a hand lens', ' to look at snow flakes and crystals and draw their observations', 0, {}, 1, {'lens': 'http://dbpedia.org/resource/Camera_lens'}]
+
+594  ['345', ' 0.93', ' Sugar maple trees', ' have', ' the highest sugar content in the sap', 1, {'Sugar maple': 'http://dbpedia.org/resource/Acer_saccharum'}, 1, {'sugar': 'http://dbpedia.org/resource/Sugar'}]
+
+596  ['346', ' 0.90', ' Summertime temperatures', ' can reach', ' well over 100 degrees with water temperatures', 1, {'Summertime': 'http://dbpedia.org/resource/Summertime_(song)'}, 0, {}]
+
+601  ['348', ' 0.94', ' Taller trees', ' can be felled', ' to allow more sunlight to reach grapevines, greenbriers, small conifers, thorn-apple trees and the like', 0, {}, 1, {'greenbriers': 'http://dbpedia.org/resource/Smilax'}]
+
+602  ['349', ' 0.92', ' Texture', ' is', ' clay, silty clay or clay loam', 0, {}, 2, {'clay': 'http://dbpedia.org/resource/Clay', 'loam': 'http://dbpedia.org/resource/Loam'}]
+
+606  ['352', ' 0.90', ' That water vapor', ' becomes', ' clouds', 1, {'water vapor': 'http://dbpedia.org/resource/Water_vapor'}, 0, {}]
+
+609  ['355', ' 0.88', ' The bacteria', ' take', ' nitrogen gas from the air', 1, {'bacteria': 'http://dbpedia.org/resource/Bacteria'}, 1, {'nitrogen': 'http://dbpedia.org/resource/Nitrogen'}]
+
+613  ['358', ' 0.80', ' The blades and petioles', ' become', ' very brittle', 1, {'petioles': 'http://dbpedia.org/resource/Petiole_(botany)'}, 0, {}]
+
+617  ['359', ' 0.86', ' The broken line graph', ' looked above', ' you', 1, {'graph': 'http://dbpedia.org/resource/Graph_theory'}, 0, {}]
+
+618  ['359', ' 0.75', ' The broken line graph that you looked at above', ' showed', ' the change in daily temperature over 1 week', 1, {'graph': 'http://dbpedia.org/resource/Graph_theory'}, 0, {}]
+
+620  ['361', ' 0.90', ' The camel', ' can intake', ' large amounts of water', 1, {'camel': 'http://dbpedia.org/resource/Camel'}, 0, {}]
+
+621  ['361', ' 0.90', ' The camel', ' is', ' able to store it for long amounts of time in either one or two humps on its back', 1, {'camel': 'http://dbpedia.org/resource/Camel'}, 0, {}]
+
+624  ['362', ' 0.91', ' The camera view', ' turns', ' to show you everything in the lab, including the bubbling cauldron with smoke', 0, {}, 1, {'cauldron': 'http://dbpedia.org/resource/Cauldron'}]
+
+626  ['363', ' 0.90', ' the food chain', ' plays', ' a necessary role in the forest ecosystem', 1, {'food chain': 'http://dbpedia.org/resource/Food_chain'}, 1, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+627  ['363', ' 0.94', ' The class', ' shows', ' how producers, consumers, and decomposers are a very intricate part of the food chain', 0, {}, 1, {'food chain': 'http://dbpedia.org/resource/Food_chain'}]
+
+628  ['364', ' 0.90', ' The cockade', ' shall have', ' the same colours in the same pattern', 1, {'cockade': 'http://dbpedia.org/resource/Cockade'}, 0, {}]
+
+630  ['366', ' 0.93', ' The concentration of atmospheric carbon dioxide', ' has increased dramatically', ' during the past century', 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 0, {}]
+
+631  ['367', ' 0.94', ' The course', ' covers', ' the textural and mineralogic features of igneous and metamorphic rocks, the chemistry of igneous rocks, the phase diagrams controlling mineral crystallization in igneous and metamorphic rocks, and the tectonic environments', 0, {}, 5, {'igneous': 'http://dbpedia.org/resource/Igneous_rock', 'metamorphic': 'http://dbpedia.org/resource/Metamorphic_rock', 'chemistry': 'http://dbpedia.org/resource/Chemistry', 'mineral': 'http://dbpedia.org/resource/Mineral', 'tectonic': 'http://dbpedia.org/resource/Tectonics'}]
+
+632  ['367', ' 0.91', ' the phase diagrams', ' controlling', ' mineral crystallization', ' in igneous and metamorphic rocks', 0, {}, 1, {'mineral': 'http://dbpedia.org/resource/Mineral'}]
+
+633  ['367', ' 0.95', ' various igneous and metamorphic rocks', ' are found', ' the tectonic environments', 2, {'igneous': 'http://dbpedia.org/resource/Igneous_rock', 'metamorphic': 'http://dbpedia.org/resource/Metamorphic_rock'}, 1, {'tectonic': 'http://dbpedia.org/resource/Tectonics'}]
+
+634  ['368', ' 0.91', ' The coyote', ' wants', ' to eat the bird', 0, {}, 1, {'bird': 'http://dbpedia.org/resource/Bird'}]
+
+636  ['369', ' 0.93', ' changes', ' caused', ' by local weather, seasonal snow cover and other factors', 0, {}, 1, {'snow': 'http://dbpedia.org/resource/Snow'}]
+
+638  ['371', ' 0.94', ' The electric current in a wire', ' is compared', ' to water', ' often', 1, {'electric current': 'http://dbpedia.org/resource/Electric_current'}, 0, {}]
+
+640  ['372', ' 0.93', ' The ends of the thermocouple', ' are heated', ' by steam', 1, {'thermocouple': 'http://dbpedia.org/resource/Thermocouple'}, 0, {}]
+
+641  ['372', ' 0.94', ' The ends of the thermocouple', ' cooled', ' by ice-water in the small containers on the tripods', 1, {'thermocouple': 'http://dbpedia.org/resource/Thermocouple'}, 0, {}]
+
+644  ['375', ' 0.98', ' The evaporation of water from this fluid and the diffusion of sugars from the photosynthetic mesophyll cells', ' make', ' this solution quite concentrated', 4, {'evaporation': 'http://dbpedia.org/resource/Evaporation', 'diffusion': 'http://dbpedia.org/resource/Diffusion', 'photosynthetic': 'http://dbpedia.org/resource/Photosynthesis', 'mesophyll': 'http://dbpedia.org/resource/Leaf'}, 0, {}]
+
+647  ['377', ' 0.95', ' The feathers of a bird and the scales of a fish', ' are', ' homologous', ' because they correspond in structure, position, and origin', 2, {'bird': 'http://dbpedia.org/resource/Bird', 'fish': 'http://dbpedia.org/resource/Fish'}, 0, {}]
+
+650  ['379', ' 0.87', ' The fire', ' burns', ' as long as there is energy in the wood', 0, {}, 1, {'wood': 'http://dbpedia.org/resource/Wood'}]
+
+653  ['381', ' 0.94', ' The flow of current through a conductor', ' enables', ' the transfer of energy in a light bulb', 1, {'conductor': 'http://dbpedia.org/resource/Conducting'}, 1, {'light bulb': 'http://dbpedia.org/resource/Electric_light'}]
+
+656  ['382', ' 0.97', ' The force, or pressure, that is needed to push electricity through wires', ' is called', ' voltage', 0, {}, 1, {'voltage': 'http://dbpedia.org/resource/Voltage'}]
+
+658  ['383', ' 0.96', ' The gases usually found in sealed regions', ' mainly contain', ' methane, hydrogen, carbon monoxide, carbon dioxide, nitrogen, and oxygen', 0, {}, 6, {'methane': 'http://dbpedia.org/resource/Methane', 'hydrogen': 'http://dbpedia.org/resource/Hydrogen', 'carbon monoxide': 'http://dbpedia.org/resource/Carbon_monoxide', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide', 'nitrogen': 'http://dbpedia.org/resource/Nitrogen', 'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+662  ['387', ' 0.96', ' The green in leaves', ' is', ' chlorophyll, a pigment plants use to collect energy from sunlight', 0, {}, 2, {'chlorophyll': 'http://dbpedia.org/resource/Chlorophyll', 'pigment': 'http://dbpedia.org/resource/Pigment'}]
+
+663  ['387', ' 0.85', ' chlorophyll', ' use', ' to collect energy from sunlight', 1, {'chlorophyll': 'http://dbpedia.org/resource/Chlorophyll'}, 0, {}]
+
+665  ['389', ' 0.91', ' The heat from the room', ' causes', ' the ice to melt', 0, {}, 1, {'ice': 'http://dbpedia.org/resource/Ice'}]
+
+666  ['390', ' 0.93', ' The heat of the lightning', ' causes', ' thunder', 1, {'lightning': 'http://dbpedia.org/resource/Lightning'}, 0, {}]
+
+667  ['391', ' 0.89', ' The heat pump', ' extracts', ' this energy', 1, {'heat pump': 'http://dbpedia.org/resource/Heat_pump'}, 0, {}]
+
+669  ['393', ' 0.96', ' The hydrologic cycle', ' links', ' the processes of evaporation, condensation, stream run-off, infiltration, percolation, and transpiration as water moves between the ocean, atmosphere and land', 1, {'hydrologic cycle': 'http://dbpedia.org/resource/Water_cycle'}, 3, {'evaporation': 'http://dbpedia.org/resource/Evaporation', 'percolation': 'http://dbpedia.org/resource/Percolation', 'transpiration': 'http://dbpedia.org/resource/Transpiration'}]
+
+670  ['394', ' 0.91', ' The image', ' shows', ' granite', 0, {}, 1, {'granite': 'http://dbpedia.org/resource/Granite'}]
+
+671  ['395', ' 0.85', ' The impacts of green crabs on estuarine ecosystems', ' are also', ' important', 1, {'estuarine': 'http://dbpedia.org/resource/Estuary'}, 0, {}]
+
+672  ['395', ' 0.90', ' introduced species', ' may may reduce', ' biodiversity', 1, {'introduced species': 'http://dbpedia.org/resource/Introduced_species'}, 1, {'biodiversity': 'http://dbpedia.org/resource/Biodiversity'}]
+
+673  ['395', ' 0.89', ' introduced species', ' cause', ' extinctions', 1, {'introduced species': 'http://dbpedia.org/resource/Introduced_species'}, 0, {}]
+
+679  ['399', ' 0.95', ' The key to this kind of study', ' is', ' the archaeologist making direct observations of cultural behavior', 0, {}, 1, {'archaeologist': 'http://dbpedia.org/resource/Archaeology'}]
+
+680  ['399', ' 0.90', ' the archaeologist', ' making', ' direct observations of cultural behavior', 1, {'archaeologist': 'http://dbpedia.org/resource/Archaeology'}, 0, {}]
+
+687  ['404', ' 0.78', ' The leaf surfaces', ' are above', ' light green and glabrous', 0, {}, 1, {'glabrous': 'http://dbpedia.org/resource/Glabrousness'}]
+
+690  ['406', ' 0.81', ' The lung', ' is', ' most commonly involved', 1, {'lung': 'http://dbpedia.org/resource/Lung'}, 0, {}]
+
+692  ['407', ' 0.91', ' The magnetic field', ' induced', ' by the electric energy', 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}, 0, {}]
+
+693  ['407', ' 0.93', ' The magnetic field induced by the electric energy', ' thus produces', ' sound and heat', 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}, 0, {}]
+
+694  ['407', ' 0.93', ' The magnetic field induced by the electric energy', ' causes', ' the coil to vibrate', 1, {'magnetic field': 'http://dbpedia.org/resource/Magnetic_field'}, 0, {}]
+
+695  ['408', ' 0.90', ' The marble floors', ' echoed', ' sounds', ' throughout the office', 1, {'marble': 'http://dbpedia.org/resource/Marble'}, 0, {}]
+
+698  ['410', ' 0.95', ' The microscope', ' is', ' an important tool used by biologists to magnify small objects', 1, {'microscope': 'http://dbpedia.org/resource/Microscope'}, 0, {}]
+
+701  ['411', ' 0.83', ' the surgeon', ' uses', ' a mirror or light fixed to their head', ' into your throat', 0, {}, 1, {'mirror': 'http://dbpedia.org/resource/Mirror'}]
+
+705  ['413', ' 0.96', ' The mountain environment', ' is', ' commonly associated- with earthquakes, landslides, mass wasting, floods, and droughts', 1, {'mountain': 'http://dbpedia.org/resource/Mountain'}, 1, {'mass wasting': 'http://dbpedia.org/resource/Mass_wasting'}]
+
+706  ['414', ' 0.90', ' The muds', ' would harden', ' into sedimentary rock and the plants and animals', 0, {}, 1, {'sedimentary rock': 'http://dbpedia.org/resource/Sedimentary_rock'}]
+
+708  ['415', ' 0.95', ' a great roast chicken', ' should taste', ' like chicken', ' Then', 0, {}, 1, {'chicken': 'http://dbpedia.org/resource/Chicken'}]
+
+717  ['420', ' 0.41', ' it', ' to extract', ' the green pigment', 0, {}, 1, {'pigment': 'http://dbpedia.org/resource/Pigment'}]
+
+719  ['422', ' 0.96', ' The physical manifestation of genetic traits in an organism', ' is', ' the genotype', 0, {}, 1, {'genotype': 'http://dbpedia.org/resource/Genotype'}]
+
+723  ['425', ' 0.93', ' The potential energy of the rock', ' is transformed', ' into kinetic energy', 2, {'potential energy': 'http://dbpedia.org/resource/Potential_energy', 'rock': 'http://dbpedia.org/resource/Rock_music'}, 1, {'kinetic energy': 'http://dbpedia.org/resource/Kinetic_energy'}]
+
+729  ['429', ' 0.94', ' a majority of the kiwifruit handlers and producers', ' may be classified', ' as small entities', 1, {'kiwifruit': 'http://dbpedia.org/resource/Kiwifruit'}, 0, {}]
+
+737  ['433', ' 0.95', ' The resulting greater reliance on locally produced waste material', ' should benefit', ' local resource waste recycling activities', 0, {}, 1, {'recycling': 'http://dbpedia.org/resource/Recycling'}]
+
+743  ['437', ' 0.94', ' The salt in seawater', ' affects', ' the ecology of coastal lagoons, tidal flats, and river mouths', 0, {}, 1, {'ecology': 'http://dbpedia.org/resource/Ecology'}]
+
+745  ['438', ' 0.91', ' The scientists', ' kept', ' changing the pattern every few days', 1, {'The scientists': 'http://dbpedia.org/resource/The_Scientists'}, 0, {}]
+
+756  ['443', ' 0.95', ' The seeds', ' drop', ' as the plant dies as a result of changes in the weather', 1, {'The seeds': 'http://dbpedia.org/resource/The_Seeds'}, 0, {}]
+
+760  ['446', ' 0.94', ' These processes', ' include', ' weathering and erosion, sediment deposition by water, wind, ice, and mass-wasting', 0, {}, 5, {'weathering': 'http://dbpedia.org/resource/Weathering', 'erosion': 'http://dbpedia.org/resource/Erosion', 'sediment': 'http://dbpedia.org/resource/Sediment', 'ice': 'http://dbpedia.org/resource/Ice', 'mass-wasting': 'http://dbpedia.org/resource/Mass_wasting'}]
+
+761  ['447', ' 0.87', ' The shale', ' is', ' softer than the neighboring sandstone', ' because it was formed from muddy swamps', 1, {'shale': 'http://dbpedia.org/resource/Shale'}, 1, {'sandstone': 'http://dbpedia.org/resource/Sandstone'}]
+
+765  ['450', ' 0.92', ' The smaller pie chart', ' represents', ' a guideline for healthy individuals', 1, {'pie chart': 'http://dbpedia.org/resource/Pie_chart'}, 0, {}]
+
+767  ['452', ' 0.94', ' The standard unit for mass', ' is', ' the kilogram', 1, {'The standard': 'http://dbpedia.org/resource/London_Evening_Standard'}, 1, {'kilogram': 'http://dbpedia.org/resource/Kilogram'}]
+
+770  ['455', ' 0.95', ' The strategy', ' is', ' to set back plant growth and improve the fishery by exposing most of the dry lake bottom', 0, {}, 1, {'dry lake': 'http://dbpedia.org/resource/Dry_lake'}]
+
+775  ['457', ' 0.94', ' The substitution of such fuels for fossil fuels', ' can reduce', ' hydrocarbon and carbon monoxide emissions', 1, {'fossil': 'http://dbpedia.org/resource/Fossil'}, 2, {'hydrocarbon': 'http://dbpedia.org/resource/Hydrocarbon', 'carbon monoxide': 'http://dbpedia.org/resource/Carbon_monoxide'}]
+
+783  ['460', ' 0.94', ' The temperature at which a liquid boils and starts changing to a gas', ' is called', ' its boiling point', 0, {}, 1, {'boiling point': 'http://dbpedia.org/resource/Boiling_point'}]
+
+784  ['461', ' 0.94', ' The two main causes of this erosion', ' are', ' wave erosion and mass wasting', 1, {'erosion': 'http://dbpedia.org/resource/Erosion'}, 2, {'erosion': 'http://dbpedia.org/resource/Erosion', 'mass wasting': 'http://dbpedia.org/resource/Mass_wasting'}]
+
+787  ['463', ' 0.89', ' living organisms', ' thrive', ' in a given ecosystem', 0, {}, 1, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+790  ['465', ' 0.79', ' contour farming', ' is', ' beneficial on cropland from a conservation and production standpoint on sloping soils in the county', 1, {'farming': 'http://dbpedia.org/resource/Agriculture'}, 0, {}]
+
+796  ['470', ' 0.90', ' The water', ' will be used', ' as feedwater to steam boilers', 0, {}, 1, {'feedwater': 'http://dbpedia.org/resource/Boiler_feedwater'}]
+
+808  ['477', ' 0.62', ' They', ' have', ' one-way lungs to get more oxygen', 0, {}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+818  ['482', ' 0.93', ' light green, dioecious, apetalous flowers', ' appear', ' in early spring', 2, {'dioecious': 'http://dbpedia.org/resource/Plant_reproductive_morphology', 'apetalous': 'http://dbpedia.org/resource/Petal'}, 0, {}]
+
+821  ['483', ' 0.62', ' They', ' will investigate', ' the effects of soil erosion and design conservation methods', 0, {}, 1, {'soil erosion': 'http://dbpedia.org/resource/Soil_erosion'}]
+
+823  ['484', ' 0.85', ' the human eye', ' to focus', ' due to its scattering characteristics', 0, {}, 1, {'scattering': 'http://dbpedia.org/resource/Scattering'}]
+
+828  ['487', ' 0.94', ' This form', ' provides', ' space for the entry of river stages and conditions, temperature, precipitation, snow cover and special river and rainfall observations', 0, {}, 1, {'snow': 'http://dbpedia.org/resource/Snow'}]
+
+829  ['488', ' 0.93', ' This gene', ' is', ' present on chromosome 5', 1, {'gene': 'http://dbpedia.org/resource/Gene'}, 1, {'chromosome 5': 'http://dbpedia.org/resource/Chromosome_5_(human)'}]
+
+830  ['489', ' 0.90', ' This groundwater', ' supplies', ' most of the nutrients', 1, {'groundwater': 'http://dbpedia.org/resource/Groundwater'}, 0, {}]
+
+831  ['489', ' 0.90', ' the nutrients', ' needed', ' by fen plants', 0, {}, 1, {'fen': 'http://dbpedia.org/resource/Fen'}]
+
+832  ['490', ' 0.50', ' This', ' includes', ' the life processes of all cells of organisms, the structure and function of the cell, and an explanation of the cell theory', 0, {}, 1, {'cell theory': 'http://dbpedia.org/resource/Cell_theory'}]
+
+833  ['491', ' 0.45', ' This', ' decreases', ' the effect of certain drugs, such as xylazine and ketamine', 0, {}, 2, {'xylazine': 'http://dbpedia.org/resource/Xylazine', 'ketamine': 'http://dbpedia.org/resource/Ketamine'}]
+
+834  ['492', ' 0.45', ' This', ' is', ' a major river with a fish habitat', 0, {}, 2, {'fish': 'http://dbpedia.org/resource/Fish', 'habitat': 'http://dbpedia.org/resource/Habitat'}]
+
+839  ['495', ' 0.14', ' This', ' means', ' that an increased mortality rate due to disease and predation by rats and cats, will have a terrible impact on their population', 0, {}, 1, {'mortality': 'http://dbpedia.org/resource/Mortality_rate'}]
+
+845  ['498', ' 0.89', ' This mixture', ' topped off', ' with soda water', 0, {}, 1, {'soda water': 'http://dbpedia.org/resource/Carbonated_water'}]
+
+847  ['499', ' 0.90', ' the water', ' coming', ' out of the sponge', 0, {}, 1, {'sponge': 'http://dbpedia.org/resource/Sponge'}]
+
+848  ['499', ' 0.94', ' the water coming out of the sponge', ' represents', ' precipitation', 1, {'sponge': 'http://dbpedia.org/resource/Sponge'}, 0, {}]
+
+852  ['501', ' 0.41', ' This', ' frost', ' a layer cake', 0, {}, 1, {'layer cake': 'http://dbpedia.org/resource/Layer_cake'}]
+
+853  ['502', ' 0.38', ' This', ' will provide', ' the needed carbon dioxide', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+857  ['504', ' 0.85', ' the authors', ' found', ' evidence that fossil plants can help scientists determine the sources of carbon in the atmosphere hundreds of millions of years', 0, {}, 2, {'fossil': 'http://dbpedia.org/resource/Fossil', 'carbon': 'http://dbpedia.org/resource/Carbon'}]
+
+858  ['504', ' 0.92', ' fossil plants', ' can help', ' scientists determine the sources of carbon in the atmosphere hundreds of millions of years', 1, {'fossil': 'http://dbpedia.org/resource/Fossil'}, 1, {'carbon': 'http://dbpedia.org/resource/Carbon'}]
+
+864  ['508', ' 0.95', ' Total length', ' was measured', ' by placing the animal flat on the plastic metric ruler, holding the nose at zero and feeling to tip of the last vertebra in the tail for the total length measure', ' then', 0, {}, 2, {'metric': 'http://dbpedia.org/resource/Metric_system', 'vertebra': 'http://dbpedia.org/resource/Vertebra'}]
+
+865  ['509', ' 0.90', ' Traditional filters', ' produced', ' by evaporation of materials', 0, {}, 1, {'evaporation': 'http://dbpedia.org/resource/Evaporation'}]
+
+866  ['509', ' 0.90', ' Traditional filters produced by evaporation of materials', ' contain', ' small voids that absorb water and change the properties of the filter', 1, {'evaporation': 'http://dbpedia.org/resource/Evaporation'}, 0, {}]
+
+884  ['519', ' 0.27', ' We', ' also agree', ' that, as the market grows, competition and economies of scale will lower the price of broadband access and make such services more accessible to large parts of the population', 0, {}, 1, {'broadband': 'http://dbpedia.org/resource/Broadband'}]
+
+886  ['521', ' 0.45', ' We', ' breathe', ' in oxygen', 0, {}, 1, {'oxygen': 'http://dbpedia.org/resource/Oxygen'}]
+
+887  ['521', ' 0.41', ' We', ' breathe out', ' carbon dioxide', 0, {}, 1, {'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+888  ['522', ' 0.92', ' yeast', ' has', ' 6,000 genes, in other words', 1, {'yeast': 'http://dbpedia.org/resource/Yeast'}, 0, {}]
+
+891  ['523', ' 0.89', ' Weeds', ' are increasing', ' soil erosion', 1, {'Weeds': 'http://dbpedia.org/resource/Weeds_(TV_series)'}, 1, {'soil erosion': 'http://dbpedia.org/resource/Soil_erosion'}]
+
+896  ['526', ' 0.82', ' economic resource', ' provides', ' food, transportation, local identity, and that maintain rain forest ecosystem, as well as issues about public policy, organization, use and consumption, and water quality and preservation', 0, {}, 2, {'rain forest': 'http://dbpedia.org/resource/Rainforest', 'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+900  ['528', ' 0.80', ' Whales, seals and walrus', ' have', ' a layer of fat that helps keep their body warm even in cold water', 1, {'walrus': 'http://dbpedia.org/resource/Walrus'}, 1, {'fat': 'http://dbpedia.org/resource/Fat'}]
+
+901  ['528', ' 0.84', ' a layer of fat', ' helps', ' keep their body warm even in cold water', 1, {'fat': 'http://dbpedia.org/resource/Fat'}, 0, {}]
+
+905  ['530', ' 0.94', ' wave energy', ' is concentrated', ' on the points', ' causing erosion there, but allowing sand to build up in the area between them', ' When a beach is flanked by rocky points', 1, {'wave energy': 'http://dbpedia.org/resource/Wave_power'}, 0, {}]
+
+907  ['532', ' 0.78', ' a rubber band', ' is stretched', ' too much', 1, {'rubber band': 'http://dbpedia.org/resource/Rubber_band'}, 0, {}]
+
+908  ['532', ' 0.55', ' it', ' will break', ' When a rubber band is stretched too much', 0, {}, 1, {'rubber band': 'http://dbpedia.org/resource/Rubber_band'}]
+
+910  ['533', ' 0.97', ' the stem pith', ' looks', ' dark and water-soaked', ' When a wilted plant is cut near the soil line', 1, {'pith': 'http://dbpedia.org/resource/Pith'}, 0, {}]
+
+911  ['534', ' 0.79', ' an electric current', ' is produced', ' in that wire', 1, {'electric current': 'http://dbpedia.org/resource/Electric_current'}, 0, {}]
+
+913  ['535', ' 0.80', ' coffee', ' is', ' heated', 1, {'coffee': 'http://dbpedia.org/resource/Coffee'}, 0, {}]
+
+917  ['537', ' 0.94', ' the two brass conductors', ' will be electrically connected', ' When pressure is applied', 1, {'brass': 'http://dbpedia.org/resource/Brass'}, 0, {}]
+
+921  ['539', ' 0.27', ' it', ' lose', ' energy and the force of gravity on it', 0, {}, 1, {'gravity': 'http://dbpedia.org/resource/Gravity'}]
+
+923  ['540', ' 0.90', ' water vapor', ' condenses', ' in the atmosphere', 1, {'water vapor': 'http://dbpedia.org/resource/Water_vapor'}, 0, {}]
+
+925  ['541', ' 0.90', ' water vapor', ' condenses', ' into liquid', 1, {'water vapor': 'http://dbpedia.org/resource/Water_vapor'}, 0, {}]
+
+929  ['543', ' 0.95', ' White kneadable rubber erasers', ' do', ' a good job', 1, {'White': 'http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census'}, 0, {}]
+
+930  ['544', ' 0.80', ' White objects', ' reflect', ' whatever kind of light they receive', 1, {'White': 'http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census'}, 0, {}]
+
+931  ['545', ' 0.79', ' Widespread and common prey species', ' to have', ' specialist predators that are rare or locally endemic species', 0, {}, 1, {'endemic': 'http://dbpedia.org/resource/Endemism'}]
+
+932  ['545', ' 0.89', ' specialist predators', ' are', ' rare or locally endemic species', 0, {}, 1, {'endemic': 'http://dbpedia.org/resource/Endemism'}]
+
+933  ['545', ' 0.94', ' the loss of common species', ' to have', ' a large impact on species higher in the food chain', 0, {}, 1, {'food chain': 'http://dbpedia.org/resource/Food_chain'}]
+
+934  ['545', ' 0.94', ' the loss of common species', ' would tend', ' to have a large impact on species higher in the food chain', 0, {}, 1, {'food chain': 'http://dbpedia.org/resource/Food_chain'}]
+
+942  ['553', ' 0.94', ' the water solution', ' to cloud', ' as the black ink is heated and released from the canon bx-3 ink cartridge', 0, {}, 1, {'ink cartridge': 'http://dbpedia.org/resource/Ink_cartridge'}]
+
+944  ['553', ' 0.91', ' the black ink', ' released', ' from the canon bx-3 ink cartridge', 0, {}, 1, {'ink cartridge': 'http://dbpedia.org/resource/Ink_cartridge'}]
+
+945  ['553', ' 0.55', ' You', ' will see', ' the water solution start to cloud', 0, {}, 1, {'cloud': 'http://dbpedia.org/resource/Cloud'}]
+
+946  ['554', ' 0.92', ' Absorption of cesium by humans', ' takes primarily', ' place', 1, {'cesium': 'http://dbpedia.org/resource/Caesium'}, 0, {}]
+
+948  ['556', ' 0.95', ' all the non-red colors in sunlight', ' get', ' absorbed and turn into radiant heat', 0, {}, 1, {'radiant heat': 'http://dbpedia.org/resource/Thermal_radiation'}]
+
+950  ['556', ' 0.94', ' all the non-red colors in sunlight', ' turn', ' into radiant heat', 0, {}, 1, {'radiant heat': 'http://dbpedia.org/resource/Thermal_radiation'}]
+
+952  ['557', ' 0.90', ' the damage', ' caused', ' by climate change', 0, {}, 1, {'climate change': 'http://dbpedia.org/resource/Climate_change'}]
+
+953  ['557', ' 0.83', ' the damage caused by climate change', ' may be', ' catastrophic and irreversible', 1, {'climate change': 'http://dbpedia.org/resource/Climate_change'}, 0, {}]
+
+956  ['559', ' 0.88', ' A gene', ' is', ' a hereditary unit that can be passed on unaltered for many generations', 1, {'gene': 'http://dbpedia.org/resource/Gene'}, 0, {}]
+
+958  ['560', ' 0.93', ' Agricultural biotechnology', ' is', ' a collection of scientific techniques, including genetic engineering', 1, {'Agricultural biotechnology': 'http://dbpedia.org/resource/Agricultural_biotechnology'}, 1, {'genetic engineering': 'http://dbpedia.org/resource/Genetic_engineering'}]
+
+959  ['560', ' 0.93', ' genetic engineering', ' are used', ' to create, improve, or modify plants, animals, and microorganisms', 1, {'genetic engineering': 'http://dbpedia.org/resource/Genetic_engineering'}, 0, {}]
+
+968  ['565', ' 0.90', ' All phytoplankton', ' produce', ' organic carbon compounds from dissolved carbon dioxide', 1, {'phytoplankton': 'http://dbpedia.org/resource/Phytoplankton'}, 2, {'carbon': 'http://dbpedia.org/resource/Carbon', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+971  ['568', ' 0.95', ' a dam failure', ' can cause', ' a flash flood', ' at times', 1, {'dam': 'http://dbpedia.org/resource/Dam'}, 1, {'flash flood': 'http://dbpedia.org/resource/Flash_flood'}]
+
+975  ['570', ' 0.66', ' Anagenesis entire species', ' undergoes', ' change', ' until transformed into recognizably different species', 1, {'Anagenesis': 'http://dbpedia.org/resource/Anagenesis'}, 0, {}]
+
+977  ['572', ' 0.91', ' An electric motor', ' converts', ' electrical energy into mechanical energy', 1, {'electric motor': 'http://dbpedia.org/resource/Electric_motor'}, 1, {'mechanical energy': 'http://dbpedia.org/resource/Mechanical_energy'}]
+
+978  ['573', ' 0.85', ' a strange strategy', ' allows', ' males to remain attached to female anglerfish once they have managed to find them following a chemical smell', 0, {}, 1, {'anglerfish': 'http://dbpedia.org/resource/Anglerfish'}]
+
+984  ['576', ' 0.92', ' organisms', ' can survive', ' for only a very short period of time outside of the fish', 0, {}, 1, {'fish': 'http://dbpedia.org/resource/Fish'}]
+
+985  ['576', ' 0.88', ' the fish', ' infect', ' they', 1, {'fish': 'http://dbpedia.org/resource/Fish'}, 0, {}]
+
+986  ['577', ' 0.89', ' Any microorganism', ' may cause', ' a disease', 1, {'microorganism': 'http://dbpedia.org/resource/Microorganism'}, 0, {}]
+
+989  ['579', ' 0.94', ' A sample of ice', ' has', ' a mass of 25 kilograms', 1, {'ice': 'http://dbpedia.org/resource/Ice'}, 0, {}]
+
+993  ['581', ' 0.90', ' Asexual reproduction', ' occurs', ' in both plants and animals', 1, {'Asexual reproduction': 'http://dbpedia.org/resource/Asexual_reproduction'}, 0, {}]
+
+996  ['583', ' 0.90', ' A sinkhole', ' formed', ' when this cavity caved in', 1, {'sinkhole': 'http://dbpedia.org/resource/Sinkhole'}, 0, {}]
+
+999  ['584', ' 0.32', ' they', ' use', ' oxygen that fish need to survive', 0, {}, 2, {'oxygen': 'http://dbpedia.org/resource/Oxygen', 'fish': 'http://dbpedia.org/resource/Fish'}]
+
+1000  ['584', ' 0.55', ' fish', ' need', ' to survive', 1, {'fish': 'http://dbpedia.org/resource/Fish'}, 0, {}]
+
+1001  ['585', ' 0.90', ' the cells', ' metabolize', ' hydrogen sulfide', 0, {}, 1, {'hydrogen sulfide': 'http://dbpedia.org/resource/Hydrogen_sulfide'}]
+
+1002  ['585', ' 0.68', ' they', ' form', ' internal deposits of elemental sulfur', 0, {}, 1, {'sulfur': 'http://dbpedia.org/resource/Sulfur'}]
+
+1003  ['586', ' 0.87', ' the shared habitat needs of many species at risk', ' have become', ' more apparent', 1, {'habitat': 'http://dbpedia.org/resource/Habitat'}, 0, {}]
+
+1004  ['586', ' 0.91', ' a more ecosystemic approach', ' focuses', ' on habitat restoration', 0, {}, 1, {'habitat': 'http://dbpedia.org/resource/Habitat'}]
+
+1006  ['588', ' 0.76', ' it', ' turns', ' into ice', ' during the process of deposition or condenses into liquid water', ' As water vapor cools in the atmosphere', 0, {}, 1, {'ice': 'http://dbpedia.org/resource/Ice'}]
+
+1007  ['589', ' 0.93', ' Asymmetrical cell division', ' is', ' very common in both animals and plants', 1, {'cell division': 'http://dbpedia.org/resource/Cell_division'}, 0, {}]
+
+1010  ['591', ' 0.97', ' a human embryo', ' is', ' barely distinguishable from any other vertebrate embryo-bird, reptile, or mammal', ' At four weeks', 1, {'embryo': 'http://dbpedia.org/resource/Embryo'}, 3, {'vertebrate': 'http://dbpedia.org/resource/Vertebrate', 'reptile': 'http://dbpedia.org/resource/Reptile', 'mammal': 'http://dbpedia.org/resource/Mammal'}]
+
+1012  ['592', ' 0.93', ' A tidal bore', ' is', ' the effect of the tide', 1, {'tidal bore': 'http://dbpedia.org/resource/Tidal_bore'}, 0, {}]
+
+1014  ['592', ' 0.93', ' a wave up the rivers and estuaries', ' reverses', ' their natural flow', ' temporarily', 1, {'estuaries': 'http://dbpedia.org/resource/Estuary'}, 0, {}]
+
+1016  ['594', ' 0.89', ' testicular cancer', ' arises', ' from sex cells, or germ cells', 1, {'testicular cancer': 'http://dbpedia.org/resource/Testicular_cancer'}, 0, {}]
+
+1017  ['595', ' 0.92', ' A typical spiral galaxy', ' contains', ' about one hundred billion stars', 1, {'spiral galaxy': 'http://dbpedia.org/resource/Spiral_galaxy'}, 0, {}]
+
+1018  ['595', ' 0.93', ' A typical spiral galaxy', ' is', ' approximately one hundred thousand light years across', 1, {'spiral galaxy': 'http://dbpedia.org/resource/Spiral_galaxy'}, 0, {}]
+
+1019  ['596', ' 0.92', ' A water flow metaphor', ' is used', ' to illustrate electric current', 0, {}, 1, {'electric current': 'http://dbpedia.org/resource/Electric_current'}]
+
+1020  ['596', ' 0.91', ' A water flow metaphor', ' to illustrate', ' electric current', 0, {}, 1, {'electric current': 'http://dbpedia.org/resource/Electric_current'}]
+
+1021  ['597', ' 0.93', ' Bacterial saprophytes and saprophytic fungi', ' are', ' essential to the recycling of nutrients in natural ecosystem', 3, {'saprophytes': 'http://dbpedia.org/resource/Saprotrophic_nutrition', 'saprophytic': 'http://dbpedia.org/resource/Saprotrophic_nutrition', 'fungi': 'http://dbpedia.org/resource/Fungus'}, 2, {'recycling': 'http://dbpedia.org/resource/Recycling', 'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+1026  ['600', ' 0.91', ' spiders', ' use', ' silk', ' for many purposes such as dispersal by ballooning and egg sacs', 0, {}, 1, {'silk': 'http://dbpedia.org/resource/Silk'}]
+
+1027  ['601', ' 0.86', ' Biomass', ' is probably', ' our oldest source of energy', 1, {'Biomass': 'http://dbpedia.org/resource/Biomass'}, 0, {}]
+
+1033  ['605', ' 0.45', ' he', ' turned', ' to the mirror', 0, {}, 1, {'mirror': 'http://dbpedia.org/resource/Mirror'}]
+
+1036  ['607', ' 0.95', ' Chiropractic science', ' is', ' concerned with the relationship between structure, primarily the spine, and function, primarily the nervous system, of the human body', 1, {'Chiropractic': 'http://dbpedia.org/resource/Chiropractic'}, 1, {'nervous system': 'http://dbpedia.org/resource/Nervous_system'}]
+
+1038  ['608', ' 0.92', ' Chlorophyll', ' is found', ' in special structures within plant cells', 1, {'Chlorophyll': 'http://dbpedia.org/resource/Chlorophyll'}, 0, {}]
+
+1045  ['612', ' 0.91', ' a deposit of sediment', ' occurs', ' at a river mouth', 1, {'sediment': 'http://dbpedia.org/resource/Sediment'}, 0, {}]
+
+1047  ['614', ' 0.90', ' Different elements', ' react', ' to alpha radiation', 0, {}, 1, {'alpha radiation': 'http://dbpedia.org/resource/Alpha_decay'}]
+
+1048  ['614', ' 0.91', ' scientists', ' could determine', ' which elements were present in the rock by analyzing the results', 0, {}, 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}]
+
+1054  ['618', ' 0.92', ' Earth', ' rotates', ' once every day', 1, {'Earth': 'http://dbpedia.org/resource/Earth'}, 0, {}]
+
+1055  ['619', ' 0.90', ' Electric motors', ' convert', ' electrical energy into mechanical energy', 0, {}, 1, {'mechanical energy': 'http://dbpedia.org/resource/Mechanical_energy'}]
+
+1060  ['623', ' 0.92', ' Evolution by natural selection', ' could not be', ' faster than the mutation rate', 1, {'natural selection': 'http://dbpedia.org/resource/Natural_selection'}, 1, {'mutation rate': 'http://dbpedia.org/resource/Mutation_rate'}]
+
+1062  ['624', ' 0.95', ' Few businesses and suppliers', ' have', ' a policy to purchase environmentally friendly products and perform environmental audits', 0, {}, 1, {'environmental audits': 'http://dbpedia.org/resource/Environmental_audit'}]
+
+1066  ['627', ' 0.95', ' Fog and clouds', ' form', ' through condensation around cloud condensation nuclei', 0, {}, 1, {'cloud condensation nuclei': 'http://dbpedia.org/resource/Cloud_condensation_nuclei'}]
+
+1067  ['628', ' 0.91', ' the slowing oscillations of the molecules', ' allow', ' the water to freeze into ice', 0, {}, 1, {'ice': 'http://dbpedia.org/resource/Ice'}]
+
+1072  ['633', ' 0.92', ' the combustion of hydrogen', ' produces', ' water', 2, {'combustion': 'http://dbpedia.org/resource/Combustion', 'hydrogen': 'http://dbpedia.org/resource/Hydrogen'}, 0, {}]
+
+1073  ['633', ' 0.92', ' air pollution from vehicles', ' would be replaced', ' with air pollution', 1, {'air pollution': 'http://dbpedia.org/resource/Air_pollution'}, 1, {'air pollution': 'http://dbpedia.org/resource/Air_pollution'}]
+
+1074  ['633', ' 0.90', ' air pollution', ' generated', ' by the electricity generation plants', 1, {'air pollution': 'http://dbpedia.org/resource/Air_pollution'}, 0, {}]
+
+1077  ['635', ' 0.90', ' Global warming', ' will lead', ' to much more severe weather', 1, {'Global warming': 'http://dbpedia.org/resource/Global_warming'}, 0, {}]
+
+1078  ['636', ' 0.95', ' Glucose, or sugar', ' is', ' an energy source for living cells in plants, animals and humans', 2, {'Glucose': 'http://dbpedia.org/resource/Glucose', 'sugar': 'http://dbpedia.org/resource/Sugar'}, 0, {}]
+
+1083  ['640', ' 0.92', ' Heredity', ' is', ' the passing of traits from parent to offspring', 1, {'Heredity': 'http://dbpedia.org/resource/Heredity'}, 0, {}]
+
+1087  ['644', ' 0.94', ' Human factors', ' involves', ' considering how humans can use systems more effectively, efficiently, and acceptably', 1, {'Human factors': 'http://dbpedia.org/resource/Human_factors_and_ergonomics'}, 0, {}]
+
+1091  ['647', ' 0.93', ' Hydrogen peroxide', ' has been found', ' effective in milk sterilization', 1, {'peroxide': 'http://dbpedia.org/resource/Peroxide'}, 2, {'milk': 'http://dbpedia.org/resource/Milk', 'sterilization': 'http://dbpedia.org/resource/Compulsory_sterilization'}]
+
+1096  ['649', ' 0.94', ' the fossil record', ' showing', ' the gradual transition of the forelimbs of the ancestral reptile into the wings of a bird, and the gradual transition of some structure of the reptile into the feathers of a bird', 1, {'fossil': 'http://dbpedia.org/resource/Fossil'}, 2, {'reptile': 'http://dbpedia.org/resource/Reptile', 'bird': 'http://dbpedia.org/resource/Bird'}]
+
+1099  ['651', ' 0.91', ' the digestive system', ' contains', ' food', 1, {'digestive system': 'http://dbpedia.org/resource/Human_digestive_system'}, 0, {}]
+
+1102  ['652', ' 0.92', ' the organs of the digestive system', ' transform', ' food into bone, tissue, blood, and energy', 1, {'digestive system': 'http://dbpedia.org/resource/Human_digestive_system'}, 1, {'bone': 'http://dbpedia.org/resource/Bone'}]
+
+1103  ['652', ' 0.94', ' the organs of the digestive system that transform food into bone, tissue, blood, and energy', ' fail', ' to function properly', 2, {'digestive system': 'http://dbpedia.org/resource/Human_digestive_system', 'bone': 'http://dbpedia.org/resource/Bone'}, 0, {}]
+
+1112  ['658', ' 0.96', ' In a car factory, adding a rubber stop to a conveyor belt', ' might stop', ' damage to workpieces', 1, {'conveyor belt': 'http://dbpedia.org/resource/Conveyor_belt'}, 0, {}]
+
+1120  ['662', ' 0.95', ' the transient microorganisms often found on the hands of hospital personnel', ' may cause', ' nosocomial infections', 0, {}, 1, {'nosocomial': 'http://dbpedia.org/resource/Hospital-acquired_infection'}]
+
+1123  ['665', ' 0.90', ' the heat', ' required', ' for the evaporation', 0, {}, 1, {'evaporation': 'http://dbpedia.org/resource/Evaporation'}]
+
+1124  ['665', ' 0.96', ' the heat required for the evaporation', ' will come', ' from the drop', ' Initially', 1, {'evaporation': 'http://dbpedia.org/resource/Evaporation'}, 0, {}]
+
+1128  ['666', ' 0.96', ' using corrective fertilizer application and other inputs', ' can compensate', ' the salinity effect', ' In moderately saline soil areas', 1, {'fertilizer': 'http://dbpedia.org/resource/Fertilizer'}, 1, {'salinity': 'http://dbpedia.org/resource/Salinity'}]
+
+1134  ['671', ' 0.96', ' nomads moving to less arid areas', ' disrupt', ' the local ecosystem', ' In some areas', 0, {}, 1, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+1135  ['671', ' 0.95', ' nomads moving to less arid areas', ' increase', ' the rate of erosion of the land', ' In some areas', 0, {}, 1, {'erosion': 'http://dbpedia.org/resource/Erosion'}]
+
+1143  ['674', ' 0.94', ' Insulin', ' is', ' a hormone made in the pancreas', 1, {'Insulin': 'http://dbpedia.org/resource/Insulin'}, 2, {'hormone': 'http://dbpedia.org/resource/Hormone', 'pancreas': 'http://dbpedia.org/resource/Pancreas'}]
+
+1144  ['674', ' 0.90', ' a hormone', ' made', ' in the pancreas', 1, {'hormone': 'http://dbpedia.org/resource/Hormone'}, 1, {'pancreas': 'http://dbpedia.org/resource/Pancreas'}]
+
+1145  ['674', ' 0.89', ' the pancreas', ' controls', ' the level of sugar in the blood', 1, {'pancreas': 'http://dbpedia.org/resource/Pancreas'}, 1, {'sugar': 'http://dbpedia.org/resource/Sugar'}]
+
+1147  ['676', ' 0.95', ' In the bars rest during the performance', ' try', ' not to stand there like a goldfish', 0, {}, 1, {'goldfish': 'http://dbpedia.org/resource/Goldfish'}]
+
+1148  ['676', ' 0.76', ' a goldfish', ' counting etc.', ' one two', 1, {'goldfish': 'http://dbpedia.org/resource/Goldfish'}, 0, {}]
+
+1152  ['679', ' 0.45', ' It', ' can harm', ' native fish populations', ' through competition for food and nesting space', 0, {}, 1, {'fish': 'http://dbpedia.org/resource/Fish'}]
+
+1154  ['681', ' 0.64', ' It', ' is', ' a plant with flowers of cupped, ribbony petals, and the color and smell of cinnamon-spiced bittersweet chocolate', 0, {}, 1, {'bittersweet chocolate': 'http://dbpedia.org/resource/Types_of_chocolate'}]
+
+1156  ['682', ' 0.52', ' It', ' is', ' bedrock', 0, {}, 1, {'bedrock': 'http://dbpedia.org/resource/Bedrock'}]
+
+1169  ['690', ' 0.94', ' Karst limestone', ' consists', ' of rock formations with extensive solution channels, sinkholes, and caves', 1, {'limestone': 'http://dbpedia.org/resource/Limestone'}, 1, {'rock': 'http://dbpedia.org/resource/Rock_music'}]
+
+1170  ['690', ' 0.93', ' caves', ' formed', ' by the dissolution of limestone and dolomite by slightly acidic rain water', 0, {}, 2, {'limestone': 'http://dbpedia.org/resource/Limestone', 'dolomite': 'http://dbpedia.org/resource/Dolomite'}]
+
+1171  ['691', ' 0.95', ' Keratin', ' is found', ' in hair, feathers, nails, claws, hooves and reptile scales', 0, {}, 1, {'reptile': 'http://dbpedia.org/resource/Reptile'}]
+
+1172  ['692', ' 0.93', ' Lichens', ' are', ' a partnership between a type of fungus and green algae', 0, {}, 2, {'fungus': 'http://dbpedia.org/resource/Fungus', 'green algae': 'http://dbpedia.org/resource/Green_algae'}]
+
+1173  ['693', ' 0.93', ' a cyanobacteria', ' living', ' in a symbiotic relationship with a fungus', 1, {'cyanobacteria': 'http://dbpedia.org/resource/Cyanobacteria'}, 2, {'symbiotic': 'http://dbpedia.org/resource/Symbiosis', 'fungus': 'http://dbpedia.org/resource/Fungus'}]
+
+1176  ['696', ' 0.92', ' Lithium', ' is', ' a metal near the top of the periodic table', 1, {'Lithium': 'http://dbpedia.org/resource/Lithium'}, 1, {'periodic table': 'http://dbpedia.org/resource/Periodic_table'}]
+
+1177  ['697', ' 0.91', ' Livestock production', ' can result', ' in emissions of nitrous oxide, a very potent greenhouse gas, and carbon dioxide, the most abundant greenhouse gas', 0, {}, 3, {'nitrous oxide': 'http://dbpedia.org/resource/Nitrous_oxide', 'greenhouse gas': 'http://dbpedia.org/resource/Greenhouse_gas', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+1180  ['700', ' 0.93', ' Magnesium oxide', ' is', ' the major source of magnesium for animal feeds', 1, {'Magnesium oxide': 'http://dbpedia.org/resource/Magnesium_oxide'}, 1, {'magnesium': 'http://dbpedia.org/resource/Magnesium'}]
+
+1181  ['701', ' 0.96', ' Malaria', ' is', ' a serious, sometimes fatal, disease caused by a parasite', 1, {'Malaria': 'http://dbpedia.org/resource/Malaria'}, 1, {'parasite': 'http://dbpedia.org/resource/Parasitism'}]
+
+1182  ['702', ' 0.78', ' Man', ' is not', ' another species within an ecosystem in fragile balance', 0, {}, 2, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem', 'fragile balance': 'http://dbpedia.org/resource/Stargate_SG-1_(season_7)'}]
+
+1183  ['703', ' 0.90', ' Many species of birds in the rain forest', ' make', ' their nests', ' in the hallow of trees', 1, {'rain forest': 'http://dbpedia.org/resource/Rainforest'}, 0, {}]
+
+1191  ['708', ' 0.82', ' Microorganisms', ' are', ' crucial to nutrient recycling', ' in ecosystems', ' as they act as decomposers', 0, {}, 1, {'recycling': 'http://dbpedia.org/resource/Recycling'}]
+
+1194  ['710', ' 0.91', ' Minerals and fossil fuels', ' are', ' nonrenewable natural resources', ' because they are regenerated on a geological, rather than human, time scale', 1, {'fossil': 'http://dbpedia.org/resource/Fossil'}, 0, {}]
+
+1197  ['712', ' 0.93', ' the elements', ' compose', ' organic compounds carbon, nitrogen, oxygen, and hydrogen', 0, {}, 4, {'carbon': 'http://dbpedia.org/resource/Carbon', 'nitrogen': 'http://dbpedia.org/resource/Nitrogen', 'oxygen': 'http://dbpedia.org/resource/Oxygen', 'hydrogen': 'http://dbpedia.org/resource/Hydrogen'}]
+
+1198  ['712', ' 0.97', ' the elements that compose organic compounds carbon, nitrogen, oxygen, and hydrogen', ' are', ' unlike the other elements in the periodic table', 4, {'carbon': 'http://dbpedia.org/resource/Carbon', 'nitrogen': 'http://dbpedia.org/resource/Nitrogen', 'oxygen': 'http://dbpedia.org/resource/Oxygen', 'hydrogen': 'http://dbpedia.org/resource/Hydrogen'}, 1, {'periodic table': 'http://dbpedia.org/resource/Periodic_table'}]
+
+1201  ['714', ' 0.92', ' a few, such as guppies', ' are', ' live bearers', 1, {'guppies': 'http://dbpedia.org/resource/Guppy'}, 0, {}]
+
+1202  ['715', ' 0.90', ' the energy', ' released', ' in an earthquake', 0, {}, 1, {'earthquake': 'http://dbpedia.org/resource/Earthquake'}]
+
+1204  ['716', ' 0.92', ' Most of the population', ' depends', ' on agriculture and fishing', 0, {}, 1, {'agriculture': 'http://dbpedia.org/resource/Agriculture'}]
+
+1209  ['720', ' 0.91', ' Most plant genes', ' are', ' in the cell nucleus', 0, {}, 1, {'cell nucleus': 'http://dbpedia.org/resource/Cell_nucleus'}]
+
+1210  ['720', ' 0.29', ' it', ' is', ' these genes that are involved in genetic engineering', 0, {}, 1, {'genetic engineering': 'http://dbpedia.org/resource/Genetic_engineering'}]
+
+1211  ['720', ' 0.89', ' these genes', ' are involved', ' in genetic engineering', 0, {}, 1, {'genetic engineering': 'http://dbpedia.org/resource/Genetic_engineering'}]
+
+1214  ['722', ' 0.89', ' mechanical energy', ' moves', ' the human body', 1, {'mechanical energy': 'http://dbpedia.org/resource/Mechanical_energy'}, 0, {}]
+
+1215  ['723', ' 0.91', ' the genetic code', ' inherited', ' from parents', 1, {'genetic code': 'http://dbpedia.org/resource/Genetic_code'}, 0, {}]
+
+1216  ['723', ' 0.91', ' Mutations in the genetic code', ' alter', ' the physical characteristics of the offspring', 1, {'genetic code': 'http://dbpedia.org/resource/Genetic_code'}, 0, {}]
+
+1217  ['724', ' 0.57', ' it', ' can be used', ' for studying molecular dynamics, kinetics, microstructures, and equilibrium levels of chemical reactions', 0, {}, 1, {'molecular dynamics': 'http://dbpedia.org/resource/Molecular_dynamics'}]
+
+1233  ['733', ' 0.93', ' Other waves, such as sound waves', ' can not travel', ' through a vacuum', 0, {}, 1, {'vacuum': 'http://dbpedia.org/resource/Vacuum'}]
+
+1241  ['737', ' 0.93', ' chemosynthetic organisms', ' get energy', ' from inorganic chemical bonds', 1, {'chemosynthetic': 'http://dbpedia.org/resource/Chemosynthesis'}, 0, {}]
+
+1244  ['739', ' 0.96', ' Physical or mechanical weathering', ' is', ' the breaking of rocks and minerals into smaller, chemically identical, pieces', 1, {'weathering': 'http://dbpedia.org/resource/Weathering'}, 0, {}]
+
+1247  ['741', ' 0.90', ' Plant cells', ' have', ' a stiff cell wall', 0, {}, 1, {'cell wall': 'http://dbpedia.org/resource/Cell_wall'}]
+
+1248  ['741', ' 0.90', ' animal cells', ' have', ' a flexible, semi-permiable, cell membrane', 0, {}, 1, {'cell membrane': 'http://dbpedia.org/resource/Cell_membrane'}]
+
+1250  ['743', ' 0.74', ' the sugar particles', ' are', ' too small', 1, {'sugar': 'http://dbpedia.org/resource/Sugar'}, 0, {}]
+
+1251  ['744', ' 0.95', ' Protein', ' is', ' extremely important for the growth and repair of muscle tissue ', 0, {}, 1, {'muscle': 'http://dbpedia.org/resource/Muscle'}]
+
+1253  ['746', ' 0.66', ' Recycling', ' separates', ' the toxic substances, such as mercury, from the glass, aluminum, and other lamp components', 0, {}, 1, {'aluminum': 'http://dbpedia.org/resource/Aluminium'}]
+
+1254  ['747', ' 0.93', ' Red chili powder, black pepper', ' are added', ' to the mixture to season the mixture', 2, {'chili powder': 'http://dbpedia.org/resource/Chili_powder', 'black pepper': 'http://dbpedia.org/resource/Black_pepper'}, 0, {}]
+
+1255  ['748', ' 0.89', ' Respiration', ' is estimated', ' as a daily proportion of carbon in living tissue', 0, {}, 1, {'carbon': 'http://dbpedia.org/resource/Carbon'}]
+
+1258  ['750', ' 0.90', ' climate change', ' induced', ' by greenhouse gas emissions', 1, {'climate change': 'http://dbpedia.org/resource/Climate_change'}, 1, {'greenhouse gas': 'http://dbpedia.org/resource/Greenhouse_gas'}]
+
+1259  ['751', ' 0.81', ' Rocks', ' are composed', ' of a number of mineral constituents', 0, {}, 1, {'mineral': 'http://dbpedia.org/resource/Mineral'}]
+
+1260  ['751', ' 0.91', ' mineral constituents', ' melt', ' over a range of temperatures', 1, {'mineral': 'http://dbpedia.org/resource/Mineral'}, 0, {}]
+
+1261  ['752', ' 0.94', ' Salinispora arenicola', ' is', ' an obligate marine actinomycetes bacterium species ', 0, {}, 1, {'actinomycetes': 'http://dbpedia.org/resource/Actinomycetales'}]
+
+1262  ['754', ' 0.88', ' Scientists', ' studying', ' dinosaur bones for almost 200 years', 0, {}, 1, {'dinosaur': 'http://dbpedia.org/resource/Dinosaur'}]
+
+1263  ['755', ' 0.94', ' Several analytical approaches', ' have been used', ' to discern the pure impact of soil salinity from other factors of production', 0, {}, 1, {'soil salinity': 'http://dbpedia.org/resource/Soil_salinity'}]
+
+1264  ['755', ' 0.93', ' Several analytical approaches', ' to discern', ' the pure impact of soil salinity from other factors of production', 0, {}, 1, {'soil salinity': 'http://dbpedia.org/resource/Soil_salinity'}]
+
+1265  ['756', ' 0.52', ' She', ' drank', ' pure milk ', 0, {}, 1, {'milk': 'http://dbpedia.org/resource/Milk'}]
+
+1268  ['760', ' 0.91', ' a marine natural product', ' formed', ' by a marine bacterium', 1, {'natural product': 'http://dbpedia.org/resource/Natural_product'}, 0, {}]
+
+1269  ['761', ' 0.72', ' they', ' are', ' about the size of a mitochondrion in a eukaryotic cell', 0, {}, 2, {'mitochondrion': 'http://dbpedia.org/resource/Mitochondrion', 'eukaryotic': 'http://dbpedia.org/resource/Eukaryote'}]
+
+1270  ['762', ' 0.80', ' Sperm and egg cells', ' are', ' haploid', 0, {}, 1, {'haploid': 'http://dbpedia.org/resource/Ploidy'}]
+
+1272  ['764', ' 0.93', ' Students', ' will investigate', ' rates and scales of processes including earthquakes, erosion, mountain building, and resource formation', 0, {}, 2, {'erosion': 'http://dbpedia.org/resource/Erosion', 'mountain': 'http://dbpedia.org/resource/Mountain'}]
+
+1274  ['766', ' 0.91', ' Studies of glacial rebound', ' give', ' us information about the flow law of mantle rocks and also past ice sheet history', 1, {'glacial rebound': 'http://dbpedia.org/resource/Post-glacial_rebound'}, 1, {'ice sheet': 'http://dbpedia.org/resource/Ice_sheet'}]
+
+1276  ['768', ' 0.92', ' Subsequent periods of glaciation', ' scraped', ' away', ' topsoil', 1, {'glaciation': 'http://dbpedia.org/resource/Glacial_period'}, 0, {}]
+
+1281  ['772', ' 0.95', ' Tecopa soils', ' form', ' from mixed metamorphic and igneous rocks such as schist, gneiss, and quartzite', 1, {'Tecopa': 'http://dbpedia.org/resource/Tecopa,_California'}, 5, {'metamorphic': 'http://dbpedia.org/resource/Metamorphic_rock', 'igneous': 'http://dbpedia.org/resource/Igneous_rock', 'schist': 'http://dbpedia.org/resource/Schist', 'gneiss': 'http://dbpedia.org/resource/Gneiss', 'quartzite': 'http://dbpedia.org/resource/Quartzite'}]
+
+1282  ['773', ' 0.83', ' That imagery of the butterfly', ' was', ' particularly lovely', 1, {'butterfly': 'http://dbpedia.org/resource/Butterfly'}, 0, {}]
+
+1285  ['775', ' 0.94', ' The 7 ecosystems', ' enable', ' the reserve to host an incredible variety of animals and birds', 0, {}, 1, {'reserve': 'http://dbpedia.org/resource/Nature_reserve'}]
+
+1287  ['776', ' 0.93', ' The acceleration', ' is', ' zero', ' because the object is not changing velocity', 1, {'acceleration': 'http://dbpedia.org/resource/Acceleration'}, 0, {}]
+
+1292  ['778', ' 0.94', ' The air handler', ' contains', ' a large blower and a filter just like conventional air conditioners', 1, {'air handler': 'http://dbpedia.org/resource/Air_handler'}, 0, {}]
+
+1293  ['779', ' 0.94', ' The alveoli', ' are', ' the areas of the lung where oxygen and carbon dioxide are exchanged into and out of the blood', 1, {'alveoli': 'http://dbpedia.org/resource/Pulmonary_alveolus'}, 3, {'lung': 'http://dbpedia.org/resource/Lung', 'oxygen': 'http://dbpedia.org/resource/Oxygen', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}]
+
+1294  ['779', ' 0.95', ' oxygen and carbon dioxide', ' are exchanged', ' into and out of the blood', ' the areas of the lung', 2, {'oxygen': 'http://dbpedia.org/resource/Oxygen', 'carbon dioxide': 'http://dbpedia.org/resource/Carbon_dioxide'}, 0, {}]
+
+1296  ['781', ' 0.99', ' the number of protons in the nucleus and the number of electrons around the nucleus', ' is', ' the significant, essential basis for the modern periodic table ', 0, {}, 1, {'periodic table': 'http://dbpedia.org/resource/Periodic_table'}]
+
+1298  ['784', ' 0.88', ' The body', ' takes', ' food protein', 0, {}, 1, {'protein': 'http://dbpedia.org/resource/Protein'}]
+
+1299  ['785', ' 0.91', ' The cell structure', ' is basically', ' cytoplasm, nucleus, and wall', 1, {'The cell': 'http://dbpedia.org/resource/The_Cell'}, 1, {'cytoplasm': 'http://dbpedia.org/resource/Cytoplasm'}]
+
+1302  ['788', ' 0.94', ' The crust', ' covers', ' the outer ridged layer of the earth called the lithosphere', 0, {}, 1, {'lithosphere': 'http://dbpedia.org/resource/Lithosphere'}]
+
+1303  ['788', ' 0.94', ' the outer ridged layer of the earth', ' called', ' the lithosphere', 0, {}, 1, {'lithosphere': 'http://dbpedia.org/resource/Lithosphere'}]
+
+1305  ['790', ' 0.70', ' The difference', ' will be', ' that we will spend more time exploring and studying the varied habitats, diversity of species, and interconnection of the habitats and organisms in the ecosystem as a whole', 0, {}, 1, {'ecosystem': 'http://dbpedia.org/resource/Ecosystem'}]
+
+1306  ['791', ' 0.93', ' The documentary', ' looks', ' at how farmers are learning about ecology and discovering how to produce crops with less pesticides, often eliminating these toxic chemicals altogether', 0, {}, 1, {'ecology': 'http://dbpedia.org/resource/Ecology'}]
+
+1307  ['791', ' 0.87', ' farmers', ' are learning', ' about ecology', 0, {}, 1, {'ecology': 'http://dbpedia.org/resource/Ecology'}]
+
+1310  ['793', ' 0.93', ' The earth', ' is', ' a dynamic planet ', 0, {}, 1, {'planet': 'http://dbpedia.org/resource/Planet'}]
+
+1311  ['794', ' 0.96', ' The end result', ' is', ' less pesticide use, reduced waste, and implementation of more environmentally friendly pest control approaches', 0, {}, 2, {'pesticide': 'http://dbpedia.org/resource/Pesticide', 'pest control': 'http://dbpedia.org/resource/Pest_control'}]
+
+1312  ['795', ' 0.95', ' The equipment to accomplish this', ' consists', ' only of a water meter suitable for use in hot water', 0, {}, 1, {'water meter': 'http://dbpedia.org/resource/Water_metering'}]
+
+1313  ['796', ' 0.92', ' The evolution of birds', ' provides', ' an example', 1, {'evolution': 'http://dbpedia.org/resource/Evolution'}, 0, {}]
+
+1315  ['797', ' 0.45', ' The first', ' is', ' that naked proteins--prions--can be infectious and can cause infectious diseases', 0, {}, 1, {'prions': 'http://dbpedia.org/resource/Prion'}]
+
+1316  ['798', ' 0.95', ' The first process of producing complete desiccation', ' is', ' no easy matter', 1, {'desiccation': 'http://dbpedia.org/resource/Desiccation'}, 0, {}]
+
+1321  ['800', ' 0.90', ' The formula', ' targets', ' heavy metal toxins and the circulatory system', 0, {}, 2, {'heavy metal': 'http://dbpedia.org/resource/Heavy_metal_music', 'circulatory system': 'http://dbpedia.org/resource/Circulatory_system'}]
+
+1322  ['801', ' 0.96', ' The function of xylem', ' is', ' to transport water up the stem of the plant from the roots to the leaves and other growing parts', 1, {'xylem': 'http://dbpedia.org/resource/Xylem'}, 0, {}]
+
+1323  ['802', ' 0.96', ' The gall bladder', ' is', ' a small pear-shaped organ attached to the underside of the liver', 1, {'gall bladder': 'http://dbpedia.org/resource/Gallbladder'}, 1, {'liver': 'http://dbpedia.org/resource/Liver'}]
+
+1325  ['803', ' 0.91', ' The group 2 elements', ' to form', ' organometallic compounds', 0, {}, 1, {'organometallic': 'http://dbpedia.org/resource/Organometallic_chemistry'}]
+
