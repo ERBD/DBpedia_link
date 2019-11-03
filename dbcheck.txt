@@ -1,0 +1,1460 @@
+1; 0.94; A click on the glass of water; produces; the sound of water running
+2; 0.94; A computer microscope; zooms in; for a look at the most complex object in mathematics
+3; 0.93; A condensation process; turns; this vapor
+4; 0.79; spice mixture; set; aside
+5; 0.85; A different definition of life-cycle costing; is used; here
+6; 0.90; Adult females; will lay; eggs
+7; 0.88; A few people; bring; living trees; in their home
+8; 0.88; A food thermometer; is; a good tool to have in your kitchen
+9; 0.94; lava; hardens; into rock; After being released from the magma chamber and cooling
+10; 0.90; A generator; converts; mechanical energy to electric energy
+10; 0.90; a motor; converts; electric energy to mechanical energy
+11; 0.93; A glacier; is; a large body of ice and snow
+12; 0.94; A good supply of iron and zinc; is needed; in the diet to keep the nails strong
+13; 0.94; Agriculture and aquaculture; are; dependent upon parasitologists to assist in providing plant and animal food for an increasing human population
+13; 0.93; Agriculture and aquaculture; to assist; in providing plant and animal food for an increasing human population
+13; 0.89; Agriculture and aquaculture; are dependent upon; parasitologists
+14; 0.91; A heat pump; makes; use of the existing heat in the air
+15; 0.98; Air pollution, deforestation, and widespread burning of coal, oil, and natural gas; have increased; atmospheric concentrations of carbon dioxide, methane, nitrous oxide, and chlorofluorocarbons
+16; 0.68; All of our dogs; prefer; this; to tinned or dried dog food
+16; 0.28; it; is; much cheaper
+17; 0.59; All of this; is achieved; while keeping the electricity away from the water
+18; 0.90; cold water; is drank; during physical exercise
+18; 0.89; sweat; produced; by exercise
+19; 0.97; apple and other fruit trees; get; into a cycle; sometimes
+19; 0.74; they; bloom better; every other year; a cycle
+20; 0.62; they; eat; aquatic animals, roots, plants and waste grain
+21; 0.93; A luminous glow; fills; the evening sky; as the sun softly sets on the horizon
+21; 0.90; the sun; softly sets; on the horizon 
+22; 0.92; Among the ways; is; the decomposition of dead microorganisms
+23; 0.90; a magnetic field; established; a connection between magnetism and electricity
+23; 0.84; Ampere; showed; that current flowing in a wire coil produced a magnetic field
+24; 0.90; no organization; dedicated; to finding a cure for this disease
+24; 0.18; they; to learn; that there was no organization 
+25; 0.90; far fewer resources; to produce; vegetables than meat
+26; 0.94; An ecosystem; receives; inputs of solar energy, nutrients, water, and gases and discharges heat, oxygen, carbon dioxide, and organic compounds
+27; 0.92; An erasing pencil eraser; is used; to clear a form
+27; 0.91; An erasing pencil eraser; to clear; a form
+28; 0.93; Animals; release; carbon dioxide from breathing which is what the plants need
+28; 0.91; carbon dioxide from breathing; is; what the plants need to make the oxygen
+29; 0.88; Animals; ate; these oil-filled animals 
+30; 0.92; An increase in prey; leads; to an increase in predators 
+31; 0.94; An object at rest; tends; to remain at rest
+31; 0.91; An object at rest; to remain; at rest
+31; 0.93; An object at rest; tends; to continue moving with constant velocity
+31; 0.94; An object at rest; to continue; moving with constant velocity unless compelled by a net external force to act otherwise
+32; 0.92; Another way of demonstrating the action of photosynthesis; is; in aquatic plants; as they give off oxygen gas bubbles
+32; 0.62; they; give off; oxygen gas bubbles 
+33; 0.90; Any wood material; to contain; fungus infection
+33; 0.83; Any wood material found to contain fungus infection; shall be removed; 
+33; 0.93; Any wood material found to contain fungus infection; replaced; with new material
+34; 0.94; A piece of string; is; 40 centimeters long
+35; 0.96; Apomixis; is; reproduction where only one parent passes genes to the offspring
+36; 0.62; they; produce; oxygen
+36; 0.58; they; use; carbon dioxide; in the photosynthesis process
+37; 0.81; hydrogen gas and oxygen gas; can be; mixed
+38; 0.89; decomposers; break down; organic materials
+38; 0.62; they; release; the nutrients; back to the soil
+38; 0.90; the soil; to be used; by the next generation of plants
+38; 0.77; the cycle; begins; again
+39; 0.80; evening; draws; near
+39; 0.85; the light beneath the trees; grows; yellower
+39; 0.93; the air; is; full of filmy insects
+39; 0.83; the voice of the little river; becomes; louder and more distinct
+40; 0.95; the change in circulation patterns; affects; the dispersion and the fate of pollutants or the rise in ocean water temperature results in bleaching effects on corals 
+41; 0.94; water; is forced; to flow in different directions; As formations grow
+41; 0.88; water; to flow; in different directions
+42; 0.88; glaciers; formed; deposited sediments
+42; 0.89; new valleys; were formed; while other waterways were abandoned
+42; 0.91; new valleys; fed; with water
+43; 0.86; A simple circuit; generally involves; a battery, or other source of electrons, wires through which the energy can flow, and the object that needs the energy to work, such as a light bulb 
+43; 0.89; the object; needs; the energy to work
+44; 0.95; the energy from sunlight; is needed; to start photosynthesis
+45; 0.89; leaves; absorb; carbon dioxide from the atmosphere
+45; 0.91; the human lung; absorbs; oxygen
+46; 0.91; A solar dryer; uses; a solar energy collector; for heating the air
+47; 0.81; plants; need; animals 
+48; 0.94; the water vapor; begins; As the air cools
+49; 0.94; the heath hen population; decreased; largely due to hunting; As the human population increased 
+50; 0.97; the warming climate; caused; plants and animals, which had adapted to a cooler, wetter climate; As the last ice age gradually ended
+50; 0.90; plants and animals; had adapted; to a cooler, wetter climate 
+52; 0.96; As the rock cools; form; minerals
+53; 0.90; the water; seeped; into the ground 
+53; 0.96; the snails; died; As the water seeped into the ground and the puddles dried 
+54; 0.94; the year-round resident; can be seen more easily; As winter settles in
+54; 0.68; they; dart; across the snow-covered landscape
+55; 0.46; you; imagined; yourself; in the story
+55; 0.61; you; used; your senses; to make observations; As you imagined yourself in the story
+56; 0.94; the leaf; will float; on the surface; At first
+56; 0.45; it; absorbs; water
+57; 0.96; the ducks; swim; in the cool water; At the lake
+58; 0.78; the food industry; is becoming; increasingly globalised
+58; 0.78; the food chain; is becoming; increasingly complex
+58; 0.71; consumer eating habits; are changing; 
+59; 0.90; Australian plants; integrate; with the eco-system in a way introduced plants
+59; 0.86; the role; play; in providing shelter for birds, mammals and reptiles
+60; 0.95; drainage projects and reclamations; affect; the water regime and support negative influence of water and wind erosion and salting of soils
+61; 0.90; A wire; moving; in a magnetic field
+61; 0.94; A wire moving in a magnetic field; will induce; electric current
+61; 0.90; electric current; to flow; through the wires
+62; 0.95; Barn owls; have; the remarkable ability to locate a mouse in absolute darkness
+63; 0.58; Bats; have; a good sense of smell that helps them find food and their roost
+63; 0.85; a good sense of smell; helps; them find food and their roost
+64; 0.89; chemical energy; can be converted; back; into electrical energy when needed
+64; 0.87; Batteries; store; electrical energy
+65; 0.98; Battery-operated moon lights, or tap lights, as well as solar powered lighting; use; no electrical energy
+67; 0.49; we; are called; to studio sessions of all kinds; often
+68; 0.91; snow and ice; reflect; heat but water and land
+68; 0.77; more snow and ice; is melted; 
+68; 0.32; this; causes; the glacier to melt faster
+69; 0.92; soil and plant respiration; are; of approximately equal importance
+69; 0.96; the soil carbon dioxide flux; is; likely to depend on soil temperature, soil water content, and photosynthetic rate within the plant as well
+69; 0.94; the soil carbon dioxide flux; to depend as well; on soil temperature, soil water content, and photosynthetic rate
+70; 0.92; the caterpillar and adult; eat; different kinds of food
+70; 0.39; this; helps; the butterflies to better survive
+71; 0.91; these seasonal forests; are; more open to sunlight part of the year
+71; 0.90; the understories; have; denser plant growth
+72; 0.36; they; are; positive
+72; 0.90; the charges; are repelled; by other positive charges
+72; 0.91; the charges; flow; toward negative charges
+73; 0.41; we; move; these genes; from one organism; to another
+73; 0.31; we; can produce more quickly; by genetic modification
+73; 0.39; we; can identify; which genes code for particular characteristics
+74; 0.91; these heavy vehicles; pollute; the environment
+74; 0.90; these heavy vehicles; produce; more noise than a few dozen cars
+75; 0.89; Bicycle type gear train; is; good; because it is a proven form
+75; 0.39; it; is; a proven form that people are used to and parts are light and readily available.
+75; 0.71; people; are used; 
+75; 0.61; parts; are; light and readily available
+76; 0.91; Biodiversity; is; the variety of all life forms - the different plants, animals and micro-organisms, the genes they contain, and the ecosystems
+76; 0.67; they; contain; the genes they contain, and the ecosystems they are part of
+76; 0.62; they; are; part
+77; 0.94; Breathing rate; automatically increases; to get rid of the carbon dioxide through the lungs
+77; 0.91; Breathing rate; get; rid of the carbon dioxide through the lungs
+78; 0.93; another option for ball movement; is pushing; the ball
+79; 0.93; having faith; is; a different matter
+80; 0.19; it; begins; 
+81; 0.57; this; is; the sole mode of action of water in volcanic eruptions
+81; 0.20; this; is; very questionable
+82; 0.91; notebooks and folders; made; from recycled paper
+83; 0.91; an induction motor; converts; electrical energy to useful mechanical energy
+84; 0.53; we; to determine; the relationship between the amount of force and the speed
+84; 0.57; we; can determine; the relationship between the amount of force and the radius
+85; 0.94; the green portion of the leaf; can produce; the extra food needed for the plant
+85; 0.91; the extra food; needed; for the plant
+86; 0.62; they; will build; a series circuit and a parallel circuit
+87; 0.89; students; will review; the causes and consequences of natural disasters
+88; 0.92; the most common mineral in animals; is required; for bones, teeth and milk production
+89; 0.91; Carbon dioxide production; is; a major concern; because of its link to global warming
+90; 0.91; Carbon dioxide; reprenting; the bulk of the greenhouse gases
+90; 0.75; fossil fuels; burnt; 
+90; 0.94; Carbon dioxide; is produced; when fossil fuels are used to generate energy and forests are cut and burnt
+90; 0.90; fossil fuels; are used; to generate energy and forests
+90; 0.89; fossil fuels; to generate; energy and forests
+90; 0.70; fossil fuels; are cut; 
+91; 0.89; the cocoons; change; into an adult moth
+91; 0.87; Caterpillars; use; the thread; to spin the cocoons
+92; 0.83; Cellular respiration; takes; electrons from our food
+92; 0.85; Cellular respiration; allows; them to react with oxygen, producing carbon dioxide, water and energy
+93; 0.89; Changes; occur; in living organisms
+93; 0.84; living organisms; serve; to increase their adaptability, for survival and reproduction, in changing environments
+94; 0.93; Children; are; able to learn concepts such as habitat, environment, adaptation, physical traits, and camouflage
+94; 0.92; Children; to learn; concepts such as habitat, environment, adaptation, physical traits, and camouflage
+95; 0.92; Climate; is; summer and winter
+95; 0.64; it; is; months or even years during which global movements of hot and cold ocean waters and air masses go through cycles
+95; 0.98; global movements of hot and cold ocean waters and air masses; go; through cycles; months or even years
+95; 0.88; cycles; can bring; droughts or floods
+96; 0.93; Colder weather earlier in the month; quickly changed; to warm weather; causing leaves to change colors rapidly
+97; 0.73; the salt; dissolves; 
+98; 0.90; Compost; has; all the nutrients that plants require, unlike chemical fertilizers
+98; 0.94; all the nutrients; require; plants
+99; 0.90; Coral reefs; are; an extremely diverse marine ecosystem
+100; 0.90; Coral reefs; are; very complex ecosystems
+101; 0.92; a few new plants; to illustrate; the use of the new flower and leaf structures
+102; 0.89; Crystals; form most quickly; on metal components
+103; 0.91; production this season; was constrained; by an early cessation of rains
+103; 0.88; rains; affected; cereal and beans crops
+104; 0.91; Digestive enzyme supplements; aid; the digestive system to break down substances in foods
+104; 0.88; foods; leads; to gas and discomfort
+104; 0.92; gas and discomfort; is; a common complaint
+106; 0.60; each of us; can help; to conserve natural resources
+107; 0.90; Drinking water; increases; the volume of urine
+108; 0.68; fragrance; revives; 
+108; 0.68; fragrance; relaxes; 
+109; 0.89; Each student; is required; to take complete notes in their lab notebook while performing the experiments
+109; 0.90; the student; leaves; the laboratory
+109; 0.81; Each student; to take; complete notes; in their lab notebook; while performing the experiments
+109; 0.90; the notes; must be signed; by the instructor
+109; 0.93; a carbon copy of the notes; must be submitted; before the student leaves the laboratory
+110; 0.92; Earth; does go; through phases
+111; 0.95; Ecosystem diversity; is; the variety of habitats and biotic communities on the earth
+112; 0.90; Electrical energy; causes; injury
+113; 0.94; Energy from the sun; is; the driving force of an ecosystem
+114; 0.92; Energy from the sun; reaches; the earth
+115; 0.73; Environmental education; is also emphasized; 
+115; 0.71; students; support; 
+115; 0.88; students; participate; in the school-wide paper and aluminum
+116; 0.96; Even quite new ponds like this one; rapidly attract; aquatic flora and fauna, beetles and water voles, frogs and toads, dragonflies, and damp-loving plants
+117; 0.94; Even the evolution of species; is; about time
+118; 0.95; each condensation nucleus; collects; enough water to become a tiny droplet; Eventually
+119; 0.92; Everyone; gets; the same patterns
+119; 0.90; Everyone; runs; the same patterns
+120; 0.92; Examples of broadleaf trees; are; the maples, oaks, hickories, and elms
+121; 0.90; salt crystals; are left; in the glass
+122; 0.73; Existing facilities; could continue; 
+122; 0.89; Existing facilities; to alter; natural habitat and ecosystem patterns
+123; 0.87; Eye color inheritance; is; complex
+124; 0.62; they; are looking; at alternatives to abstraction
+124; 0.59; they; unveiled; a system that could treat waste water to drinking water quality; recently
+124; 0.89; a system; could treat; waste water; to drinking water quality
+125; 0.90; Fallow deer; can be found; in the forest
+126; 0.77; Fencing; may be required; 
+127; 0.75; Fertilizers; can be; expensive
+127; 0.68; Fertilizers; are manufactured; 
+128; 0.86; the retina or fundus; is examined; Finally
+128; 0.90; a focusing lens; is held; in the examiners hand
+128; 0.90; the examiners hand; provides; the examiner; a clear view of all parts of the retina
+129; 0.81; Fish with scales and fins; are; kosher
+130; 0.81; Folds; are; most visible; in rocks
+130; 0.56; rocks; contain; layering
+131; 0.94; Foliar analysis; is based; on the nutrient concentration in leaf tissue; because leaves conduct the most photosynthesis and thus have the highest enzyme levels in plants
+131; 0.89; leaves; conduct; the most photosynthesis
+131; 0.88; leaves; have; the highest enzyme levels in plants
+132; 0.79; Folk; is internationally known; for his studies on biological clocks and their role in the timing of biological activities of animals
+133; 0.95; Food; is; a great incentive to learning for these formerly starved dogs
+133; 0.45; we; use; treats as a reward for appropriate behavior
+134; 0.90; Food storage; is seen; specifically in plant root
+134; 0.90; special attention; is given; to respiration and the uses of the energy
+134; 0.73; the energy; obtained; 
+135; 0.96; Force; is; a push or a pull on an object or body
+136; 0.93; identical twins in vastly different environments; will have; different performance
+137; 0.85; laboratory experiments; show; that as a result of leaf damage by caterpillars, plants will produce bitter-tasting terpenes to ward off the herbivores
+138; 0.93; mole crickets; lay; eggs; in the same location; each year; usually
+139; 0.90; physical changes; observed; in the clinical setting
+140; 0.80; sediment; may filter; water; for a while; before it gathers into sedimentary rock
+140; 0.45; it; gathers; into sedimentary rock
+140; 0.89; sedimentary rock; may compress; into metamorphic rock
+140; 0.90; metamorphic rock; may crystallize; into valuable minerals; then
+140; 0.89; metamorphic rock; may erode; back to sediment
+141; 0.77; ice; melts; 
+141; 0.60; it; changes; from a solid; to a liquid; when ice melts
+142; 0.91; a well or well field; supplies; ground water; to the well; over a long period of time
+143; 0.91; temperatures inside the cloud; to be; less than the freezing point of water
+144; 0.71; matter; must vibrate; 
+145; 0.92; rays; act; as scavengers or bottom cleaners
+146; 0.89; Fringetrees; are; likely to be the last plant
+146; 0.88; Fringetrees; to be; the last plant to leaf out in the spring
+146; 0.91; the last plant; to leaf out; in the spring
+146; 0.88; Fringetrees; are; long-lived trees
+147; 0.91; From those seeds; come; other seeds
+147; 0.73; the cycle; is continued; 
+148; 0.92; Fruits and vegetables; are classified; into groups; sometimes
+149; 0.89; Glaciers; carved; valleys and cirques
+150; 0.94; Graduated cylinders; are; the more common, albeit less accurate, method for measuring liquid volumes
+150; 0.90; liquid volumes; exceeding; 25 ml
+151; 0.89; Grasslands; recycle; nutrients
+151; 0.90; Grasslands; form; a thick layer of organic matter
+152; 0.86; Gravity and the sheer girth of the ice cause glaciers; to move very slowly; 
+153; 0.89; the students; test; each shape; to see whether if will sink or float
+154; 0.90; the water; comes; to a boil
+155; 0.89; the kitten; had licked; the plate; clean
+155; 0.39; He; reached; down; to dissuade the kitten
+156; 0.70; Her heart; is; as soft as a feather pillow
+157; 0.45; He; slowly unscrews; the cap of a two liter plastic soda bottle
+157; 0.41; He; releases; a small capsule; into 2 centimeters of liquid below
+158; 0.77; no predators; to manage; that prairie dog colony
+158; 0.12; He; stated; that there are no predators
+159; 0.45; He; stopped; the wagon
+159; 0.53; He; commenced; to hunt about in the end of the wagon for a bottle of whisky
+160; 0.88; Horses; have; a thick winter coat of hair to keep them warm during the cool seasons of the year
+161; 0.91; whole grain cereals; are also; a good choice
+162; 0.75; genes; are; important
+162; 0.73; identical twins; should respond; 
+163; 0.90; some manufacturers; use; by-product gypsum; from fossil fuel emissions
+163; 0.89; some manufacturers; recycled; newspaper
+164; 0.75; heat; is added; to the solid
+164; 0.41; it; to become; a liquid
+164; 0.94; the bonds; are; considerably weaker; when heat is added to the solid and it melts to become a liquid
+164; 0.93; the bonds; are simply; hydrogen bonds; in water
+165; 0.91; Human behavioral development; is traced; from prenatal stages
+166; 0.91; Humans and animals; breathe; in oxygen and exhale carbon dioxide
+167; 0.89; Hybrids; rely; on both a gasoline engine and an electric motor
+167; 0.90; an electric motor; is powered; by batteries
+168; 0.91; a climate record; stretching; back; more than 400,000 years
+168; 0.91; Ice cores; have helped; scientists assemble a climate record
+169; 0.52; it; falls; as snow
+169; 0.57; it; can spend; some time; in a snow or ice-field before moving off as a glacier and perhaps eventually becoming part of an iceberg
+170; 0.45; it; is growing; on a plant stem or root
+170; 0.23; it; needs; to be cut off
+170; 0.17; it; to be cut off; 
+171; 0.61; stems; are; weak
+171; 0.56; stems; become; brittle; after drying
+171; 0.52; stems; after drying; 
+172; 0.73; the ball; is rolling; 
+172; 0.74; you; only have; kinetic energy; already; then
+173; 0.75; the conduction wire; covered; as above
+173; 0.87; the iron; possesses; the property of attracting other pieces of iron in its vicinity
+173; 0.93; the conduction wire, covered as above; be wound; upon a bar of soft iron
+173; 0.90; the iron; becomes; magnetic; as long as the current continues to flow
+173; 0.73; the current; continues; 
+173; 0.70; the current; to flow; 
+174; 0.23; it; must be; testable
+175; 0.78; the soil surface; is left; bare and uncovered
+175; 0.52; it; is; subject to erosion from wind and water
+176; 0.81; the stem of the flower; becomes; too long
+177; 0.45; we; take; the kinetic energy of rolling into account
+177; 0.12; we; start higher; 
+177; 0.93; the ball; gets; closer to going around the loop
+178; 0.62; you; are testing; electromagnets
+178; 0.36; your; can think; of
+179; 0.62; you; are using; plastic bottles; with screw tops
+179; 0.62; you; can just sit down; on the floor
+179; 0.42; you; twist on; them
+180; 0.62; you; live; on the edge of a stream
+180; 0.37; you; can plant; a high water use plant; by that stream
+180; 0.42; you; never water; it
+181; 0.62; you; use; the mass; in kilograms and speed in meters per second
+181; 0.73; the answer; comes out; 
+182; 0.26; I; learned; to salute my flag and its anthem
+183; 0.90; Improved achromatic microscope; using; several doublets; in line
+184; 0.83; most orchards; make; their own apple cider
+185; 0.93; ice; penetrates; into the stone; In cold climates
+185; 0.94; the freeze-thaw cycle; adds; physical weathering; to the chemical attachis
+186; 0.92; Increased carbon dioxide levels; stimulate; more rapid breathing rates; in humans
+187; 0.96; Increases in oil imports and oil prices; have spawned; proposals of various petroleum policies, including a per gallon tax on gasoline
+188; 0.90; plants and trees; consist mostly; of carbon
+188; 0.95; plants and trees, which consist mostly of carbon; get; most of the materials
+188; 0.62; they; need; to exist from carbon dioxide
+188; 0.89; the materials; to exist; from carbon dioxide
+189; 0.77; an hypothesis; to be; testable
+189; 0.23; we; need; variables that are measurable
+189; 0.72; variables; are; measurable
+190; 0.87; octopi; can squirt; black ink; into the water
+191; 0.80; organisms; to defend; themselves; in all realms
+191; 0.78; organisms; must be; able to defend themselves in all realms
+192; 0.64; flowering; will be reduced; In partial shade
+192; 0.81; plants; are; more susceptible to leaf spot disease
+193; 0.93; plants; absorb; carbon dioxide and release oxygen, which is what humans and animals need to live; In photosynthesis
+193; 0.91; carbon dioxide and release oxygen; is; what humans and animals need to live
+194; 0.94; carbon dioxide; is taken in; from the atmosphere; In plants
+195; 0.97; only one of the two parental genes; is expressed outwardly; as when horses inherit one coat-color gene from the sire and a different coat-color gene from the dam; In some cases
+195; 0.93; horses; inherit; one coat-color gene; from the sire and a different coat-color gene from the dam
+196; 0.89; the colour; is; that of the sand and silt particles; In some soils
+197; 0.93; the eggs; are retained; In some species
+197; 0.32; the young; are hatched; just before; during or shortly after laying
+198; 0.46; they; store; their oxygen
+199; 0.88; Instruments; measure; atmospheric pressure
+199; 0.93; Instruments that measure atmospheric pressure; are called; barometers
+200; 0.93; water; occurs; In the cycle
+201; 0.95; women farmers; sow; weed; In the field
+201; 0.89; women farmers; apply; fertilizer and pesticides, harvest
+201; 0.91; women farmers; thresh; the crops
+202; 0.93; carbon dioxide; is released; In the lungs
+202; 0.89; oxygen; obtained; by the blood
+203; 0.93; water; is evaporated; In the water cycle
+204; 0.32; you; are; 
+204; 0.86; using fans to pull the heated air down from the ceiling to where you are; will give; you; more bang for your energy buck; In the winter
+205; 0.92; the physical cells; are expanded; into a higher frequency; In this process
+206; 0.24; it; forms; 
+206; 0.47; it; discusses; how and where glaciers move, presents the history of glaciers, and describes the effects of glacial erosion upon land forms
+206; 0.71; glaciers; move; 
+207; 0.38; I; painted then; each leaf; a light green
+208; 0.52; I; run; the 800 meters in track
+209; 0.90; any plant; suspected; of having virus
+209; 0.89; any plant; of having; virus
+209; 0.90; any plant suspected of having virus; have; a leaf sample tested
+210; 0.45; It; contains; no new material whatsoever
+211; 0.39; It; has; fun illustrations and text that explains the forces at work in each simple machine
+211; 0.91; fun illustrations and text; explains; the forces
+212; 0.42; It; involves; collecting unwanted items or materials, processing them into new materials, making new products from the recycled materials, and using new products
+213; 0.64; It; is; present in oceans, rivers, lakes, the polar ice caps, clouds, rain or snow, ground water and living things such as plants and animals
+214; 0.94; eye hazards; are; a possibility; all times
+214; 0.47; It; is; state law and campus policy
+215; 0.45; It; refracts; the light entering the eye onto the lens ,
+215; 0.90; the light; entering; the eye; onto the lens
+215; 0.88; the lens; focuses; it; onto the retina; then
+216; 0.58; Its taste, texture and flavor; will never be surpassed; by its dehydrated or processed version
+217; 0.57; It; will encourage; scientists; to carry out research to find cures for various diseases
+217; 0.87; scientists; to carry out; research; to find cures for various diseases
+218; 0.41; It; to produce; a pulse with enough energy
+219; 0.87; Kids; can learn; about fossils as well as the properties of common rocks and minerals
+220; 0.94; Lacewing; is; a predator of insect pests
+220; 0.89; Lacewing; is a predator of; insect pests
+221; 0.70; these animals; possess; a keen sense of smell that helps them find food, such as insects and spiders, in the soil
+221; 0.90; a keen sense of smell; helps; them find food, such as insects and spiders, in the soil
+222; 0.89; Landforms; range; from seashore, coastal plains, hills and valleys; to deserts and mountains
+223; 0.89; Landslides; caused; by heavy rain
+223; 0.95; Landslides caused by heavy rain; disrupt; train services; frequently
+224; 0.94; Late herbicide applications; caused; leaf browning; in some cases and severe leaf-cupping in others
+224; 0.77; the plants; have been; slow to recover
+224; 0.70; the plants; to recover; 
+225; 0.71; liquids; boil; 
+225; 0.68; solids; evaporate; 
+225; 0.57; he; tells; them; how solids can melt, and how liquids boil or evaporate; Later
+226; 0.90; Less sunlight; lowers; photosynthesis for both algae and rooted plants
+227; 0.91; Lightning; is; the closest symbol he could use to describe the change of electrical energy state
+227; 0.92; the change of electrical energy state; occurs; in a nuclear reaction
+227; 0.87; the closest symbol; could use; to describe the change of electrical energy state
+228; 0.90; the animal; uses; most of the energy
+228; 0.89; the energy; consumes; for functions such as growth and sustenance
+228; 0.89; the animal; can offer; about 10 percent of the energy
+228; 0.89; the energy; derived; from plants
+229; 0.89; this area; formed; from calcium carbonate
+229; 0.97; the third main type of sedimentary rock found in this area,; precipitated; from the water and from the remains of animal shells
+229; 0.89; Limestone; is the third main type of; sedimentary rock
+230; 0.90; Liquid water; is converted; to water vapor during evaporation
+231; 0.93; photosynthesis; occurs; the leaf
+231; 0.85; List three structures or layers in the leaf; are found; 
+232; 0.91; Loss of wetland habitat; endangered; several species of amphibians with restricted ranges
+232; 0.99; Loss of wetland habitat has reduced populations of frogs and toads, and endangered several species of amphibians with restricted ranges; say; scientists
+233; 0.85; these hats; offer; the comfort, shade, and style that make a hat worth wearing
+233; 0.93; the comfort, shade, and style; make; a hat worth wearing
+234; 0.93; Magnolias; produce; a conelike fruit, which bears red berry seeds,
+234; 0.93; a conelike fruit; bears; red berry seeds, often eaten by birds and other animals
+234; 0.94; red berry seeds; eaten; by birds and other animals; often
+235; 0.88; Mainstream smoke; is; that which is caused by the lighting of the cigarette
+235; 0.12; that; is caused; by the lighting of the cigarette
+235; 0.93; side stream smoke; is; the smoke inhaled by the smoker
+235; 0.90; the smoke; inhaled; by the smoker
+236; 0.64; your hypothesis; based; on the data
+236; 0.88; the data; collected; you
+237; 0.94; Making food from sunlight energy; is; something only plants can do
+237; 0.93; something; can do; only plants
+238; 0.79; very few of the offspring; survive; 
+239; 0.94; Many marine organisms; have; a complex life cycle in which the larval stage disperses in the plankton and the adult stage is benthic and relatively sedentary
+239; 0.98; the larval stage disperses in the plankton and the adult stage; is; benthic and relatively sedentary; a complex life cycle
+240; 0.92; Many of these diseases; can be prevented; by proper management and vaccination
+241; 0.90; an organism; resembling; the parent or another stage in the life cycle
+242; 0.89; liquid; mixing; times; in the bubble column
+242; 0.92; Measurement of liquid; is; on-going
+243; 0.91; Mechanical energy changes; to sound; in a piano
+244; 0.23; it; is getting; hot
+245; 0.89; Messages; are sent; from the computer brain; to motors in the robot s parts
+246; 0.88; Metal objects in a magnetic field; affect; it
+247; 0.81; rock; undergoes; a transformation
+247; 0.94; one structure to another; caused; by pressure, heat, and water; usually
+248; 0.90; Mistletoe birds; may carry; seed; back into the burnt area
+248; 0.73; the plants; re-establish; 
+249; 0.90; More deer; will be hit; on the roads
+250; 0.89; castration; effected; the life-span of the castrati
+250; 0.74; the castrati; to have lived; longer
+251; 0.90; Most apartments; are carpeted; while others have hard wood floors
+251; 0.89; others; have; hard wood floors
+252; 0.90; Most fish; lay; eggs; in clutches
+253; 0.97; Most foreign genetic material, such as those present in ordinary food; will be broken down; to generate energy and building-blocks for growth and repair
+254; 0.90; Most men who train with weights; will start; getting callous joints and dry skin in the palm of their hands
+255; 0.93; Most of the better machines; have; plastic pump parts
+255; 0.32; they; seem; 
+255; 0.58; they; to outlast; the earlier die-cast models
+256; 0.93; Most people; think; of soil
+257; 0.93; Most pups; feed; on small prey; initially
+257; 0.91; small prey; is; easy to catch, like small amphipods and shrimp
+258; 0.90; Most seeds; germinate; late fall; to early spring
+258; 0.75; conditions; become; favorable
+259; 0.89; the octopus; is also; capable of producing a dark ink-like fluid from their internal ink sacs
+260; 0.94; Multilayering of epithelia and abnormal cell shapes; are most likely caused; by defects in cell adhesion
+261; 0.59; My son; is learning; to ride a bicycle
+262; 0.78; Neighborhood action groups; have also been; active
+262; 0.94; commercial development; perceived; as creating adverse impact on the family or the natural environment
+263; 0.92; Nitrogen; composes; 78 percent of the air
+263; 0.88; the air; breathe; we
+264; 0.36; No living thing; can survive; 
+265; 0.50; reported conditions; are subject to; rapid change
+266; 0.91; Numerous plantlets; grow; at the leaf tips
+266; 0.94; Numerous plantlets, which grow at the leaf tips; will readily grow; into new plants
+267; 0.82; Oak trees; live; forever 
+268; 0.88; Objects; float; in water
+269; 0.78; they; would get together; to work like measuring the room for carpeting, or making cable cars across the backyard
+271; 0.90; Oil spills; affect; many species of plants and animals in the environment
+272; 0.90; mayo jars; containing; bugs
+273; 0.94; this chlorine; can combine; with organic materials present in water and soil; Once in the environment
+273; 0.90; carcinogenic substances; called; trihalomethanes
+274; 0.93; this organic waste; gets; into a stream
+274; 0.89; oxygen; is needed; by bacteria; to break it down; Once this organic waste gets into a stream
+275; 0.95; One of the most general distinctions among organisms; is; between plants, which use sunlight to make their own food, and animals
+275; 0.81; plants, which use sunlight to make their own food, and animals; consume; energy-rich foods
+276; 0.94; Onset; is; usually; late adolescence to early adulthood
+277; 0.58; they; to draw; magnets attracting and repelling each other
+277; 0.71; magnets; attracting; 
+278; 0.89; heating within the package; is; less costly; frequently
+278; 0.94; heating within the package; produces; quite acceptable quality; frequently
+278; 0.74; most of our present canned food supply; is heated; in the package
+279; 0.76; a flashlight in the window; turned on; 
+280; 0.68; Organsisms; feed soley; 
+280; 0.94; Organsisms that feed soley on dead organic material; are known; as decomposers, or saprobes
+281; 0.94; Other chemicals; can be applied; to bronze to change the coloring to blue, red, brown and copper
+282; 0.90; Other giant animals; roamed; the earth; during this same period
+282; 0.96; Other giant animals that roamed the earth during this same period; included; woolly mammoths and saber tooth tigers
+283; 0.91; Other materials, like rubber; are; smooth but still produce a lot of friction
+284; 0.67; they; have; eyes, mouths, digestive systems, blood, etc.
+285; 0.74; Our main resource focus; is; on water and energy use
+286; 0.84; the world; directly involved; in these projects
+286; 0.95; scientists all over the world; have investigated; different methods and theories; Over the last five years
+286; 0.95; scientists all over the world; processed; different kinds of data and measurements; Over the last five years
+287; 0.94; Pea; s grow; from seeds
+287; 0.88; seeds; are planted; in the ground
+288; 0.72; nature and environment; to be preserved; 
+288; 0.71; People; accept; that nature and environment have to be preserved
+289; 0.89; People; can use; different medicines; for the same purpose
+290; 0.92; Photosynthesis-inhibitor herbicides; can be absorbed; by roots
+290; 0.95; soil-applied or above-ground tissues when foliar-applied; move; only upward; in the plant xylem
+291; 0.95; Photosynthesis; is; a process by which plants use light from the sun to make food
+291; 0.86; plants; use; light; from the sun; a process
+292; 0.89; the degree; are attracted; to light
+293; 0.91; Physical systems of the earth, weather and climate, vegetation and soils and landforms; are described; 
+293; 0.89; Physical systems of the earth, weather and climate, vegetation and soils and landforms; analyzed; 
+294; 0.90; the body; needs; oxygen for the chemical reactions
+294; 0.82; the chemical reactions; power; our cells
+294; 0.45; it; also needs; a way of getting rid of carbon dioxide
+295; 0.90; Plant photosynthesis; breaks; the carbon dioxide in two
+295; 0.89; the carbohydrates; make up; the plant
+296; 0.90; Plant roots; break up; the surface of a rock
+296; 0.88; a rock; allowing; water to penetrate the cracks
+297; 0.81; Plants; may live; for several, or many, years
+298; 0.87; Plants; thrive; in citrus groves; often
+298; 0.79; Plants; competing; with trees; for water, nutrients, and light
+299; 0.77; Polar; bears; 
+299; 0.89; grizzlies; are; the same animal with two different colour fur
+299; 0.92; two different colour fur; living; in two very different habitats
+300; 0.89; Predators; play; an important role in an ecosystem
+301; 0.16; that; is measured; with a barometer in meteorology; usually
+302; 0.94; the circuit; was equilibrated; for 1500 steps with the switch open; Prior to this
+302; 0.93; the electric field; is; almost zero everywhere inside the wires
+303; 0.77; the container - small metal objects; were buried; 
+304; 0.91; a flask or beaker; can be; heated on the hot plate
+305; 0.95; Rainbow; caused; by the reflection and refraction of the rays of the sun
+305; 0.73; the sun; shining; 
+306; 0.90; Relate heat; transferred; to changes in thermal energy
+306; 0.73; no work; is done; 
+307; 0.93; Relativistic mass; is; the mass of an object
+307; 0.90; an object; measured; by an observer
+307; 0.70; an observer; is moving relative; 
+308; 0.90; wire racks; covered; with plastic wrap or wax paper
+308; 0.89; layers; from adhering; to racks
+309; 0.56; Rocks; break down; 
+309; 0.90; the process; called; weathering
+310; 0.26; Routes; taken; 
+311; 0.94; Sand dunes; are; huge piles of sand blown there by strong gusts wind
+311; 0.94; huge piles of sand; blown; there; by strong gusts wind
+312; 0.94; School yards; are; often; suitable habitat for bluebirds, with open fields and old woodlots
+313; 0.87; Scientists; began; studying light a long time ago
+314; 0.93; Seed dispersal; has; many consequences for the ecology and evolution of plants
+315; 0.73; 2 bubbles; meet; 
+315; 0.36; they; are; so colorful
+315; 0.32; they; are shaped; 
+316; 0.30; each; would easily feed; three
+317; 0.92; Shield volcanoes; have; gentle slopes like a shield; because they are made of many layers of a kind of volcanic rock
+317; 0.62; they; are made; of many layers of a kind of volcanic rock
+317; 0.74; volcanic rock; flows easily; when melted
+318; 0.95; Short circuits and interferences between discourses; turn; into productive fields
+318; 0.89; productive fields; take; place
+319; 0.40; they; should report; it; immediately
+320; 0.90; litter decomposition; causes; a release of phosphorus
+321; 0.86; the roots of plants; can work; their way; into rocks; as they grow
+321; 0.38; they; grow; 
+321; 0.83; the pressure; caused; by their expansion
+321; 0.72; the pressure caused by their expansion; can break; apart; the rock; into smaller pieces
+322; 0.90; Snow molds; are caused; by low-temperature fungi
+322; 0.74; low-temperature fungi; can grow; 
+322; 0.78; the wheat plants; are; dormant
+323; 0.96; Soft corals, mushroom anemones, green star polyps, and small polyp stony corals; are; valuable popular reef animals
+324; 0.93; Soil erosion; is; the removal of surface material by wind or water
+325; 0.83; Soil microorganisms, plant nutrients, and fertilization; are discussed; 
+326; 0.94; Soil; needs; to hold air, water and nutrients as well as support the root systems of the plants
+327; 0.90; Soil organisms; break down; many of the dissolved compounds in water
+327; 0.90; plant roots; remove; nutrients, trace elements and other compounds
+328; 0.89; Soils; contain; microorganisms called decomposers
+328; 0.88; microorganisms; called; decomposers which play a vital role in the carbon cycle of the soil because of their ability
+328; 0.80; decomposers; play; a vital role; in the carbon cycle of the soil; because of their ability
+329; 0.52; it; is; summer
+330; 0.21; it; probably is; the case that many of these individuals were poor eaters in childhood, and continue to have poor eating habits as adults, and these poor eating habits are negatively affecting their health
+330; 0.92; many of these individuals; were; poor eaters in childhood
+330; 0.86; these poor eating habits; are negatively affecting; their health
+331; 0.77; Some carnivores; eat; the animals that eat the plants
+331; 0.89; the animals; eat; the plants
+331; 0.54; some; eat; other carnivores
+332; 0.93; Some good examples of insulator materials; are; rubber, plastic, glass, and wood
+333; 0.44; Some; is lost; as heat with each transfer
+334; 0.93; Some of the most important pieces of evidence; are; the fossils or remains of these giant lizards
+334; 0.90; these giant lizards; have survived; for millions of years
+334; 0.68; scientists; to suggest; that dinosaurs lived on earth millions of years ago
+335; 0.49; Some; react; with metals
+336; 0.90; Some tenrecs; hibernate; through the hot dry season
+337; 0.91; Something in the pond water; is causing; thousands of these animals to develop defects
+338; 0.70; lights; appear; Sometimes
+338; 0.52; lights; to change; 
+339; 0.89; activities; performed; by the students
+340; 0.93; Students; combine; the three sediments and equally portion the mixture to each pan
+341; 0.82; Students; record; their data
+341; 0.87; Students; organize; it; then
+342; 0.89; Students; should form; a testable hypothesis
+342; 0.88; Students; demonstrate; the logical connections between the scientific concepts
+342; 0.91; the scientific concepts; guiding; a hypothesis and the design of an experiment
+343; 0.85; Students; will use; a hand lens; to look at snow flakes and crystals and draw their observations
+344; 0.92; Study of this group; would make; an excellent research project for an interested student
+345; 0.93; Sugar maple trees; have; the highest sugar content in the sap
+345; 0.79; the more common red maple; also can be used; 
+346; 0.90; Summertime temperatures; can reach; well over 100 degrees with water temperatures
+346; 0.90; water temperatures; reaching; above the 80-degree mark
+347; 0.89; Tadpoles; metamorphose; from gilled animals; into air-breathing adults
+347; 0.91; air-breathing adults; are; able to live on land
+347; 0.91; air-breathing adults; to live; on land
+348; 0.94; Taller trees; can be felled; to allow more sunlight to reach grapevines, greenbriers, small conifers, thorn-apple trees and the like
+349; 0.92; Texture; is; clay, silty clay or clay loam
+350; 0.52; it; is; on the ground
+351; 0.45; That; is; the beginning of the relationship
+352; 0.75; That water vapor; rises; 
+352; 0.90; That water vapor; becomes; clouds
+353; 0.92; The action of tides; causes; daily cycles of cut and fill
+354; 0.93; The attempt to match clients to treatments in order; is referred; as client-treatment matching or the matching hypothesis
+355; 0.88; The bacteria; take; nitrogen gas from the air
+356; 0.97; The best time of year to hunt the fur bearing animals; was; the winter months
+357; 0.49; they; catch; their prey
+357; 0.80; The birds; use; their beaks; to tear into the animals
+358; 0.80; The blades and petioles; become; very brittle
+358; 0.71; flowers; are distorted; 
+358; 0.56; stems; gnarled; 
+358; 0.52; stems; twisted; 
+359; 0.86; The broken line graph; looked above; you
+359; 0.75; The broken line graph that you looked at above; showed; the change in daily temperature over 1 week
+360; 0.95; The butterfly-like wings of gas and dust; are; a common shape of planetary nebulae
+361; 0.90; The camel; can intake; large amounts of water
+361; 0.90; The camel; is; able to store it for long amounts of time in either one or two humps on its back
+362; 0.75; The camera view; rotates; 
+362; 0.83; a skull; coming; out of it
+362; 0.91; The camera view; turns; to show you everything in the lab, including the bubbling cauldron with smoke
+362; 0.71; smoke; shaped; 
+363; 0.90; the food chain; plays; a necessary role in the forest ecosystem
+363; 0.94; The class; shows; how producers, consumers, and decomposers are a very intricate part of the food chain
+364; 0.90; The cockade; shall have; the same colours in the same pattern
+365; 0.96; The cold water and the shade from tall trees on the surrounding ledges; gave; the air; a noticeable chill
+366; 0.93; The concentration of atmospheric carbon dioxide; has increased dramatically; during the past century
+367; 0.94; The course; covers; the textural and mineralogic features of igneous and metamorphic rocks, the chemistry of igneous rocks, the phase diagrams controlling mineral crystallization in igneous and metamorphic rocks, and the tectonic environments
+367; 0.91; the phase diagrams; controlling; mineral crystallization; in igneous and metamorphic rocks
+367; 0.95; various igneous and metamorphic rocks; are found; the tectonic environments
+368; 0.91; The coyote; wants; to eat the bird
+369; 0.90; The data; are averaged; over long periods of time
+369; 0.93; changes; caused; by local weather, seasonal snow cover and other factors
+370; 0.83; The dead load, or the weight of each bridge; will be determined; 
+371; 0.94; The electric current in a wire; is compared; to water; often
+371; 0.89; water; flowing; through a pipe
+372; 0.93; The ends of the thermocouple; are heated; by steam
+372; 0.94; The ends of the thermocouple; cooled; by ice-water in the small containers on the tripods
+373; 0.94; The environment; includes; the living animals as well as the plants, etc.
+374; 0.89; The eroded sediments; reach; the lakes
+375; 0.98; The evaporation of water from this fluid and the diffusion of sugars from the photosynthetic mesophyll cells; make; this solution quite concentrated
+376; 0.68; The fearful; sounds; emitted form the stables would have melted a heart of stone
+376; 0.90; the stables; would have melted; a heart of stone
+377; 0.95; The feathers of a bird and the scales of a fish; are; homologous; because they correspond in structure, position, and origin
+377; 0.62; they; correspond; in structure, position, and origin
+378; 0.88; The fertility of the land and water; is; important
+379; 0.87; The fire; burns; as long as there is energy in the wood
+380; 0.73; The floor; is carpeted; 
+380; 0.90; the ceiling; is coated; with sound-absorbing material
+381; 0.94; The flow of current through a conductor; enables; the transfer of energy in a light bulb
+382; 0.91; The force, or pressure; is needed; to push electricity through wires
+382; 0.91; The force, or pressure; to push; electricity; through wires
+382; 0.97; The force, or pressure, that is needed to push electricity through wires; is called; voltage
+383; 0.93; The gases; found; in sealed regions; usually
+383; 0.96; The gases usually found in sealed regions; mainly contain; methane, hydrogen, carbon monoxide, carbon dioxide, nitrogen, and oxygen
+384; 0.90; The glaciers; have weathered; unique holes; in the rock formations
+385; 0.57; The gnarliest; will have; some redeeming traits
+386; 0.84; The great masses of brick and weapons; are; immovable; however
+387; 0.96; The green in leaves; is; chlorophyll, a pigment plants use to collect energy from sunlight
+387; 0.85; chlorophyll; use; to collect energy from sunlight
+388; 0.93; The heart; pumps; blood; in waves
+389; 0.91; The heat from the room; causes; the ice to melt
+390; 0.93; The heat of the lightning; causes; thunder
+391; 0.89; The heat pump; extracts; this energy
+392; 0.87; The hot melt; is quenched; by immediately sinking it into a bucket of water; then
+393; 0.96; The hydrologic cycle; links; the processes of evaporation, condensation, stream run-off, infiltration, percolation, and transpiration as water moves between the ocean, atmosphere and land
+394; 0.91; The image; shows; granite
+395; 0.85; The impacts of green crabs on estuarine ecosystems; are also; important
+395; 0.90; introduced species; may may reduce; biodiversity
+395; 0.89; introduced species; cause; extinctions
+396; 0.91; the amount of light; enters; the eye
+396; 0.91; The iris; helps; regulate the amount of light
+397; 0.72; Their primary function; is; to break down dead matter, particularly plants
+398; 0.67; kids; use; their imaginations
+398; 0.55; Their toys; make; kids laugh, dream, use their imaginations and most importantly smile
+399; 0.95; The key to this kind of study; is; the archaeologist making direct observations of cultural behavior
+399; 0.90; the archaeologist; making; direct observations of cultural behavior
+399; 0.45; it; is reflected; in the things
+399; 0.17; it; refuse; that people actually create
+400; 0.45; it; dives; into the water
+401; 0.90; The landslide; was blamed; on periods of heavy rain
+402; 0.80; The large crystals; form; 
+403; 0.93; The leaf color; is; a very fresh green
+404; 0.78; The leaf surfaces; are above; light green and glabrous
+405; 0.91; The liquid center; provides; an ideal environment
+405; 0.90; the islets; to function; within a protective shell
+406; 0.81; The lung; is; most commonly involved
+406; 0.70; The lung; most commonly involved; 
+407; 0.91; The magnetic field; induced; by the electric energy
+407; 0.93; The magnetic field induced by the electric energy; thus produces; sound and heat
+407; 0.93; The magnetic field induced by the electric energy; causes; the coil to vibrate
+408; 0.90; The marble floors; echoed; sounds; throughout the office
+409; 0.83; The material; is recycled; before it becomes a waste
+409; 0.45; it; becomes; a waste
+410; 0.95; The microscope; is; an important tool used by biologists to magnify small objects
+410; 0.91; an important tool; used; by biologists; to magnify small objects
+411; 0.73; The mirror; is angled; 
+411; 0.83; the surgeon; uses; a mirror or light fixed to their head; into your throat
+411; 0.77; a mirror or light; fixed; 
+412; 0.92; The most popular ink; used; in ribbons
+412; 0.94; The most popular ink used in ribbons; is known; as black record ink
+413; 0.96; The mountain environment; is; commonly associated- with earthquakes, landslides, mass wasting, floods, and droughts
+414; 0.90; The muds; would harden; into sedimentary rock and the plants and animals
+415; 0.18; this; sounds; obvious
+415; 0.95; a great roast chicken; should taste; like chicken; Then
+416; 0.75; The natural balance; is maintained; 
+416; 0.75; the multiple microbes; are; present
+417; 0.95; the fully mature trees; are cut; in every part of the forest; every year; Then
+418; 0.97; The only accurate determination of the chronic impact of stack emissions; would be; from detailed spectroanalyses of soil samples and grass, moss and lichens surrounding the facility compound
+419; 0.90; The organs; are made up; of tissues
+419; 0.88; tissues; are; groups of similar cells
+419; 0.89; similar cells; perform; similar functions
+420; 0.52; the easier; will be; it
+420; 0.41; it; to extract; the green pigment
+421; 0.93; The physical heart; pumps; blood
+422; 0.96; The physical manifestation of genetic traits in an organism; is; the genotype
+423; 0.90; The plant; lives; for two years
+424; 0.88; appliances; use; hot water
+424; 0.94; The plastic debris, which looks like pieces of egg shell; can block; water flow in appliances
+425; 0.93; The potential energy of the rock; is transformed; into kinetic energy
+426; 0.95; The purpose; was; to insure the most balanced use of energy, natural resources and the environment
+427; 0.93; The quads and the water mat; are covered; with yellow petals
+427; 0.70; yellow petals; have withered; 
+427; 0.70; yellow petals; fallen; 
+428; 0.35; the better your dog; to run; 
+429; 0.94; a majority of the kiwifruit handlers and producers; may be classified; as small entities
+430; 0.90; the road; exerts; a friction force on the car tires
+431; 0.40; they; require; large, intact ecosystems; to meet their general habitat requirements
+432; 0.75; The report; should be; no more that a page long and should summarize the objective of the lab, the calculations that you will do for the lab and what quantities you will need to measure or calculate in order to perform the experiment successfully.
+432; 0.90; a page long; should summarize; the objective of the lab
+432; 0.89; the calculations; will do; for the lab
+432; 0.55; you; will need; to measure or calculate in order
+432; 0.49; the calculations that you will do for the lab and; to measure; 
+433; 0.95; The resulting greater reliance on locally produced waste material; should benefit; local resource waste recycling activities
+434; 0.92; The resulting plant material; can serve; as food
+435; 0.83; the animals; came; to drink it
+435; 0.81; the animals; to drink; it
+436; 0.76; The rock-hard mass; results; 
+436; 0.94; The rock-hard mass that results; is called; a rhinolith
+437; 0.94; The salt in seawater; affects; the ecology of coastal lagoons, tidal flats, and river mouths
+437; 0.87; The salt in seawater; is; what most obviously distinguishes it from freshwater
+438; 0.91; The scientists; kept; changing the pattern every few days
+439; 0.77; These actions; are; global
+439; 0.36; they; are; constant and hourly
+440; 0.93; These animals; attract; the carnivores such as lions and leopards; then
+441; 0.54; These; are; a good source of information
+441; 0.91; a particular compound; encompassed; by one of these areas
+441; 0.73; you; want; to find physical constants, structures, and properties of a particular compound
+442; 0.85; These devices; made; sharp sounds that would echo off different surfaces walls, ceilings, glass windows, trees and so forth, at time lags
+442; 0.93; sharp sounds; would echo off; different surfaces walls, ceilings, glass windows, trees and so forth
+442; 0.90; time lags; determined; by how far away from the surface
+442; 0.88; the surface; were; you
+443; 0.95; The seeds; drop; as the plant dies as a result of changes in the weather
+443; 0.90; the plant; dies; as a result of changes in the weather
+444; 0.91; These energy centers; use; both light
+445; 0.89; These genes; are passed on; to the offspring of the parent or parents
+446; 0.94; These processes; include; weathering and erosion, sediment deposition by water, wind, ice, and mass-wasting
+447; 0.87; The shale; is; softer than the neighboring sandstone; because it was formed from muddy swamps
+447; 0.45; it; was formed; from muddy swamps
+448; 0.89; The size and intensity of the opposition; determine; the amount of that force; usually
+449; 0.90; The sky; is never; completely clear for long periods of time
+450; 0.92; The smaller pie chart; represents; a guideline for healthy individuals
+451; 0.90; The solution; ruined; the wall-to-wall carpet
+452; 0.94; The standard unit for mass; is; the kilogram
+453; 0.95; The stem; holds; the plant upright and food and water travel up and down the stem
+454; 0.94; The store; recycles; materials such as paper, plastic, and packaging materials
+455; 0.95; The strategy; is; to set back plant growth and improve the fishery by exposing most of the dry lake bottom
+455; 0.89; The strategy; to set; back; plant growth
+455; 0.84; The strategy; to improve; the fishery
+456; 0.90; The students; would learn; about the moon through research
+456; 0.91; the moon through research; would largely be based; on first-hand observation
+457; 0.94; The substitution of such fuels for fossil fuels; can reduce; hydrocarbon and carbon monoxide emissions
+458; 0.90; The sun; provides; energy
+458; 0.93; the plants; eat; the animals
+459; 0.90; The sun; radiates; light
+459; 0.90; the moon; reflects; light
+460; 0.70; The temperature; boils; 
+460; 0.95; a liquid; starts; changing to a gas; The temperature
+460; 0.89; The temperature; changing; to a gas
+460; 0.94; The temperature at which a liquid boils and starts changing to a gas; is called; its boiling point
+461; 0.94; The two main causes of this erosion; are; wave erosion and mass wasting
+462; 0.94; recyclable packaging materials; used; in furniture packaging; currently
+462; 0.93; The two major types of recyclable packaging materials; are plastic wrapping; film and corrugated cardboard
+463; 0.89; living organisms; thrive; in a given ecosystem
+463; 0.94; The types of living organisms; depend; on the nature of such nonliving factors as soil, sunlight and precipitation
+464; 0.94; The use of dental sealants; is; a good means of cavity prevention
+465; 0.79; contour farming; is; beneficial on cropland from a conservation and production standpoint on sloping soils in the county
+466; 0.95; The usual term in these cells; was; about three to four months
+467; 0.90; The water; covers; the earth; for 150 days
+468; 0.90; The water; evaporates; to form vapor
+469; 0.73; The water; was rapidly freezing; 
+469; 0.89; The water; leaving; the whales
+470; 0.90; The water; will be used; as feedwater to steam boilers
+471; 0.90; The winds; had caused; soil erosion and some damage to emerging seedlings
+472; 0.62; They; allow; current to flow between 2 points
+472; 0.58; They; to flow; between 2 points
+472; 0.89; 2 points; closing; the circuit
+473; 0.89; genetic information; has been inherited; from both parents
+473; 0.67; They; are; what determine physical traits , such as hair and eye color, and are pieces of genetic information
+474; 0.68; They; climb; other trees
+475; 0.62; They; contain; no new material
+476; 0.58; They; have evolved; to protect the seeds and to assist in their dispersal
+476; 0.58; They; to protect; the seeds
+476; 0.32; They; to to assist; in their dispersal
+477; 0.62; They; have; one-way lungs to get more oxygen
+478; 0.68; They; to be; able to drive the hills and mountains, plus handle the weather up north
+478; 0.58; They; to drive; the hills and mountains
+479; 0.56; They; made; colorful pie charts to display the results
+480; 0.62; They; must also maintain; good grades; in school
+480; 0.58; They; have; no involvement in criminal activity
+480; 0.58; They; maintain; a good driving record to remain in the program
+480; 0.92; a good driving record; to remain; in the program
+481; 0.76; They; rest; in cool, dark, thick forests; often
+482; 0.62; They; produce; deep green, compound leaves
+482; 0.93; light green, dioecious, apetalous flowers; appear; in early spring
+482; 0.91; light green, dioecious, apetalous flowers which appear in early spring about the time trees; begin; 
+482; 0.90; light green, dioecious, apetalous flowers which appear in early spring about the time trees; to leaf out; 
+483; 0.62; They; will investigate; the effects of soil erosion and design conservation methods
+484; 0.83; This blue light; is; difficult
+484; 0.85; the human eye; to focus; due to its scattering characteristics
+485; 0.93; This energy; is; similar to the way
+485; 0.90; the earth; is pulled; by the sunand
+485; 0.90; the tides; are effected; by the moon
+486; 0.48; This; causes; leaf drop; eventually
+487; 0.94; This form; provides; space for the entry of river stages and conditions, temperature, precipitation, snow cover and special river and rainfall observations
+488; 0.93; This gene; is; present on chromosome 5
+489; 0.90; This groundwater; supplies; most of the nutrients
+489; 0.90; the nutrients; needed; by fen plants
+490; 0.50; This; includes; the life processes of all cells of organisms, the structure and function of the cell, and an explanation of the cell theory
+491; 0.45; This; decreases; the effect of certain drugs, such as xylazine and ketamine
+492; 0.45; This; is; a major river with a fish habitat
+493; 0.42; This; is; because the cellular processes are themselves reliant on the organisms, populations, communities and ecosystems
+493; 0.90; the cellular processes; are; themselves reliant on the organisms, populations, communities and ecosystems
+493; 0.68; they; form; part
+494; 0.20; you; will see; that they are well-formed little animals
+495; 0.14; This; means; that an increased mortality rate due to disease and predation by rats and cats, will have a terrible impact on their population
+496; 0.22; This; means; that small waterfalls connect some hanging valleys with the main river in the canyon
+497; 0.19; it; freezes; 
+497; 0.41; it; floats; on liquid water
+497; 0.14; This; means; that water expands when it freezes, and it also floats on liquid water
+498; 0.73; This mixture; is shaken; 
+498; 0.89; This mixture; topped off; with soda water
+499; 0.90; This process; is called; condensation
+499; 0.90; the water; coming; out of the sponge
+499; 0.94; the water coming out of the sponge; represents; precipitation
+500; 0.38; This; reduces; the amount of chemical pesticides in the environment
+500; 0.36; This; helps; birds of prey survive
+501; 0.15; This; will fill; 
+501; 0.41; This; frost; a layer cake
+502; 0.38; This; will provide; the needed carbon dioxide
+503; 0.17; they; need; more than that; to stay aloft
+503; 0.32; they; to stay; aloft
+503; 0.47; they; get; the bulk of their energy needs; from sipping nectar or sugar water
+504; 0.85; the authors; found; evidence that fossil plants can help scientists determine the sources of carbon in the atmosphere hundreds of millions of years
+504; 0.92; fossil plants; can help; scientists determine the sources of carbon in the atmosphere hundreds of millions of years
+505; 0.79; predation rates on juvenile salmonids; will likely continue; 
+505; 0.76; predation rates on juvenile salmonids; to increase; 
+506; 0.77; a two meter stick; was used; 
+506; 0.93; tidal height; is; a vertical measure of water
+507; 0.73; the wax; is melted; 
+508; 0.95; Total length; was measured; by placing the animal flat on the plastic metric ruler, holding the nose at zero and feeling to tip of the last vertebra in the tail for the total length measure; then
+509; 0.90; Traditional filters; produced; by evaporation of materials
+509; 0.90; Traditional filters produced by evaporation of materials; contain; small voids that absorb water and change the properties of the filter
+509; 0.89; small voids; absorb; water
+509; 0.89; small voids; change; the properties of the filter
+510; 0.89; Traditions; include; eating fruit and planting trees
+511; 0.72; Traits; are; genetic
+511; 0.77; Traits that are genetic; are passed down; 
+512; 0.90; Typical uses; include; automotive wrecking yards, junkyards or salvage yards
+513; 0.92; vibration; is; the cause of sound in musical instruments
+514; 0.73; the particles; collected; 
+515; 0.94; Using a candy thermometer; is; the most effective way of monitoring temperature
+516; 0.75; the seed capsule; ripens; 
+517; 0.90; Volcanic eruptions; can change; climates
+518; 0.80; Water; is; essential
+518; 0.56; plants; to grow; 
+518; 0.45; plants; to develop; 
+518; 0.45; it; carries; minerals; from the soil to the leaves
+519; 0.78; the market; grows; 
+519; 0.97; competition and economies of scale; make; such services more accessible to large parts of the population; as the market grows
+519; 0.27; We; also agree; that, as the market grows, competition and economies of scale will lower the price of broadband access and make such services more accessible to large parts of the population
+520; 0.93; Wearing goggles; is; essential for safety
+521; 0.45; We; breathe; in oxygen
+521; 0.41; We; breathe out; carbon dioxide
+522; 0.92; yeast; has; 6,000 genes, in other words
+522; 0.75; 6,000 products; go; 
+522; 0.22; We; can say; there are 6,000 products
+523; 0.89; Weeds; are increasing; soil erosion
+524; 0.53; We; to be; able to recycle other materials, such as plastic bottles and cardboard, throughout the school later on
+524; 0.51; We; hope; to be able to recycle other materials, such as plastic bottles and cardboard, throughout the school later on
+525; 0.89; Wetlands; are also; one of the most productive ecosystems in the world
+526; 0.45; We; will look; at concepts of water as economic resource
+526; 0.82; economic resource; provides; food, transportation, local identity, and that maintain rain forest ecosystem, as well as issues about public policy, organization, use and consumption, and water quality and preservation
+527; 0.41; We; take; notes
+527; 0.27; We; record; our observations
+527; 0.39; We; will sketch; using several portable media
+528; 0.80; Whales, seals and walrus; have; a layer of fat that helps keep their body warm even in cold water
+528; 0.84; a layer of fat; helps; keep their body warm even in cold water
+529; 0.73; a battery; is charged; 
+529; 0.91; the electrical energy; changes chemically; When a battery is charged
+530; 0.90; a beach; is flanked; by rocky points
+530; 0.94; wave energy; is concentrated; on the points; causing erosion there, but allowing sand to build up in the area between them; When a beach is flanked by rocky points
+531; 0.89; a bulb; burns out; no light
+532; 0.78; a rubber band; is stretched; too much
+532; 0.55; it; will break; When a rubber band is stretched too much
+533; 0.91; a wilted plant; is cut; near the soil line
+533; 0.97; the stem pith; looks; dark and water-soaked; When a wilted plant is cut near the soil line
+534; 0.79; an electric current; is produced; in that wire
+535; 0.71; cream; boils; 
+535; 0.80; coffee; is; heated
+536; 0.90; heat energy; is transferred; to or from an object
+536; 0.89; heat energy; decreases; relative to the amount of heat
+537; 0.71; pressure; is applied; 
+537; 0.94; the two brass conductors; will be electrically connected; When pressure is applied
+538; 0.81; the pan; is; hot
+539; 0.93; the satellite; is; in darkness
+539; 0.60; it; will radiate; heat; When the satellite is in darkness
+539; 0.27; it; lose; energy and the force of gravity on it
+539; 0.17; it; will decrease; 
+540; 0.90; water vapor; condenses; in the atmosphere
+540; 0.90; heat; helps; to fuel storms
+541; 0.90; water vapor; condenses; into liquid
+541; 0.60; it; releases; this heat; into the surrounding atmosphere; When water vapor condenses into liquid
+542; 0.90; the spring; is pushing; the card; with a relatively large horizontal force
+542; 0.97; the opposing horizontal forces; are; the friction with the cup and the friction with the ball; While the spring is pushing the card with a relatively large horizontal force
+543; 0.95; White kneadable rubber erasers; do; a good job
+544; 0.80; White objects; reflect; whatever kind of light they receive
+545; 0.79; Widespread and common prey species; to have; specialist predators that are rare or locally endemic species
+545; 0.89; specialist predators; are; rare or locally endemic species
+545; 0.94; the loss of common species; to have; a large impact on species higher in the food chain
+545; 0.94; the loss of common species; would tend; to have a large impact on species higher in the food chain
+546; 0.78; Winds of change; are blowing; everywhere
+547; 0.87; the net charge on each strip; is; negative
+548; 0.91; Yaupon; provides; good cover and nesting sites for many birds species
+549; 0.91; the roots; grow; from the lower part of the plant
+550; 0.72; You; can clean; the ears; with a solution of white vinegar and water mixed half and half
+551; 0.52; You; can use; this electrical energy; to light a flashlight, to start a car, or to listen to your favorite music
+552; 0.54; Your good eating habits; will set; a good example for your growing family
+553; 0.94; the water solution; to cloud; as the black ink is heated and released from the canon bx-3 ink cartridge
+553; 0.83; the black ink; is; heated
+553; 0.91; the black ink; released; from the canon bx-3 ink cartridge
+553; 0.55; You; will see; the water solution start to cloud
+554; 0.92; Absorption of cesium by humans; takes primarily; place
+555; 0.90; a field; overgrown; with grass after all of the bushes and trees
+556; 0.95; all the non-red colors in sunlight; get; absorbed and turn into radiant heat
+556; 0.80; all the non-red colors in sunlight; get absorbed; 
+556; 0.94; all the non-red colors in sunlight; turn; into radiant heat
+557; 0.95; Action; is; necessary; because the damage caused by climate change may be catastrophic and irreversible
+557; 0.90; the damage; caused; by climate change
+557; 0.83; the damage caused by climate change; may be; catastrophic and irreversible
+558; 0.71; seeds; germinate; 
+558; 0.94; the plants; develop; into the rosette stage; After seeds germinate
+559; 0.88; A gene; is; a hereditary unit that can be passed on unaltered for many generations
+559; 0.90; a hereditary unit; can be passed on unaltered; for many generations
+560; 0.93; Agricultural biotechnology; is; a collection of scientific techniques, including genetic engineering
+560; 0.93; genetic engineering; are used; to create, improve, or modify plants, animals, and microorganisms
+560; 0.70; genetic engineering; to create; 
+560; 0.60; genetic engineering; to improve; 
+561; 0.92; All basic body constituents; are held; in water
+561; 0.64; it; is; the medium in which all chemical reactions take place in the body
+561; 0.95; all chemical reactions; take; place; in the body; the medium
+562; 0.66; All living things; must be composed; of a single cell or groups of cells
+563; 0.94; All of these impacts; combine; to cause a significant decrease in infiltration and a subsequent increase in the speed and amount of flood runoff
+564; 0.90; All organizations; require; tremendous outgoing energy; to survive and thrive
+565; 0.90; All phytoplankton; produce; organic carbon compounds from dissolved carbon dioxide
+566; 0.93; All plant life and animals; produce; hormones
+567; 0.93; All the isotopes of an element; have; the same number of protons
+568; 0.95; a dam failure; can cause; a flash flood; at times
+569; 0.66; Altering their environment; disrupts; the life cycle of animal species
+569; 0.36; they; are oftentimes not; able to adapt
+569; 0.28; they; to adapt; 
+570; 0.66; Anagenesis entire species; undergoes; change; until transformed into recognizably different species
+571; 0.93; An area; is; available for food
+572; 0.91; An electric motor; converts; electrical energy into mechanical energy
+573; 0.85; a strange strategy; allows; males to remain attached to female anglerfish once they have managed to find them following a chemical smell
+573; 0.41; they; have managed; to find them following a chemical smell
+574; 0.71; organs; obtained; 
+574; 0.94; Animals or live animal cells, tissues, or organs; should not be used; as a source of xenografts
+575; 0.86; An object in motion; will remain; in motion; until and outside force acts on it
+576; 0.93; A number of serious diseases; are caused; by organisms
+576; 0.92; organisms; can survive; for only a very short period of time outside of the fish
+576; 0.88; the fish; infect; they
+577; 0.89; Any microorganism; may cause; a disease
+578; 0.89; Architects; can design; computer drawings of buildings
+578; 0.91; engineers; can use; the technology; to draft three-dimensional computer models of projects, including bridges and highways
+579; 0.94; A sample of ice; has; a mass of 25 kilograms
+580; 0.90; certain species; may face; dwindling numbers and even extinction
+580; 0.36; they; are; unable to migrate fast enough
+580; 0.58; they; to migrate; fast enough to keep up with the changing climate
+581; 0.90; Asexual reproduction; occurs; in both plants and animals
+582; 0.71; ferrouranium; readily dissolves; 
+582; 0.41; its chemical analysis; is not; problematic
+583; 0.90; A sinkhole; formed; when this cavity caved in
+583; 0.73; this cavity; caved in; 
+584; 0.56; plants; die; 
+584; 0.32; they; use; oxygen that fish need to survive
+584; 0.55; fish; need; to survive
+585; 0.90; the cells; metabolize; hydrogen sulfide
+585; 0.68; they; form; internal deposits of elemental sulfur
+586; 0.87; the shared habitat needs of many species at risk; have become; more apparent
+586; 0.91; a more ecosystemic approach; focuses; on habitat restoration
+587; 0.89; A substance; promotes; the suspension of one liquid in another
+588; 0.76; it; turns; into ice; during the process of deposition or condenses into liquid water; As water vapor cools in the atmosphere
+589; 0.93; Asymmetrical cell division; is; very common in both animals and plants
+589; 0.74; tissues; go; 
+590; 0.83; consumer goods; associated; with our mode of living
+591; 0.97; a human embryo; is; barely distinguishable from any other vertebrate embryo-bird, reptile, or mammal; At four weeks
+591; 0.60; it; resembles only; other mammalian embryos; by six weeks
+592; 0.93; A tidal bore; is; the effect of the tide
+592; 0.73; the tide; advancing; 
+592; 0.93; a wave up the rivers and estuaries; reverses; their natural flow; temporarily
+593; 0.87; Atoms; react; to form molecules
+594; 0.89; testicular cancer; arises; from sex cells, or germ cells
+595; 0.92; A typical spiral galaxy; contains; about one hundred billion stars
+595; 0.93; A typical spiral galaxy; is; approximately one hundred thousand light years across
+596; 0.92; A water flow metaphor; is used; to illustrate electric current
+596; 0.91; A water flow metaphor; to illustrate; electric current
+597; 0.93; Bacterial saprophytes and saprophytic fungi; are; essential to the recycling of nutrients in natural ecosystem
+598; 0.94; Beavers; are being blamed; for damage to streams and small creeks, farmers and landowners; again
+598; 0.55; they; seemingly overnight will build; dams
+599; 0.90; these traits; are; able to be passed on to offspring
+599; 0.89; these traits; to be passed on; to offspring
+600; 0.91; spiders; use; silk; for many purposes such as dispersal by ballooning and egg sacs
+601; 0.86; Biomass; is probably; our oldest source of energy
+602; 0.94; Both man-made and natural disasters; can have; far-reaching effects
+603; 0.90; Both vehicles; collide; at the crest
+603; 0.89; Both vehicles; come; to a stop
+604; 0.92; Brake shoes and pads; are designed; to create friction in order
+604; 0.91; Brake shoes and pads; to create; friction; in order
+605; 0.45; he; turned; to the mirror
+606; 0.71; days; are; 
+606; 0.93; short birds; have; less time to find enough food; in winter; when days are
+607; 0.95; Chiropractic science; is; concerned with the relationship between structure, primarily the spine, and function, primarily the nervous system, of the human body
+607; 0.90; that relationship; may affect; the restoration and preservation of health
+608; 0.92; Chlorophyll; is found; in special structures within plant cells
+609; 0.71; species; must evolve; 
+609; 0.36; they; will become; extinct
+610; 0.95; C, right-coiling forms of the species; dominate; the population
+611; 0.89; Crop subsidies; encourage; farmers to increase their use of fertilizers, pesticides, and other chemicals
+611; 0.88; farmers; to increase; their use of fertilizers, pesticides, and other chemicals
+611; 0.89; other chemicals; increase; output per acre
+612; 0.91; a deposit of sediment; occurs; at a river mouth
+613; 0.93; a three-dimensional objects; describing; similarities and differences
+614; 0.90; Different elements; react; to alpha radiation
+614; 0.91; scientists; could determine; which elements were present in the rock by analyzing the results
+615; 0.93; D plant and animal cells; to reinforce; the knowledge of plant and animal cell structure
+616; 0.95; energy; is; either absorbed or released; During a chemical reaction
+616; 0.88; energy; released; when chemical bonds are formed or broken 
+617; 0.56; they; hunted; During their stay there
+617; 0.57; they; killed; fresh game; for food; During their stay there
+618; 0.92; Earth; rotates; once every day
+619; 0.90; Electric motors; convert; electrical energy into mechanical energy
+620; 0.94; Encounters between animals of the same sex; resulted; in avoidance behavior and aggression
+621; 0.94; Energy and work; are measured; in the same units-foot-pounds, joules, ergs, or some other
+621; 0.77; the system of measurement; being used; 
+622; 0.94; Ensure heels and soles of like shoes; are grounded; to each other; unlike shoes are grounded at the soles only
+623; 0.92; Evolution by natural selection; could not be; faster than the mutation rate
+623; 0.94; new variation; enters; the species; ultimately
+624; 0.95; Few businesses and suppliers; have; a policy to purchase environmentally friendly products and perform environmental audits
+625; 0.79; Fish; tells; me; an animal is an aquatic vertebrate with a two-chambered heart and gills
+626; 0.93; Flowers; are; cup-shaped with five rounded petals, white or flushed pink or red
+626; 0.97; five rounded petals, white or flushed pink or red; mingled; on the same plant; often
+627; 0.95; Fog and clouds; form; through condensation around cloud condensation nuclei
+628; 0.91; the slowing oscillations of the molecules; allow; the water to freeze into ice
+629; 0.94; fire; is required; to break down and help recycle the nutrients; in drier ecosystems around the world
+630; 0.89; pellet cells; remove; all plastic
+631; 0.92; networking; is; a learned behavior like learning to swim 
+632; 0.61; they; will be; an extinct species; soon
+633; 0.92; the combustion of hydrogen; produces; water
+633; 0.92; air pollution from vehicles; would be replaced; with air pollution
+633; 0.90; air pollution; generated; by the electricity generation plants
+633; 0.77; the electricity generation plants; could perhaps be; better controlled
+634; 0.89; Genes; are located; on chromosomes in the cell
+635; 0.90; Global warming; will lead; to much more severe weather
+636; 0.95; Glucose, or sugar; is; an energy source for living cells in plants, animals and humans
+637; 0.95; Good summer and fall nutrition; may be; critical to winter survival and successful production of healthy fawns the following spring
+638; 0.95; Hair; is used; to insulate and keep the body warm in a large variety of climates 
+638; 0.86; Hair; to keep; the body
+639; 0.42; He; inherits; a genetic predisposition; to impuslive behavior from his mother and a genetic predisposition
+640; 0.92; Heredity; is; the passing of traits from parent to offspring
+641; 0.94; different family members with the same genetic susceptibility; may exhibit; a wide variety of symptoms, or even none
+642; 0.62; they; can change; over short periods of time
+643; 0.90; Human cells; contain; 46 chromosomes in 23 pairs
+644; 0.94; Human factors; involves; considering how humans can use systems more effectively, efficiently, and acceptably
+644; 0.89; humans; can use more effectively efficiently; systems
+645; 0.89; Humans; have; 23 chromosomes
+646; 0.89; Humans; have; 23 pairs of chromosomes
+647; 0.93; Hydrogen peroxide; has been found; effective in milk sterilization
+647; 0.81; the substance; is; pure
+647; 0.85; no serious objection; can be raised; against it
+648; 0.45; it; functioned; as a frontier system
+649; 0.89; reptiles; gave; rise to birds
+649; 0.94; the fossil record; showing; the gradual transition of the forelimbs of the ancestral reptile into the wings of a bird, and the gradual transition of some structure of the reptile into the feathers of a bird
+650; 0.90; the consumer; wants then; certain things in sufficient numbers
+650; 0.87; the farmer and food producer; will provide; them
+651; 0.91; the digestive system; contains; food
+651; 0.90; these nutrients; are absorbed; in the blood
+651; 0.81; these nutrients; nourish; our cells
+652; 0.92; the organs of the digestive system; transform; food into bone, tissue, blood, and energy
+652; 0.94; the organs of the digestive system that transform food into bone, tissue, blood, and energy; fail; to function properly
+652; 0.92; the organs of the digestive system that transform food into bone, tissue, blood, and energy; to function properly; 
+652; 0.90; the body; will not receive; adequate nourishment
+653; 0.89; baby changes; is startled; by a loud noise
+653; 0.58; you; will see; him or her react by tensing and arching the body, throwing out the arms, and stiffening
+654; 0.92; Igneous and sedimentary rocks; can be altered; by heat and pressure
+655; 0.36; I; have learned; more about protecting myself and the danger of risky behaviors from this site then from anywhere else
+656; 0.57; I; live; on an island with a shrinking number of flying areas
+657; 0.89; Images; can be used; in pedigree charts and several reports
+658; 0.96; In a car factory, adding a rubber stop to a conveyor belt; might stop; damage to workpieces
+658; 0.52; we; have; all the elements of the situation in front of us like the parts of an assembly line; rarely
+659; 0.89; toxic air pollutants; can have; indirect effects on human health
+660; 0.95; the number of electrons; equals; the number of protons In a neutral atom
+661; 0.89; objects; change; their direction of motion at these locations; In classical physics
+662; 0.94; the transient microorganisms; found; on the hands of hospital personnel; often
+662; 0.96; the transient microorganisms often found on the hands of hospital personnel; can be; pathogens acquired from colonized or infected patients
+662; 0.89; pathogens; acquired; from colonized or infected patients
+662; 0.95; the transient microorganisms often found on the hands of hospital personnel; may cause; nosocomial infections
+663; 0.42; they; will see; that the water will evaporate and the salt will not
+664; 0.92; Infectious or toxic substances; cause; hepatitis
+665; 0.90; the heat; required; for the evaporation
+665; 0.96; the heat required for the evaporation; will come; from the drop; Initially
+665; 0.92; the remaining water molecules; will have; a lower average speed and therefore a lower temperature
+665; 0.93; the fastest moving water molecules; are; most likely to escape the surface of the drop
+665; 0.91; the fastest moving water molecules; to escape; the surface of the drop
+666; 0.96; using corrective fertilizer application and other inputs; can compensate; the salinity effect; In moderately saline soil areas
+667; 0.84; the effect of all of these secondary feedback mechanisms; must be modeled correctly; 
+668; 0.64; your body; must use; several organs
+669; 0.93; two parents who have programs with some good features; will not necessarily pass down; the good traits; any more than the bad traits
+670; 0.94; Inside; is; a tiny plant
+671; 0.89; nomads; moving; to less arid areas
+671; 0.96; nomads moving to less arid areas; disrupt; the local ecosystem; In some areas
+671; 0.95; nomads moving to less arid areas; increase; the rate of erosion of the land; In some areas
+672; 0.94; smaller plants; produce; all; In some arums
+672; 0.85; plants; grow; larger; over the years
+672; 0.95; the male flowers; are replaced; by more female flowers on the same plant; as plants grow larger over the years
+673; 0.94; modern chemical engineers; are; concerned with all the physical and chemical changes of matter
+673; 0.90; modern chemical engineers; concerned; with all the physical and chemical changes of matter
+673; 0.89; all the physical and chemical changes of matter; can produce; an economic product or result that is useful to mankind
+673; 0.93; an economic product or result; is; useful to mankind
+674; 0.94; Insulin; is; a hormone made in the pancreas
+674; 0.90; a hormone; made; in the pancreas
+674; 0.89; the pancreas; controls; the level of sugar in the blood
+675; 0.94; one crystal; must be related epitaxially; with another; In the atomic focusing method
+676; 0.95; In the bars rest during the performance; try; not to stand there like a goldfish
+676; 0.76; a goldfish; counting etc.; one two
+677; 0.41; It; depends; on how the plants are pollinated
+677; 0.73; the plants; are pollinated; 
+678; 0.27; It; tilted; the rotation axis of the earth; to its present inclination
+679; 0.45; It; can harm; native fish populations; through competition for food and nesting space
+680; 0.52; It; is; a kit of many plastic parts
+681; 0.64; It; is; a plant with flowers of cupped, ribbony petals, and the color and smell of cinnamon-spiced bittersweet chocolate
+681; 0.89; It; is a plant with; flowers
+682; 0.52; It; is; bedrock
+683; 0.45; It; is produced also; as a result of industrial pollution
+683; 0.41; It; is found; in the air, soil and water
+684; 0.64; It; is; the biochemical molecule of which chromosomes and genes are composed
+684; 0.75; chromosomes and genes; are composed; 
+685; 0.35; It; may be caused; by other infections such as fungal infections
+686; 0.31; It; produces; no pollution - in fact it purifies the air
+686; 0.31; it; purifies; the air it uses
+686; 0.88; the air; uses; it
+687; 0.70; Its function; is; to assist in the absorption of digested food
+688; 0.23; It; would be; cheaper
+688; 0.78; the environmental hazards; would be; higher
+689; 0.90; the rotation of the earth on its axis; defines; the length of the day; Just as the revolution of the earth about the sun defines the length of the year
+690; 0.94; Karst limestone; consists; of rock formations with extensive solution channels, sinkholes, and caves
+690; 0.93; caves; formed; by the dissolution of limestone and dolomite by slightly acidic rain water
+691; 0.95; Keratin; is found; in hair, feathers, nails, claws, hooves and reptile scales
+692; 0.93; Lichens; are; a partnership between a type of fungus and green algae
+693; 0.93; a cyanobacteria; living; in a symbiotic relationship with a fungus
+694; 0.90; Likely systems; are; the circulatory and respiratory systems, and the brain
+695; 0.89; Liquid; travels; to the head
+696; 0.92; Lithium; is; a metal near the top of the periodic table
+697; 0.91; Livestock production; can result; in emissions of nitrous oxide, a very potent greenhouse gas, and carbon dioxide, the most abundant greenhouse gas
+698; 0.93; Living according to the flesh; produces; death
+699; 0.70; Living things; are; similar to and different from each other and from nonliving things
+700; 0.93; Magnesium oxide; is; the major source of magnesium for animal feeds
+701; 0.96; Malaria; is; a serious, sometimes fatal, disease caused by a parasite
+702; 0.78; Man; is not; another species within an ecosystem in fragile balance
+703; 0.90; Many species of birds in the rain forest; make; their nests; in the hallow of trees
+704; 0.89; Mass; is; the quantity of matter
+704; 0.92; weight; is; the gravitational force acting on an object
+704; 0.91; the gravitational force; acting; on an object
+705; 0.83; Mass; will have; far less impact on the industry
+705; 0.99; Mass manufactures of low-cost goods such as soft drinks and household products will have far less impact on the industry; said; the report
+706; 0.71; Membranes; are living; 
+707; 0.71; Metals; corrode; 
+708; 0.82; Microorganisms; are; crucial to nutrient recycling; in ecosystems; as they act as decomposers
+708; 0.68; they; act; as decomposers
+709; 0.87; Microorganisms; serve; other organisms
+710; 0.91; Minerals and fossil fuels; are; nonrenewable natural resources; because they are regenerated on a geological, rather than human, time scale
+710; 0.32; they; are regenerated; 
+711; 0.98; Modern, accurate explanations of the study of minerals, water and glaciers, the atmosphere, plate tectonics and continental drift, the oceans, weather, and the solar system and space; are included; 
+712; 0.93; the elements; compose; organic compounds carbon, nitrogen, oxygen, and hydrogen
+712; 0.97; the elements that compose organic compounds carbon, nitrogen, oxygen, and hydrogen; are; unlike the other elements in the periodic table
+713; 0.91; Most factories that need energy cells; will offer; between 15-25 credits
+714; 0.83; Most fishes; lay; their eggs in the water
+714; 0.92; a few, such as guppies; are; live bearers
+715; 0.90; the energy; released; in an earthquake
+715; 0.91; Most of the energy; is expended; in friction on the fault surface
+716; 0.92; Most of the population; depends; on agriculture and fishing
+717; 0.94; Most of the religious parties and similar elements; have been rejected; at the polls
+718; 0.90; Most of the solutions; representing spatially temporally; velocity
+719; 0.90; Most plant foods; have; trace elements, small amounts of other nutrients
+719; 0.89; other nutrients; are needed; to grow healthy, beautiful plants
+720; 0.91; Most plant genes; are; in the cell nucleus
+720; 0.29; it; is; these genes that are involved in genetic engineering
+720; 0.89; these genes; are involved; in genetic engineering
+721; 0.90; Multicellular organisms; are; organisms with more than one cell
+722; 0.77; Muscles; work; 
+722; 0.89; mechanical energy; moves; the human body
+723; 0.91; the genetic code; inherited; from parents
+723; 0.91; Mutations in the genetic code; alter; the physical characteristics of the offspring
+724; 0.57; it; can be used; for studying molecular dynamics, kinetics, microstructures, and equilibrium levels of chemical reactions
+725; 0.92; New roots and shoots; develop; at the base of the old leaf
+725; 0.91; New roots and shoots; develop; into a new plant
+726; 0.90; New roots; will grow; along the stem
+726; 0.77; the stem; buried; underground
+726; 0.89; New roots; providing; the plant; a healthy root base
+727; 0.90; the body; requires; new cells
+728; 0.73; these offspring; will learn; 
+729; 0.81; the boulder; gets; moving
+729; 0.60; it; picks up; momentum; Once the boulder gets moving
+729; 0.62; it; is; very hard to stop; Once the boulder gets moving
+730; 0.89; Organisms; must be; able to cope with extremes of temperature in order
+730; 0.88; Organisms; to cope; with extremes of temperature; in order
+731; 0.96; a substance; changes; from a gas; to a liquid, or a liquid to a solid; the reverse
+731; 0.53; a solid; caused; by the removal of heat
+732; 0.85; Other chemical reactions; absorb; energy rather than release it
+733; 0.93; Other waves, such as sound waves; can not travel; through a vacuum
+734; 0.90; Outdoor plants; can be; potted; in late summer
+734; 0.93; Outdoor plants; brought; indoors to grow on a cool, sunny window sill,
+734; 0.89; indoors; to grow; on a cool, sunny window sill
+734; 0.74; they; will produce; fresh leaves; for harvesting all winter; a cool, sunny window sill
+735; 0.78; People; can protect; themselves
+736; 0.66; people; die; 
+737; 0.83; Photosynthetic organisms; obtain; their energy from sunlight
+737; 0.93; chemosynthetic organisms; get energy; from inorganic chemical bonds
+738; 0.95; Physical features such as legs, claws, and wings; provide; ideas
+738; 0.97; Physical features such as legs, claws, and wings; naming; the resulting groups; then
+739; 0.96; Physical or mechanical weathering; is; the breaking of rocks and minerals into smaller, chemically identical, pieces
+740; 0.79; Place eggs in pot of cold water; to boil; 
+740; 0.89; Place eggs in pot of cold water; to cook; 5 minutes
+741; 0.90; Plant cells; have; a stiff cell wall
+741; 0.90; animal cells; have; a flexible, semi-permiable, cell membrane
+742; 0.81; Plants; produce; flowers for reproduction
+743; 0.74; the sugar particles; are; too small
+744; 0.95; Protein; is; extremely important for the growth and repair of muscle tissue 
+745; 0.91; numerical weather predictions; affecting; global and hemispheric forecast guidance products
+746; 0.66; Recycling; separates; the toxic substances, such as mercury, from the glass, aluminum, and other lamp components
+747; 0.93; Red chili powder, black pepper; are added; to the mixture to season the mixture
+748; 0.89; Respiration; is estimated; as a daily proportion of carbon in living tissue
+748; 0.93; living tissue; is released; as the result of cellular metabolic processes, excluding any growth processes
+749; 0.95; Restful sleep; is; as important as exercise or a healthy diet in maintaining overall health
+750; 0.90; climate change; induced; by greenhouse gas emissions
+751; 0.81; Rocks; are composed; of a number of mineral constituents
+751; 0.91; mineral constituents; melt; over a range of temperatures
+752; 0.94; Salinispora arenicola; is; an obligate marine actinomycetes bacterium species 
+754; 0.88; Scientists; studying; dinosaur bones for almost 200 years
+755; 0.94; Several analytical approaches; have been used; to discern the pure impact of soil salinity from other factors of production
+755; 0.93; Several analytical approaches; to discern; the pure impact of soil salinity from other factors of production
+756; 0.52; She; drank; pure milk 
+757; 0.71; they; destroy; one another when atoms and antiatoms collide
+759; 0.91; velocity direction changes; found; in these motions
+760; 0.91; a marine natural product; formed; by a marine bacterium
+761; 0.72; they; are; about the size of a mitochondrion in a eukaryotic cell
+762; 0.80; Sperm and egg cells; are; haploid
+763; 0.90; the boom; using only; water
+764; 0.93; Students; will investigate; rates and scales of processes including earthquakes, erosion, mountain building, and resource formation
+765; 0.91; Students; will use; a standard format; for presenting scientific experiments including sections for hypothesis, procedures, and results
+766; 0.91; Studies of glacial rebound; give; us information about the flow law of mantle rocks and also past ice sheet history
+767; 0.89; particularly damage; may be produced; by this energy
+768; 0.92; Subsequent periods of glaciation; scraped; away; topsoil
+769; 0.91; Such oxidative modification; could rupture; animal cell membranes
+770; 0.92; Summer temperatures in the northern hemisphere; are moderated; by a long earth-sun distance
+771; 0.93; Sunlight as a home energy source; involves; the process of capturing the sunlight
+771; 0.83; the sunlight; converting; it
+772; 0.95; Tecopa soils; form; from mixed metamorphic and igneous rocks such as schist, gneiss, and quartzite
+773; 0.83; That imagery of the butterfly; was; particularly lovely
+774; 0.38; That; improves; the ventilation
+774; 0.34; That; decreases; the likelihood of a thermal shutdown
+775; 0.94; The 7 ecosystems; enable; the reserve to host an incredible variety of animals and birds
+775; 0.90; the reserve; to host; an incredible variety of animals and birds
+776; 0.93; The acceleration; is; zero; because the object is not changing velocity
+776; 0.90; the object; is not changing; velocity
+777; 0.93; The administration area of the building; was converted; into a large, gracious entry
+777; 0.91; a large, gracious entry; faced; the parking lot; behind the church
+777; 0.94; most church members; parked; the church
+778; 0.94; The air handler; contains; a large blower and a filter just like conventional air conditioners
+779; 0.94; The alveoli; are; the areas of the lung where oxygen and carbon dioxide are exchanged into and out of the blood
+779; 0.95; oxygen and carbon dioxide; are exchanged; into and out of the blood; the areas of the lung
+780; 0.59; The animal-like part of our brain; contains; our fight or flight response mechanism
+781; 0.99; the number of protons in the nucleus and the number of electrons around the nucleus; is; the significant, essential basis for the modern periodic table 
+783; 0.76; The body of water in front of you; was formed; by a glacier
+784; 0.88; The body; takes; food protein
+785; 0.91; The cell structure; is basically; cytoplasm, nucleus, and wall
+786; 0.84; The compositions of the earth and moon; are; too different
+787; 0.94; The course; explores; ecological adaptations of mammals for surviving the winter in northern latitudes
+788; 0.94; The crust; covers; the outer ridged layer of the earth called the lithosphere
+788; 0.94; the outer ridged layer of the earth; called; the lithosphere
+789; 0.95; The determination of energy fluxes and temperature of lakes; using; satellite images
+790; 0.70; The difference; will be; that we will spend more time exploring and studying the varied habitats, diversity of species, and interconnection of the habitats and organisms in the ecosystem as a whole
+791; 0.93; The documentary; looks; at how farmers are learning about ecology and discovering how to produce crops with less pesticides, often eliminating these toxic chemicals altogether
+791; 0.87; farmers; are learning; about ecology
+791; 0.85; farmers; discovering; how to produce crops with less pesticides
+792; 0.97; The downward force on the air; is; equal and opposite to the upward force on the wing
+793; 0.93; The earth; is; a dynamic planet 
+794; 0.96; The end result; is; less pesticide use, reduced waste, and implementation of more environmentally friendly pest control approaches
+795; 0.95; The equipment to accomplish this; consists; only of a water meter suitable for use in hot water
+796; 0.92; The evolution of birds; provides; an example
+797; 0.89; naked proteins; can cause; infectious diseases
+797; 0.45; The first; is; that naked proteins--prions--can be infectious and can cause infectious diseases
+798; 0.95; The first process of producing complete desiccation; is; no easy matter
+798; 0.94; the temperature; must be; sufficient to drive off the water, but not so great
+798; 0.88; the temperature; to drive off not so great; the water
+799; 0.93; The force of the water; was used; to move turbines and create electricity
+799; 0.87; The force of the water; to create; electricity
+800; 0.90; The formula; targets; heavy metal toxins and the circulatory system
+801; 0.96; The function of xylem; is; to transport water up the stem of the plant from the roots to the leaves and other growing parts
+802; 0.96; The gall bladder; is; a small pear-shaped organ attached to the underside of the liver
+802; 0.80; a small pear-shaped organ; attached; 
+803; 0.91; The group 2 elements; to form; organometallic compounds
+804; 0.90; visible sunlight; striking; the surface of the moon
+804; 0.91; The intensity of visible sunlight; is essentially; the same as at the surface of the earth
+805; 0.92; The land; was planted; to corn then
+806; 0.91; The lava; flows; into the rivers
+806; 0.94; The lava that flows into the rivers; reaches; the ocean
+807; 0.90; The light; attracts; small fish and invertebrates
+807; 0.88; invertebrates; attract; the large predators
+808; 0.92; The long term result; should be; an increase in the quantity of project area
+809; 0.97; The main function of these cells; is; to carry oxygen from the lungs to the body tissue and to transfer carbon dioxide from the tissues to the lungs
+810; 0.90; The manufacturer; can provide; specific guidelines for using the product
+811; 0.91; The medicinal part of the plant; is; its fleshy underground stem
+812; 0.90; The metabolism of tyrosine in humans; takes primarily; in the liver
+813; 0.89; The most important use; is; in your daily diet for a mineral supply
+813; 0.90; a mineral supply; needs; for optimum health
+814; 0.94; the dinosaur; ruled; the planet; Then; 225 million years ago
+815; 0.94; The newly emerged dragonfly; pumps; blood; into the wing veins
+816; 0.94; The observations; may be; due to aggregation phenomena of water molecules in the crystalline phase
+817; 0.93; The organisms in a food chain; can be; either producers , consumers , or decomposers
+818; 0.93; The oxygen evolution by photosynthesis; must compensate; for the oxygen use by respiration
+819; 0.94; The product of this process; is; a record for each property
+820; 0.96; The property of luster; is; dependent upon absorption, reflection, or refraction of light by the mineral surface
+820; 0.39; luster; is dependent upon; absorption
+821; 0.83; bean plants; growing; in them; on the windowsill
+822; 0.68; minerals; can be added; 
+823; 0.91; the road space; released; by the fewer cars
+823; 0.91; the fewer cars; entering; the city
+824; 0.79; dozens of other smaller steps; have not been documented; 
+825; 0.78; two preventive measures; can use; to protect themselves
+826; 0.62; they; elicit; a rapid release of insulin
+826; 0.89; the hormone; regulates; blood-sugar levels
+827; 0.95; the death of one key species in an ecosystem; triggers; the extinction of other species
+828; 0.97; The relationship between melting and boiling points, other physical properties, and the presence of impurities; lead; the student; to investigate the difference between pure substances and mixtures
+828; 0.90; the student; to investigate; the difference between pure substances and mixtures
+829; 0.94; These activities; have contaminated; the region; with several hazardous substances,including zinc, copper, lead, arsenic and cadmium
+830; 0.30; These; are; plants that grow in the soil
+830; 0.83; plants; grow; in the soil
+831; 0.39; These; are taken up; by cells in our digestive system; mainly in the small intestine
+831; 0.50; These; released; to the blood
+831; 0.74; they; are transported; to all the cells of the body; the blood
+832; 0.91; These common landforms; are caused; by deposition of sediment along a coast
+833; 0.91; These energy sources; can be converted; into heat, electricity and mechanical energy
+834; 0.91; These geologic formations; consist mainly; of sodium chloride rock
+834; 0.92; the same substance; is; in a salt shaker on the kitchen table
+835; 0.90; These insects; become; food
+836; 0.92; The selection pressures; led; to inbred love of sports
+836; 0.88; The selection pressures that led to inbred love of sports; were; most likely
+837; 0.94; These organisms; live; in the blood stream of both salt water and freshwater fish
+838; 0.95; These periodic extinction events, previously thought to have been random; included; the extinction of the dinosaurs; 65 million years ago
+839; 0.90; These rocks; are dissolved; by groundwater
+840; 0.91; These two factors; determine; the resolution
+841; 0.87; an element; has; properties of that element; still
+841; 0.94; The smallest subdivision of an element; is; an atom
+842; 0.77; The spores; are blown; to
+842; 0.89; The spores; infect; flower petals of canola plants
+843; 0.92; The strength of the gravitational force; depends; on the masses of the objects and on the distance between them
+844; 0.90; The students; should be; able to state the main characteristics of mammals
+844; 0.89; The students; to state; the main characteristics of mammals
+844; 0.72; mammals; are; warm blooded
+845; 0.90; The student; will predict; the number of daylight hours; at any place on earth on any date
+846; 0.94; The sweet-water sap; is boiled; in pans; to evaporate the liquid; then
+847; 0.90; The upper rocks; composed; of sandy limestone
+847; 0.92; The upper rocks, composed of sandy limestone; contain; fossils of fish, mollusks and coral
+849; 0.88; The wedged shape of the vertebral body; is; characteristic
+850; 0.91; The white cloud; is actually; water droplets
+851; 0.93; The white spots around the galaxy; are; the hundred and more globular clusters of stars
+851; 0.67; stars; surround; it
+852; 0.62; They; are organized; into two main categories
+853; 0.48; They; are; solid substances that are a good conductors of heat and electricity
+853; 0.89; solid substances; are; a good conductors of heat and electricity
+854; 0.62; They; are therefore; a genetically modified food
+855; 0.58; They; can be called; engines; because they transform one form of energy into mechanical energy
+855; 0.62; they; transform; one form of energy; into mechanical energy
+856; 0.51; They; may eat; flower petals and other soft plant parts
+857; 0.62; They; nurture; organisms which span the scale of evolution and communities
+857; 0.90; organisms; span; the scale of evolution and communities
+857; 0.68; communities; have existed; 
+858; 0.50; This; can be used; to produce a number of genetically identical offspring from a population of cells
+858; 0.45; This; to produce; a number of genetically identical offspring from a population of cells
+859; 0.38; This; can range; from a few hours a week; to 24 hours each day
+860; 0.90; This chapter; deals; with the attempts by scientists
+860; 0.91; the atom; was; consistent with experimental evidence
+861; 0.40; This; helps; the plants grow better
+862; 0.50; This; includes; not only species of plants, animals and other organisms but also the range of genetic stocks within each species, and the variety of different ecosystems
+863; 0.32; This; is; a result of the fact that gas molecules move independently of one another and often at high speeds
+863; 0.73; gas molecules; move independently; 
+864; 0.20; This; is generally recognized; as untrue; now
+864; 0.45; This; was based; upon a confusing similarity in the physical appearance of the two plants
+865; 0.73; This record; was compiled; 
+865; 0.89; This record; from analyzing; bubbles of fossilized air
+865; 0.90; fossilized air; trapped; in ice cores
+866; 0.90; This regression; most likely would have caused; a climate change
+866; 0.89; This regression; increased; global temperatures
+867; 0.38; This; results; in a succession of fossil types
+868; 0.73; This substance; was thought; 
+868; 0.89; This substance; to be; the toxic chemical causing the disease
+868; 0.91; the toxic chemical; causing; the disease
+869; 0.77; This tremendous grass competition; seemed; 
+869; 0.94; This tremendous grass competition; to have; no effect on survival and rate of growth of most hybrid cottonwood or willow plants
+870; 0.32; This; will help; the stomach digest proteins and carbohydrates
+871; 0.90; the energy; deposited; within the sample chamber
+871; 0.93; the energy deposited within the sample chamber; to affect; the solvent water and possibly protein-bound water molecules
+871; 0.22; This; would indicate; that the energy deposited within the sample chamber was sufficient to affect the solvent water and possibly protein-bound water molecules
+872; 0.89; few products; could have; as significant an environmental benefit as green power
+873; 0.91; the form salt; comes; to be in the matter of chlorine and sodium
+873; 0.90; the form salt; to be; in the matter of chlorine and sodium
+874; 0.93; space weather forecasting; is; in a situation similar to that of weather forecasting half a century ago; Today
+875; 0.38; most; commonly accepted; hypothesis among scientists
+875; 0.97; the most commonly accepted hypothesis among scientists; is; the asteroid theory; Today
+876; 0.90; Trophic levels; are; the levels in a food chain
+876; 0.93; organisms; typically feed; a food chain
+877; 0.93; Vitamins; are; essential for the normal growth and development of a multicellular organism
+878; 0.94; Wastewater; is; a complex mixture of mineral and organic matter
+879; 0.89; Waterlilies; are; examples of rooted floating-leafed plants
+880; 0.39; We; need; essential nutrients; to survive
+881; 0.81; plants; use; energy; from the sun
+882; 0.94; a stream; enters; a standing body of water the sudden decrease in velocity causes deposition of sediment
+882; 0.93; the sudden decrease in velocity; causes; deposition of sediment
+882; 0.90; a deposit; called; a delta
+883; 0.78; dissolved oxygen levels; reach; zero
+883; 0.74; the waters; to be; anoxic
+884; 0.90; energy resources; are regulated; by government
+885; 0.65; you; are diagnosed; with diabetes; already
+885; 0.84; eating a healthy diet; is; important
+885; 0.37; you; trying; to prevent it
+886; 0.81; laws; prohibiting; predatory behavior
+886; 0.93; laws prohibiting predatory behavior; have been; on the books in all 50 states; long
+886; 0.62; they; have mostly languished; for the past two or three decades
+887; 0.89; X-rays; are; energy
+887; 0.89; electromagnetic waves; are produced; by an x-ray machine
+888; 0.90; the sun; rises; in the east
+889; 0.46; You; can try; it
+889; 0.93; the full moon; happens; to be the same apparent size in the sky as the sun
+889; 0.93; the full moon; to be; the same apparent size in the sky as the sun
+890; 0.84; Zinc and barium metals; are; toxic
